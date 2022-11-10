@@ -1,0 +1,32 @@
+site_name: Grupo 3
+
+repo_url: https://github.com/Requisitos-de-Software/2022.2-Grupo3-REQ
+
+theme:
+  name: material
+  language: pt-BR
+  font:
+    text: Roboto
+  
+  palette: 
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+    
+  icon:
+    repo: fontawesome/brands/github
+  logo: assets/images/favicon.png
+  features:
+    - header.autohide
+    - navigation.tabs
+    - navigation.top
