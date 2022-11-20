@@ -1,5 +1,10 @@
-# 2022.2-Grupo3
+# MEI
 
+ ##  💻 Visão Geral
+ 
+Este repositório será para aprofundarmos e trabalharmos os conhecimentos com relação a matéria Requisitos de Software da faculdade do Gama (FGA).
+
+## 👨‍💻 Desenvolvedores
 
 ## Equipe:
 |Foto | Nome            | GitHub      | E-mail       | 
@@ -10,3 +15,12 @@
 | <img width='80' heigth='80' align='center' src='/assets/imagem/joao.jpeg'> | Joao Lucas Pinto Vasconcelos | Hackairos | vasconcelos.joao@aluno.unb.br |
 | <img width='80' heigth='80' align='center' src='/assets/imagem/pedro.jpeg'> | Pedro Lucas Siqueira Fernandes | PedroLSF | fernandes.siqueira@aluno.unb.br |
 | <img width='80' heigth='80' align='center' src='/assets/imagem/thiago.jpeg'> | Thiago Oliveira Cunha | Thiab394| thiago.cunha@aluno.unb.br |
+
+
+## Apresentações
+
+  |Conteúdo|Vídeo| 
+  |----|------|
+  |Planejamento||
+
+
