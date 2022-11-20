@@ -1,4 +1,4 @@
-site_name: Grupo 3
+site_name: MEI
 
 repo_url: https://github.com/Requisitos-de-Software/2022.2-Grupo3-REQ
 
@@ -10,15 +10,15 @@ theme:
   
   palette: 
     - scheme: default
-      primary: indigo
-      accent: indigo
+      primary: yellow
+      accent: green
       toggle:
         icon: material/brightness-7 
         name: Switch to dark mode
 
     - scheme: slate
-      primary: indigo
-      accent: indigo
+      primary: green
+      accent: yellow
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
