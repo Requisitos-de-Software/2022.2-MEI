@@ -1,8 +1,10 @@
+# Metodologia 
+
+## Histórico de Revisão
+
 |Data|Versão|Descrição|Autor|CoAutor|
 | :----------: | :------: | :-----------: | :---------: |:---------: |
 |20/11/2022|1.0|Criação do Documento de Metodologia| [Arthur Taylor](https://github.com/Eruel6)|[Thiago Oliveira](https://github.com/Thiab394)
-
-# Metodologia 
 
 ## Sprints
 
