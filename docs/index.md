@@ -21,12 +21,12 @@ Este repositório destina-se à matéria de Requisitos de Software da Universida
 
 |Foto | Nome| GitHub| E-mail| 
 |:-----:|:-----:|:-----:|:-----:|
-| <img width='100'  src='../../assets/fotoEquipe/ana.jpeg'> | Ana Luiza Hoffmann Ferreira | [AnHoff](https://github.com/AnHoff) | ana.hoffmann@aluno.unb.br |
-| <img width='100'  src='../../assets/fotoEquipe/arthur.jpeg'> | Arthur Taylor de Jesus Popov | [Eruel6](https://github.com/Eruel6) | arthur.popov@aluno.unb.br |
-| <img width='100'  src='../../assets/fotoEquipe/eduardo.jpg'> | Eduardo Schuindt Santos | [edudsan](https://github.com/edudsan) | eduardo.schuindt@aluno.unb.br |
-| <img width='100'  src='../../assets/fotoEquipe/joao.jpeg'> | Joao Lucas Pinto Vasconcelos | [Hackairos](https://github.com/HacKairos) | vasconcelos.joao@aluno.unb.br |
-| <img width='100'  src='../../assets/fotoEquipe/pedro.jpeg'> | Pedro Lucas Siqueira Fernandes | [PedroLSF](https://github.com/PedroLSF) | fernandes.siqueira@aluno.unb.br |
-| <img width='100'  src='../../assets/fotoEquipe/thiago.jpeg'> | Thiago Oliveira Cunha | [Thiab394](https://github.com/Thiab394)| thiago.cunha@aluno.unb.br |
+| <img width='100'  src='assets/fotoEquipe/ana.jpeg'> | Ana Luiza Hoffmann Ferreira | [AnHoff](https://github.com/AnHoff) | ana.hoffmann@aluno.unb.br |
+| <img width='100'  src='assets/fotoEquipe/arthur.jpeg'> | Arthur Taylor de Jesus Popov | [Eruel6](https://github.com/Eruel6) | arthur.popov@aluno.unb.br |
+| <img width='100'  src='assets/fotoEquipe/eduardo.jpg'> | Eduardo Schuindt Santos | [edudsan](https://github.com/edudsan) | eduardo.schuindt@aluno.unb.br |
+| <img width='100'  src='assets/fotoEquipe/joao.jpeg'> | Joao Lucas Pinto Vasconcelos | [Hackairos](https://github.com/HacKairos) | vasconcelos.joao@aluno.unb.br |
+| <img width='100'  src='assets/fotoEquipe/pedro.jpeg'> | Pedro Lucas Siqueira Fernandes | [PedroLSF](https://github.com/PedroLSF) | fernandes.siqueira@aluno.unb.br |
+| <img width='100'  src='assets/fotoEquipe/thiago.jpeg'> | Thiago Oliveira Cunha | [Thiab394](https://github.com/Thiab394)| thiago.cunha@aluno.unb.br |
 
 
 </center>
