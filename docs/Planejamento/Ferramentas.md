@@ -4,8 +4,8 @@
 
 |Data|Versão|Descrição|Autor|CoAutor|
 | :----------: | :------: | :-----------: | :---------: |:---------: |
-|14/09/2022|1.0|Criação do Documento de Ferramentas Utilizadas| [Joao Lucas](https://github.com/HacKairos)|[Ana Luiza](https://github.com/AnHoff)
-|14/09/2022|1.1|Adição de imagens e descrições| [Ana Luiza](https://github.com/AnHoff)|[Joao Lucas](https://github.com/HacKairos)
+|14/11/2022|1.0|Criação do Documento de Ferramentas Utilizadas| [Joao Lucas](https://github.com/HacKairos)|[Ana Luiza](https://github.com/AnHoff)
+|14/11/2022|1.1|Adição de imagens e descrições| [Ana Luiza](https://github.com/AnHoff)|[Joao Lucas](https://github.com/HacKairos)
 |20/11/2022|1.2|Ajuste das logos das ferramentas que nao estavam aparecendo| [Thiago Oliveira](https://github.com/Thiab394)|[Joao Lucas](https://github.com/HacKairos) e [Ana Luiza](https://github.com/AnHoff)
 
 ## Ferramentas
