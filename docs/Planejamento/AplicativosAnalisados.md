@@ -29,7 +29,8 @@ Com o App MEI você pode:
 * Conseguir informações gerais, como dados de natureza jurídica através do CNPJ ou a situação de débitos tributários; 
 * Ficar por dentro de informes gerais sobre sobre MEI e SIMEI.
 
-**Rich Picture:** [PDF](../../assets/richPictures/RichPictureMEI.pdf)
+**Rich Picture v.1:** [PDF v.1](../../assets/richPictures/RichPictureMEI.pdf)<br>
+**Rich Picture v.2:** [PDF v.2](../../assets/richPictures/RichPictureMEI2.pdf)
 
 ## Portal da Cidadania do Governo da Paraíba
 
