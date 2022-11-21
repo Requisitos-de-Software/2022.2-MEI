@@ -25,14 +25,14 @@ Foi de comum acordo também a decisão de que os artefatos confeccionados devem 
 
 | Ferramenta | Descrição |
 | :-: | :-: |
-| Github  <img src="https://github.com/Requisitos-de-Software/2022.2-MEI/blob/Mk-docs/docs/assets/ferramentasLogo/github.svg" width="125" height="125"></img>| A comunicação se dará através das isssues do github para assuntos mais formais e técnicos sobre o projeto| 
-| Microsoft Teams <img src="https://github.com/Requisitos-de-Software/2022.2-MEI/blob/Mk-docs/docs/assets/ferramentasLogo/microsoft-teams.svg" width="125" height="125"></img> | Para as reuniões realizadas com o grupo de forma remota será utilizada a plataforma da Microsoft a fim de facilitar a gravação de reuniões e pela facilidade de utilização desta ferramenta.| 
+| Github  <img src="../../assets/ferramentasLogo/github.svg" width="125" height="125"></img>| A comunicação se dará através das isssues do github para assuntos mais formais e técnicos sobre o projeto| 
+| Microsoft Teams <img src="../../assets/ferramentasLogo/microsoft-teams.svg" width="125" height="125"></img> | Para as reuniões realizadas com o grupo de forma remota será utilizada a plataforma da Microsoft a fim de facilitar a gravação de reuniões e pela facilidade de utilização desta ferramenta.| 
 
 ### Informal
 
 | Ferramenta | Descrição |
 | :-: | :-: |
-| Telegram <img src="https://github.com/Requisitos-de-Software/2022.2-MEI/blob/Mk-docs/docs/assets/ferramentasLogo/telegram.svg" width="125" height="125"></img>| Para a troca de informações rápidas sobre o projeto e demais assuntos como dúvidas pontuais que podem ser respondidas de formas simples e clara a equipe optou pela utilização de um grupo no aplicativo "Telegram" pela facilidade e rapidez na resposta por parte dos integrantes.| 
+| Telegram <img src="../../assets/ferramentasLogo/telegram.svg" width="125" height="125"></img>| Para a troca de informações rápidas sobre o projeto e demais assuntos como dúvidas pontuais que podem ser respondidas de formas simples e clara a equipe optou pela utilização de um grupo no aplicativo "Telegram" pela facilidade e rapidez na resposta por parte dos integrantes.| 
 
 # Referências
 - SCRUM. Disponível em: https://www.desenvolvimentoagil.com.br/scrum/ Acesso em: 19 de novembro de 2022.
