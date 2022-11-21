@@ -17,7 +17,7 @@ O ID Jovem é o documento que possibilita acesso a benefícios como meia-entrada
 <br> 
 O Aplicativo demonstra características simples, como por exemplo, validar e emitir.
 
-**Rich Picture:** [PDF](../../assets/richPictures/RichPictureIDJovem.pdf)
+**Rich Picture:** [PDF](../assets/richPictures/RichPictureIDJovem.pdf)
  
 ## MEI
 
@@ -29,29 +29,29 @@ Com o App MEI você pode:
 * Conseguir informações gerais, como dados de natureza jurídica através do CNPJ ou a situação de débitos tributários; 
 * Ficar por dentro de informes gerais sobre sobre MEI e SIMEI.
 
-**Rich Picture v.1:** [PDF v.1](../../assets/richPictures/RichPictureMEI.pdf)<br>
-**Rich Picture v.2:** [PDF v.2](../../assets/richPictures/RichPictureMEI2.pdf)
+**Rich Picture v.1:** [PDF v.1](../assets/richPictures/RichPictureMEI.pdf)<br>
+**Rich Picture v.2:** [PDF v.2](../assets/richPictures/RichPictureMEI2.pdf)
 
 ## Portal da Cidadania do Governo da Paraíba
 
 O Potal da Cidadania do Governo da Paraíba é uma plataforma digital que visa facilitar a vida do cidadão que precisa dos serviços e informações da administração pública do Estado da Paraíba. O Portal da Cidadania é fruto de uma parceria entre a CODATA (Companhia de Processamento de Dados do Estado) e de vários órgãos e instituições públicas.
 
-**Rich Picture:** [PDF](../../assets/richPictures/RichPicturePortaldaCidadania.pdf)
+**Rich Picture:** [PDF](../assets/richPictures/RichPicturePortaldaCidadania.pdf)
 
 ## Auxílio Brasil GovBR
 
 O aplicativo Auxílio Brasil GovBR, desenvolvido pela CAIXA, permite que o usuário se cadastre e acesse os benefícios aos quais possui acesso. Entre suas funções, estão consultar datas de pagamentos, verificar a situação das parcelas e conferir o extrato detalhado, além de maneiras de entrar em contato com o suporte ao usuário.
 
-**Rich Picture:** [PDF](../../assets/richPictures/RichPictureAuxilioBrasil.pdf)
+**Rich Picture:** [PDF](../assets/richPictures/RichPictureAuxilioBrasil.pdf)
 
 ## Meu INSS
 
 O Meu INSS permite que o usuário peça um benefício e/ou serviço, acompanhe o andamento de pedidos, solicite sua aposentadoria, tire extratos de diveros pagamentos, agende perícia médica e muito mais. O aplicativo foi desenvolvido pelo Governo Federal e sua criação foi motivada para ajudar os trabalhadores a se informar e utilizar os serviços disponíveis relacionados ao INSS.
 
-**Rich Picture:** [PDF](../../assets/richPictures/RichPictureMeuINSS.pdf)
+**Rich Picture:** [PDF](../assets/richPictures/RichPictureMeuINSS.pdf)
 
 ## Pardal
 
 O aplicativo Pardal permite realizar denúncias no âmbito da Justiça Eleitoral. Seu uso permite e incentiva o envio de evidências capazes de ajudar a Justiça Eleitoral e o Ministério Público a combater crimes eleitorais.
 
-**Rich Picture:** [PDF](../../assets/richPictures/RichPicturePardal.pdf)
+**Rich Picture:** [PDF](../assets/richPictures/RichPicturePardal.pdf)
