@@ -1,11 +1,11 @@
 # MEI
 
-## Histórico de Revisão
+## Histórico de Versão
 
-|Data|Versão|Descrição|Autor|CoAutor|
+|Data|Versão|Descrição|Autor|Revisor|
 | :----------: | :------: | :-----------: | :---------: |:---------: |
-|20/11/2022|1.0|Criação do Documento| [Pedro Lucas](https://github.com/PedroLSF)|-
-|20/11/2022|1.1|Ajustes gerais e complementações| [Ana Luiza](https://github.com/AnHoff)|-
+|20/11/2022|1.0|Criação do Documento| [Pedro Lucas](https://github.com/PedroLSF)|[Ana Luiza](https://github.com/AnHoff)
+|20/11/2022|1.1|Ajustes gerais e complementações| [Ana Luiza](https://github.com/AnHoff)|[Pedro Lucas](https://github.com/PedroLSF)
 
 Existe um documento que comenta um pouco sobre cada um dos aplicativos analisados e que poderiam ser utilizados para o desenvolvimento desse projeto é recomendado ler tal documento e entender o que é o MEI.
 

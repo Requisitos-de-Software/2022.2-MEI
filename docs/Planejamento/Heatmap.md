@@ -1,6 +1,6 @@
 # Heatmap
 
-## Histórico de Revisão
+## Histórico de Versão
 
 |Data|Versão|Descrição|Autor|Revisor|
 | :----------: | :------: | :-----------: | :---------: |:---------: |
