@@ -19,8 +19,8 @@ Este repositório será para aprofundarmos e trabalharmos os conhecimentos com r
 
 ## Apresentações
 
-  |Conteúdo|Vídeo| 
+  |Conteúdo|Playlist com os videos| 
   |----|------|
-  |Planejamento||
+  |Planejamento|[Link](https://www.youtube.com/watch?v=OSfZTHsXr14&list=PLz1vcLMmwmQIxuz-Fg3rAzfeIJyEZpC0-&index=1&ab_channel=Jo%C3%A3oLucas)|
 
 
