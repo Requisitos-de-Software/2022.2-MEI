@@ -4,7 +4,7 @@
 
 |Data|Versão|Descrição|Autor|Revisão|
 | :----------: | :------: | :-----------: | :---------: |:---------: |
-|20/11/2022|1.0|Criação do Documento de Metodologia| [Arthur Taylor](https://github.com/Eruel6)|[Thiago Oliveira](https://github.com/Thiab394)
+|20/11/2022|1.0|Criação do Roadmap| [Arthur Taylor](https://github.com/Eruel6)|[Thiago Oliveira](https://github.com/Thiab394)
 
 ## Roadmap planejado
 
