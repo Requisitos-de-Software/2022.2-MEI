@@ -1,5 +1,10 @@
 # Politica de Pull Request
 
+## Histórico de Versão
+|Data|Versão|Descrição|Autor|Revisor|
+| :----------: | :------: | :-----------: | :---------: |:---------: |
+|11/09/2022|1.0|Criação do Documento de Políticas| [Joao Lucas](https://github.com/HacKairos)|
+
 ## Criação de _Pull Request_
 
 Considere uma situação hipotética onde estamos querendo criar um PR de uma _branch_ chamada **Sprints** para a _master_.

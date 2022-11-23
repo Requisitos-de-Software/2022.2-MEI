@@ -1,5 +1,11 @@
 # Politica de Commit
 
+## Histórico de Versão
+|Data|Versão|Descrição|Autor|Revisor|
+| :----------: | :------: | :-----------: | :---------: |:---------: |
+|11/09/2022|1.0|Criação do Documento de Políticas| [Joao Lucas](https://github.com/HacKairos) | [Ana Luiza](https://github.com/AnHoff)
+|23/09/2022|1.1|Ajustes nos exemplos de commits| [Ana Luiza](https://github.com/AnHoff) | [Joao Lucas](https://github.com/HacKairos)|
+
 ## Criação de _commits_
 
 &emsp;&emsp;Os _commits_ devem seguir o seguinte padrão:
@@ -14,16 +20,16 @@ Descrição sucinta
 Cria um novo documento
 ```
 
-* A língua do _commit_ deverá seguir como idioma padrão o inglês
+* A língua do _commit_ deverá seguir como idioma padrão o português
 
-    * Como o trabalho será codificado em inglês, os _commits_ de código e documentação devem ser escritos em inglês.
+    * Como o trabalho será codificado em português, os _commits_ de código e documentação devem ser escritos em português.
     ```
-    Creates a new class
+    Cria uma nova classe
     ```
 
 * Caso tenha alguma _tag_ referente, deverá ser usado o número da _issue_ correspondente.
 ```
-[Issue_01] Creates a new class
+[Issue_01] Cria uma nova classe
 ```
 
 * A _tag_ deverá ser separada por underline, nunca por espaço.
@@ -32,5 +38,5 @@ Cria um novo documento
 
 * _Commit_ referente a código ou documento com _tag_
 ```
-[Issue_11] Updates something
+[Issue_11] Atualiza algo
 ```
