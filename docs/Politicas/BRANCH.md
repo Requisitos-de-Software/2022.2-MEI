@@ -1,5 +1,10 @@
 # Politica de Branch
 
+## Histórico de Versão
+|Data|Versão|Descrição|Autor|Revisor|
+| :----------: | :------: | :-----------: | :---------: |:---------: |
+|11/09/2022|1.0|Criação do Documento de Políticas| [Joao Lucas](https://github.com/HacKairos)|[Pedro Lucas](https://github.com/PedroLSF)
+
 ## Criação de _Branches_
 
 ![image](https://user-images.githubusercontent.com/57872849/181653398-26fa46ee-f50c-4b36-a94c-5c7b89bfa603.png)
