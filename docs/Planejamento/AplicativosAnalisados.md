@@ -8,6 +8,7 @@
 |20/11/2022|1.1|Complementações sobre os apps| [Ana Luiza](https://github.com/AnHoff)|[Pedro Lucas](https://github.com/PedroLSF)
 |21/11/2022|1.2|Adiciona Rich Pictures| [Ana Luiza](https://github.com/AnHoff)|[Pedro Lucas](https://github.com/PedroLSF)
 |22/11/2022|1.3|Adiciona referências bibliográficas| [Ana Luiza](https://github.com/AnHoff)|[Pedro Lucas](https://github.com/PedroLSF)
+|25/11/2022|1.4|Adiciona imagem do Rich Picture| [Ana Luiza](https://github.com/AnHoff)|[Pedro Lucas](https://github.com/PedroLSF)
 
 Antes de definir o aplicativo conhecido como MEI, a equipe realizou algumas pesquisas e trabalhos relacionados a outros aplicativos. Este documento irá listar e apresentar todos os aplicativos que foram levantados. <br>
 Caso queira ir diretamente às informações específicas do MEI, clique [aqui](MEI.md).
@@ -29,6 +30,11 @@ Com o App MEI você pode:
 * Gerar guia de pagamento do DAS; 
 * Conseguir informações gerais, como dados de natureza jurídica através do CNPJ ou a situação de débitos tributários; 
 * Ficar por dentro de informes gerais sobre sobre MEI e SIMEI. [2]
+
+O Rich Picture do aplicativo pode ser conferido abaixo, na figura 1, ou em PDF.
+
+![Rich Picture MEI](../../assets/richPictures/RichPictureMEI2.png)<br>
+*Figura 1 - Rich Picture versão 2 do aplicativo MEI*
 
 **Rich Picture v.2:** [PDF v.2](../assets/richPictures/RichPictureMEI2.pdf)<br>
 **Rich Picture v.1:** [PDF v.1](../assets/richPictures/RichPictureMEI.pdf)
