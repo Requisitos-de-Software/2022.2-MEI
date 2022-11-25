@@ -29,5 +29,3 @@ Apresentação da equipe na Tabela 1 :
   |Planejamento|https://youtu.be/OSfZTHsXr14|
 
 </center>
-
-
