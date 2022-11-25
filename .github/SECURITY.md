@@ -2,8 +2,7 @@
 
 ## Versões suportadas
 
-Use esta seção para dizer às pessoas quais são as versões do seu projeto
-atualmente sendo suportado com atualizações de segurança.
+Use esta seção para dizer às pessoas quais são as versões do seu projeto atualmente sendo suportado com atualizações de segurança.
 
 | Version | Supported          |
 | ------- | ------------------ |
@@ -13,6 +12,4 @@ atualmente sendo suportado com atualizações de segurança.
 
 Use esta seção para dizer às pessoas como relatar uma vulnerabilidade.
 
-Diga-lhes para onde ir, quantas vezes eles podem esperar para obter uma atualização em um
-vulnerabilidade relatada, o que esperar se a vulnerabilidade for aceita ou
-declinou, etc.
+Diga-lhes para onde ir, quantas vezes eles podem esperar para obter uma atualização em uma vulnerabilidade relatada, o que esperar se a vulnerabilidade for aceita, etc.

@@ -35,3 +35,8 @@ permanentemente qualquer colaborador por qualquer outro comportamento que se con
 <p align = "justify"> &emsp;&emsp;Este Código de Conduta aplica-se dentro dos espaços do projeto ou qualquer espaço público onde alguém represente o mesmo ou a sua comunidade. Exemplos de representação do projeto ou comunidade incluem usar um endereço de email oficial do projeto, postar por uma conta de
 mídia social oficial, ou agir como um representante designado num evento online ou offline. A representação de um projeto pode ser ainda definida e esclarecida pelos administradores do projeto.</p>
 
+## Aplicação
+
+<p align = "justify"> &emsp;&emsp;Comportamento abusivo, de assédio ou de outros tipos pode ser comunicado contatando a equipe do projeto <b>vamoscuidar.unb@gmail.com</b>. Todas as queixas serão revistas e investigadas e resultarão numa resposta necessária e apropriada à situação. A equipe é obrigada a manter a confidencialidade em relação ao elemento que reportou o incidente. Demais detalhes de políticas de aplicação podem ser postadas separadamente.</p>
+
+<p align = "justify"> &emsp;&emsp; Administradores do projeto que não sigam ou não mantenham o Código de Conduta em boa fé podem enfrentar repercussões temporárias ou permanentes determinadas por outros membros da liderança do projeto.</p>

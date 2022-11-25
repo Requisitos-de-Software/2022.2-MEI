@@ -24,7 +24,7 @@ Considere uma situação hipotética onde estamos querendo criar um PR de uma _b
 * **Lembrando**: assim que for realmente finalizado as alterações referentes ao _pull request_, deve-se retirar a tag **WIP**.
 
 <img src="https://user-images.githubusercontent.com/57872849/181664869-28a47783-943e-45ff-88e2-884cec043d67.png" width="500">
- 
+
 #### Adicione os _reviewers_ 
 
 * Assinale os _reviewers_, ou seja, aqueles responsáveis à análise do _pull request_. Por exemplo, caso sua _feature_ esteja relacionada a arquitetura do projeto, assinale o **EPS** que desempenha esse papel.

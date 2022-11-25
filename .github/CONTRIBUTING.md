@@ -4,7 +4,7 @@
 
 * Acesse os repositórios do projeto no GitHub:
     * [Repositório Grupo 3](https://github.com/Requisitos-de-Software/2022.2-Grupo3-REQ).
-* Acesse a [GitHub Page](https://interacao-humano-computador.github.io/2022.2-Grupo3-IHC/) do projeto para saber mais sobre seus fundamentos
+* Acesse a [GitHub Page](https://interacao-humano-computador.github.io/2022.2-Grupo3-REQ/) do projeto para saber mais sobre seus fundamentos
  e propósitos.
 
 
