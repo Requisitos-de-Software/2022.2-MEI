@@ -1,4 +1,3 @@
-<center>
 <h1 align="center">MEI - Microempreendedor Individual</h1>
 <p align="center"><img src="/docs/assets/images/favicon.png" alt="MEI" width="10%" /></p> 
 
@@ -27,5 +26,3 @@ Apresentação da equipe na Tabela 1 :
   |Conteúdo|Playlist com os videos| 
   |----|------|
   |Planejamento|https://youtu.be/OSfZTHsXr14|
-
-</center>
