@@ -1,6 +1,6 @@
 <center>
-<h1>MEI - Microempreendedor Individual</h1>
-<img src="/docs/assets/images/favicon.png" alt="SimplesNacional" width="10%" />
+<h1 align="center">MEI - Microempreendedor Individual</h1>
+<p align="center"><img src="/docs/assets/images/favicon.png" alt="MEI" width="10%" /></p> 
 
 
 ## Sobre o projeto
