@@ -1,8 +1,8 @@
 # Politica de Segurança
 
 ## Histórico de Versão
-|Data|Versão|Descrição|Autor|Revisor|
-| :----------: | :------: | :-----------: | :---------: |:---------: |
+|Data|Versão|Descrição|Autor|
+| :----------: | :------: | :-----------: | :---------: |
 |11/09/2022|1.0|Criação do Documento de Políticas| [Joao Lucas](https://github.com/HacKairos)|
 
 ## Versões suportadas
