@@ -1,4 +1,4 @@
-# Reunião 19/11/2022 
+# 3ª Reuniao
 
 ## Histórico de Versão
 
@@ -11,7 +11,7 @@
 
 ## Local e horário
 
-A reunião foi realizada de forma remota às 16:45h, utilizando a prataforma Microsoft Teams.
+A reunião foi realizada de forma remota no dia 19 de Novembro de 2022, às 16:45h, utilizando a prataforma Microsoft Teams.
 
 ## Presentes
 
@@ -35,9 +35,14 @@ Clique [aqui](https://youtu.be/XOIeLpFNc-w) para ser redirecionado ao YouTube.
 O grupo discutiu sobre os site que foram analisados pelos intergrantes e chegaram a decisão de utilizar o site "Simples Nacional"
 
 ### Reponsáveis 
+<center>
+A seguir os artefatos e seus respectivos Responsaveis na tabela 1 :
 
 | Artefato | Dupla responsável |
 | :-: | :-: |
 | Finalizar o planejamento | Arthur e Thiago |
 | Landpage github pages | Eduardo e João|
 | Sites analisados | Ana e Pedro |
+
+*Tabela 1 - Artefatos/Responsaveis*
+</center>

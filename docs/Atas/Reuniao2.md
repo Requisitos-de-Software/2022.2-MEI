@@ -1,4 +1,4 @@
-# Reunião 22/11/2022
+# 2ª Reuniao
 
 ## Histórico de Versão
 
@@ -11,7 +11,7 @@
 
 ## Local e horário
 
-A reunião foi realizada de forma remota, utilizando a prataforma Microsoft Teams, teve início às 15:00h (foi realizada em horário exepcional devido a indospinibilidade de um membro do grupo no horário previsto, com o grupo concordando em adianta-lá).
+A reunião foi realizada de forma remota, no dia 12 de Novembro de 2022, utilizando a prataforma Microsoft Teams, teve início às 15:00h (foi realizada em horário exepcional devido a indospinibilidade de um membro do grupo no horário previsto, com o grupo concordando em adianta-lá).
 
 ## Presentes
 
@@ -31,10 +31,15 @@ Clique [aqui](https://youtu.be/dgPIWv2J9-8) para ser redirecionado ao YouTube.
 
 ## Conclusão
 
-### Reponsáveis 
+### Artefatos e Responsaveis
+<center>
+A seguir os artefatos e seus respectivos Responsaveis na tabela 1 :
 
 | Artefato | Dupla responsável |
 | :-: | :-: |
 | Cronograma | Arthur e Thiago |
 | Apresentação dos integrantes | Eduardo e Pedro |
 | Ferramentas Utilizadas | Ana e João |
+
+*Tabela 1 - Artefatos/Responsaveis*
+</center>

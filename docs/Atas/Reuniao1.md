@@ -1,4 +1,4 @@
-# Reunião 5/11/2022
+# 1ª Reuniao
 
 ## Histórico de Versão
 
@@ -10,7 +10,7 @@
 
 ## Local e horário
 
-A reunião foi realizada de forma remota com início às 16:15h, utilizando a prataforma Microsoft Teams.
+A reunião foi realizada de forma remota no dia 5 de Novembro de 2022, com início às 16:15h, utilizando a prataforma Microsoft Teams.
 
 ## Presentes
 
@@ -30,10 +30,13 @@ Clique [aqui](https://youtu.be/OSfZTHsXr14) para ser redirecionado ao YouTube.
 ## Conclusão
 
 ### Plataformas 
+A plataforma onde foi realizada a reuniao segue na tabale 1.
 
 | Ferramenta | Descrição |
 | :-: | :-: |
 | Microsoft Teams <img src="../../assets/ferramentasLogo/microsoft-teams.svg" width="125" height="125"></img> | Foi decidido que para as reuniões realizadas com o grupo de forma remota será utilizada a plataforma da Microsoft a fim de facilitar a gravação de reuniões.| 
+
+*Tabela 1 - Teams*
 
 ### Horário
 
