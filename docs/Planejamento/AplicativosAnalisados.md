@@ -33,8 +33,7 @@ Com o App MEI você pode:
 
 O Rich Picture do aplicativo pode ser conferido abaixo, na figura 1, ou em PDF.
 
-![Rich Picture MEI](/../assets/richPictures/RichPictureMEI2.png)<br>
-*Figura 1 - Rich Picture versão 2 do aplicativo MEI*
+<img src="/../assets/richPictures/RichPictureMEI2.png" width="1000"><br>*Figura 1 - Rich Picture versão 2 do aplicativo MEI*</img>
 
 **Rich Picture v.2:** [PDF v.2](../assets/richPictures/RichPictureMEI2.pdf)<br>
 **Rich Picture v.1:** [PDF v.1](../assets/richPictures/RichPictureMEI.pdf)
