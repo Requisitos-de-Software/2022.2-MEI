@@ -27,3 +27,5 @@ Neste documento estão apresentados as ferramentas que estão sendo, serão ou j
 |<img src="../../assets/ferramentasLogo/youtube.svg" width="100" height="100"></img> | **YouTube**: Utilizado para compartilhar apresentações e disponibilizar as reuniões para o professor. |
 |<img src="../../assets/ferramentasLogo/visual-studio-code.svg" width="100" height="100"></img> | **Visual Studio Code**: Ferramenta de programação, utilizada para montar o github pages. |
 |<img src="../../assets/ferramentasLogo/uxpressia.png" width="100" height="100"></img> | **UXPRESSIA**: Ferramenta de mapeamento da jornada dos clientes e criação de personas. |
+
+<figcaption align="center">Tabela 1 - Ferramentas Utilizadas</figcaption>
