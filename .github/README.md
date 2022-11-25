@@ -1,26 +1,33 @@
-# MEI
+<center>
+<h1>MEI - Microempreendedor Individual</h1>
+<img src="/docs/assets/images/favicon.png" alt="SimplesNacional" width="10%" />
 
- ##  💻 Visão Geral
- 
-Este repositório será para aprofundarmos e trabalharmos os conhecimentos com relação a matéria Requisitos de Software da faculdade do Gama (FGA).
 
-## 👨‍💻 Desenvolvedores
+## Sobre o projeto
+Este repositório destina-se à matéria de Requisitos de Software da Universidade de Brasília. Possui o objetivo de analisar o aplicativo [MEI](https://play.google.com/store/apps/details?id=br.gov.fazenda.receita.mei&gl=US), aplicando conceitos aprendidos na discplina.
 
-## Equipe:
-|Foto | Nome            | GitHub      | E-mail       | 
-|-----|-----------------|-------------|-------------|
-| <img width='80' heigth='80' align='center' src='/assets/imagem/ana.jpeg'> | Ana Luiza Hoffmann Ferreira | AnHoff | ana.hoffmann@aluno.unb.br |
-| <img width='80' heigth='80' align='center' src='/assets/imagem/arthur.jpeg'> | Arthur Taylor de Jesus Popov | Eruel6 | arthur.popov@aluno.unb.br |
-| <img width='80' heigth='80' align='center' src='/assets/imagem/eduardo.jpg'> | Eduardo Schuindt Santos | edudsan | eduardo.schuindt@aluno.unb.br |
-| <img width='80' heigth='80' align='center' src='/assets/imagem/joao.jpeg'> | Joao Lucas Pinto Vasconcelos | Hackairos | vasconcelos.joao@aluno.unb.br |
-| <img width='80' heigth='80' align='center' src='/assets/imagem/pedro.jpeg'> | Pedro Lucas Siqueira Fernandes | PedroLSF | fernandes.siqueira@aluno.unb.br |
-| <img width='80' heigth='80' align='center' src='/assets/imagem/thiago.jpeg'> | Thiago Oliveira Cunha | Thiab394| thiago.cunha@aluno.unb.br |
+
+## Equipe
+Apresentação da equipe na Tabela 1 :
+
+|Foto | Nome| GitHub| E-mail| 
+|:-----:|:-----:|:-----:|:-----:|
+| <img width='100'  src='/docs/assets/fotoEquipe/ana.jpeg'> | Ana Luiza Hoffmann Ferreira | [AnHoff](https://github.com/AnHoff) | ana.hoffmann@aluno.unb.br |
+| <img width='100'  src='/docs/assets/fotoEquipe/arthur.jpeg'> | Arthur Taylor de Jesus Popov | [Eruel6](https://github.com/Eruel6) | arthur.popov@aluno.unb.br |
+| <img width='100'  src='/docs/assets/fotoEquipe/eduardo.jpg'> | Eduardo Schuindt Santos | [edudsan](https://github.com/edudsan) | eduardo.schuindt@aluno.unb.br |
+| <img width='100'  src='/docs/assets/fotoEquipe/joao.jpeg'> | Joao Lucas Pinto Vasconcelos | [Hackairos](https://github.com/HacKairos) | vasconcelos.joao@aluno.unb.br 
+| <img width='100'  src='/docs/assets/fotoEquipe/pedro.jpeg'> | Pedro Lucas Siqueira Fernandes | [PedroLSF](https://github.com/PedroLSF) | fernandes.siqueira@aluno.unb.br |
+| <img width='100'  src='/docs/assets/fotoEquipe/thiago.jpeg'> | Thiago Oliveira Cunha | [Thiab394](https://github.com/Thiab394)| thiago.cunha@aluno.unb.br |
+
+*Tabela 1 - Equipe*
 
 
 ## Apresentações
 
   |Conteúdo|Playlist com os videos| 
   |----|------|
-  |Planejamento|[Link](https://www.youtube.com/watch?v=OSfZTHsXr14&list=PLz1vcLMmwmQIxuz-Fg3rAzfeIJyEZpC0-&index=1&ab_channel=Jo%C3%A3oLucas)|
+  |Planejamento|https://youtu.be/OSfZTHsXr14|
+
+</center>
 
 
