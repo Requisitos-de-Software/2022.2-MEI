@@ -4,7 +4,7 @@
 |Data|Versão|Descrição|Autor|Revisão|
 | :----------: | :------: | :-----------: | :---------: |:---------: |
 |27/11/2022|1.0|Criação do documento| [Ana](https://github.com/AnHoff) | - |
-|28/11/2022|1.1|Adiciona outras técnicas e conclusão| [Ana](https://github.com/AnHoff) | - |
+|28/11/2022|1.1|Adiciona outras técnicas e conclusão| [Ana](https://github.com/AnHoff) | [João Lucas](https://github.com/HacKairos) |
 
 ## Introdução
 Para gerar valor agregado ao produto desde as primeiras entregas, é necessário saber quais requisitos elicitados serão desenvolvidos no início do processo para que haja um ponto de partida otimista para os clientes e/ou usuários. Assim, surge a necessidade de realizar a priorização dos requisitos elicitados.
@@ -19,9 +19,9 @@ Essa técnica é simples e proporciona um esquema de quatro possíveis classific
 * **M**ust: o(s) requisito(s) que deve(m) ser satisfeitos para uma entrega ser considerada bem sucedida;
 * **S**hould: são os requisitos importantes e que devem ser inclusos em uma solução caso possível, porém de maneira não obrigatória;
 * **C**ould: se refere aos requisitos desejáveis, porém dispensáveis. Ou seja, são aqueles que serão implementados apenas caso o tempo e os recursos permitirem;
-* **W**on't: requisito(s) que não será(ão) implementados em primeiro momento, mas que podem ser incluídos em versões futuras do produto.
+* **W**on't: requisito(s) que não será(ão) implementado(s) em primeiro momento, mas que podem ser incluídos em versões futuras do produto.
 
-A proposta dessa técnica é elaborar uma alternativa para a clássica divisão em três níveis (baixo, médio, alto) de prioridade. Sua aplicação é simples e rápida de realizar, porém pode apresentar furos relacionados à definição de tempo, afinal, "won't" irá significar que o requisito não será implementado na primeira release ou que nunca será implementado? Por esse fator, a técnica MoSCoW não deverá ser posta em prática sozinha nesse projeto, sendo portanto complementada pelas técnicas apresentadas abaixo.
+A proposta dessa técnica é elaborar uma alternativa para a clássica divisão em três níveis (baixo, médio, alto) de prioridade. Sua aplicação é simples e rápida de realizar, porém pode apresentar furos relacionados à definição de tempo, afinal, "won't" irá significar que o requisito não será implementado na primeira release ou que nunca será implementado? Por esse fator, a técnica MoSCoW não deverá ser posta em prática sozinha nesse projeto, sendo, portanto complementada pelas técnicas apresentadas abaixo.
 
 ## First Things First
 A técnica First Things First é um pouco mais elaborada que a MoSCoW. Ela foca na importância de equilibrar os benefícios e os custos de cada requisito, além de propor a definição das consequências que cada um deles irá gerar na arquitetura do software, o alinhamento dos requisitos com as regras de negócios e o estabelecimento do risco técnico agregado a cada um dos requisitos.
@@ -47,7 +47,7 @@ Por fim, deve-se ordenar a lista de acordo com a ordem crescente de prioridade, 
 ## Priorização baseada no valor, custo e risco
 Essa técnica de priorização propõe um método mais analítico, ideal para situações onde os stakeholders não entram em consenso sobre a prioridade de cada requisito por meio das outras técnicas. Ela utiliza, portanto, uma técnica conhecida como QFD (Quality Function Deployment), que é rigorosa na relação dos valores do cliente às features propostas pelo produto.
 
-Para priorizar os requisitos, essa técnica utiliza, normalmente, uma planilha que classifica o valor do benefício oferecido ao cliente caso o requisito seja implementado e as penalidades que a falta desse recurso pode trazer para o mesmo. Assim, essa técnica providencia uma abordagem contínua dos requisitos, sem dividí-los em certos níveis pré-definidos de prioridades. Essa característica torna tal método especialmente atrativo para classificar requisitos que não possuem uma prioridade definida. Nessa análise, não devem ser incluídos itens relacionados às funções básicas da empresa, por exemplo.
+Para priorizar os requisitos, essa técnica utiliza, normalmente, uma planilha que classifica o valor do benefício oferecido ao cliente caso o requisito seja implementado e as penalidades que a falta desse recurso pode trazer para o mesmo. Assim, essa técnica providencia uma abordagem contínua dos requisitos, sem dividi-los em certos níveis pré-definidos de prioridades. Essa característica torna tal método especialmente atrativo para classificar requisitos que não possuem uma prioridade definida. Nessa análise, não devem ser incluídos itens relacionados às funções básicas da empresa, por exemplo.
 
 Fazem parte desse processo:
 
@@ -62,7 +62,7 @@ Para iniciar o uso desse modelo de priorização de requisitos, primeiro deve-se
 Por fim, classifica-se os requisitos em ordem descendente de prioridade, tendo as funcionalidades com bom balanceamento de valor, custo e risco no topo de prioridade.
 
 ## Conclusão
-As técnicas apresentadas acima possuem diferentes níveis de complexidade. Portanto, é vantajoso aplicar todas as três técnicas citadas acima no projeto da disciplina, visto que serão fontes de grandes aprendizados e propiciarão avaliações completas e acertivas sobre a priorização de cada requisito elicitado.
+As técnicas apresentadas acima possuem diferentes níveis de complexidade. Portanto, é vantajoso aplicar todas as três técnicas citadas acima no projeto da disciplina, visto que serão fontes de grandes aprendizados e propiciarão avaliações completas e assertivas sobre a priorização de cada requisito elicitado.
 
 Por fim, também deve-se ressaltar a ampla interação da equipe do projeto com o usuário que será incentivada pelas diversas técnicas. Seja o usuário uma pessoa real ou uma persona, a interação será uma parte crucial para a definição da importância dos requisitos e, consequentemente, para a definição de todo o andamento do projeto.
 
