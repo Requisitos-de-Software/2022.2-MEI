@@ -59,7 +59,7 @@ Para iniciar o uso desse modelo de priorização de requisitos, primeiro deve-se
 
 *prioridade = (valor%) / (custo% + risco%)*
 
-Por fim, classifica-se os requisitos em ordem descendente de prioridade, tendo portanto as funcionalistas com bom balanceamento de valor, custo e risco no topo de prioridade.
+Por fim, classifica-se os requisitos em ordem descendente de prioridade, tendo as funcionalidades com bom balanceamento de valor, custo e risco no topo de prioridade.
 
 ## Conclusão
 As técnicas apresentadas acima possuem diferentes níveis de complexidade. Portanto, é vantajoso aplicar todas as três técnicas citadas acima no projeto da disciplina, visto que serão fontes de grandes aprendizados e propiciarão avaliações completas e acertivas sobre a priorização de cada requisito elicitado.
