@@ -2,9 +2,10 @@
 
 ## Histórico de Versão
 
-|Data|Versão|Descrição|Autor|Revisor|
-| :----------: | :------: | :-----------: | :---------: |:---------: |
-|28/11/2022|1.0|Criação da ata de reunião 26/11/2022| [Arthur Taylor](https://github.com/Eruel6)| [João Lucas](https://github.com/HacKairos) |
+|Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
+| :----------: |:----------:| :------: | :-----------: | :---------: |:---------: |
+|28/11/2022|29/11/2022|1.0|Criação da ata de reunião 26/11/2022| [Arthur Taylor](https://github.com/Eruel6)| [João Lucas](https://github.com/HacKairos) |
+|29/11/2022|30/11/2022|1.1|Correção do Historico de versão| [Thiago Olivera](https://github.com/Thiab394)| [Arthur Taylor](https://github.com/Eruel6)|
 
 
 
