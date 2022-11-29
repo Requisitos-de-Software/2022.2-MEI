@@ -2,11 +2,12 @@
 
 ## Histórico de Versão
 
-|Data|Versão|Descrição|Autor|Revisor|
-| :----------: | :------: | :-----------: | :---------: |:---------: |
-|22/11/2022|1.0|Criação da ata de reunião 12/11/2022| [Arthur Taylor](https://github.com/Eruel6)| [Ana Luiza](https://github.com/AnHoff) |
-|23/11/2022|1.1|Conserta link da reunião| [Ana Luiza](https://github.com/AnHoff) | [Arthur Taylor](https://github.com/Eruel6)| 
-|25/11/2022|1.2|Correção do horário de início da reunião| [Arthur Taylor](https://github.com/Eruel6)| [Ana Luiza](https://github.com/AnHoff) |
+|Data|Data de Revisão Prevista|Versão|Descrição|Autor|Revisor|
+| :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
+|22/11/2022|23/11/2022|1.0|Criação da ata de reunião 12/11/2022| [Arthur Taylor](https://github.com/Eruel6)| [Ana Luiza](https://github.com/AnHoff) |
+|23/11/2022|24/11/2022|1.1|Conserta link da reunião| [Ana Luiza](https://github.com/AnHoff) | [Arthur Taylor](https://github.com/Eruel6)| 
+|25/11/2022|26/11/2022|1.2|Correção do horário de início da reunião| [Arthur Taylor](https://github.com/Eruel6)| [Ana Luiza](https://github.com/AnHoff) |
+|29/11/2022|30/11/2022|1.3|Correção do Historico de versão e Imagens| [Thiago Olivera](https://github.com/Thiab394)| [Arthur Taylor](https://github.com/Eruel6)|
 
 
 ## Local e horário
