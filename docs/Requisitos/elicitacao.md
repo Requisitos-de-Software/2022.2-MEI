@@ -2,7 +2,7 @@
 
 |Data|Versão|Descrição|Autor|Revisão|
 | :----------: | :------: | :-----------: | :---------: |:---------: |
-|28/11/2022|1.0|Criação do documento| [Arthur Taylor](https://github.com/Eruel6) | - |
+|28/11/2022|1.0|Criação do documento| [Arthur Taylor](https://github.com/Eruel6) | [João Lucas](https://github.com/HacKairos) |
 
 Com o objetivo de atender o usuário da melhor forma possível são estudadas técnicas para entender e pririzar o que o usuário realmente deseja, estas são chamdas de técnicas de elicitação. Com auxílio destas técnicas os engenheiros podem ajustar a produção de um software para atender da melhor forma possível as nescessidades de clientes.
 
@@ -30,7 +30,7 @@ A entrevista é realizada com o usuário através de questões pré-defininidas 
 
 Com isso podemos dizer que o método de entrevista é um método mais flexível permitindo coleta de informações de caráter subjetivo, além disso aproxima o usuário do sistema no processo de criação fazendo com que se torne parte do processo de desenvolvimento do sistema.
 
-Entrevista dmendan bastante esforço para serem realizadas, com isso pode ser um técninca complexa de aplicar, além disso lidar com os dados obtidos pode se tornar difícil de lidar.  
+Entrevista demanda bastante esforço para serem realizadas, com isso pode ser um técninca complexa de aplicar, além disso lidar com os dados obtidos pode se tornar difícil de lidar.  
 
 
 ### Questionário
@@ -44,7 +44,7 @@ Por se tratar de uma técnica que abrange um grande número de usuários é infl
 
 
 ### Introspecção
-A intrsopecção é uma técnica de elicitação rica e profunda, consiste em basicamente no engenheiro de requisitos entender quais propriedades são desejáveis para o sistema possuir sucesso, toda a análise é feita com o engenheiro pensando em como desempenhar uma tarefa de forma satsfatória com determinados recursos e ferramentas.
+A introspecção é uma técnica de elicitação rica e profunda, consiste em basicamente no engenheiro de requisitos entender quais propriedades são desejáveis para o sistema possuir sucesso, toda a análise é feita com o engenheiro pensando em como desempenhar uma tarefa de forma satsfatória com determinados recursos e ferramentas.
 
 Apesar de ser muito útil possui um grande problema onde um especilista da área pode não refletir a experiência que um usuário real teria na utilização do sistema, podendo assim gerar dados erroneos, mas se utilizada com outras técnicas pode ser muito útil para ajudar a complementar as outras utilizadas.
 
@@ -56,7 +56,7 @@ Apesar de ser muito útil possui um grande problema onde um especilista da área
 
 - Introspecção: Como dito anteriormente, uma técninca muito útil quando utilizada em conjunto com outras, por isso a escolha como uma as serem utilizadas no projeto, com os integrantes do grupo podendo se colocar no lugar do usuário para conseguir informações importantes que possam vir  ser úteis e passem despercebidas com a utilização das outra técnicas.
 
-- Questionário: Escolhida para ser utilizada devido à grande quantidade possíveis de respostas sem a nescessidade de membros do grupo conduzirem de forma síncrona ou presencial a coleta de tais informações, com isso o grupo poderá ter um espaço amostral grande, para comparar e refletir se as demais técnicas possuem uma mesma linha de resultado.
+- Questionário: Escolhida para ser utilizada devido à grande quantidade de possíveis respostas sem a nescessidade de membros do grupo conduzirem de forma síncrona ou presencial a coleta de tais informações, com isso o grupo poderá ter um espaço amostral grande, para comparar e refletir se as demais técnicas possuem uma mesma linha de resultado.
 
 ## Bibliografia 
 
