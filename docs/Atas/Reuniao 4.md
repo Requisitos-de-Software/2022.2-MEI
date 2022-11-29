@@ -1,16 +1,16 @@
-# 3ª Reuniao
+# 4ª Reuniao
 
 ## Histórico de Versão
 
 |Data|Versão|Descrição|Autor|Revisor|
 | :----------: | :------: | :-----------: | :---------: |:---------: |
-|28/11/2022|1.0|Criação da ata de reunião 26/11/2022| [Arthur Taylor](https://github.com/Eruel6)| [Ana Luiza](https://github.com/AnHoff) |
+|28/11/2022|1.0|Criação da ata de reunião 26/11/2022| [Arthur Taylor](https://github.com/Eruel6)| [João Lucas](https://github.com/HacKairos) |
 
 
 
 ## Local e horário
 
-A reunião foi realizada de forma remota no dia 19 de Novembro de 2022, às 15:28h e teve término às 15:48h, utilizando a prataforma Microsoft Teams.
+A reunião foi realizada de forma remota no dia 26 de Novembro de 2022, às 15:28h e teve término às 15:48h, utilizando a prataforma Microsoft Teams.
 
 ## Presentes
 
