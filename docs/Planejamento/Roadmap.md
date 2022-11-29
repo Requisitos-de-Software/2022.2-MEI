@@ -2,10 +2,11 @@
 
 ## Histórico de Versão
 
-|Data|Versão|Descrição|Autor|Revisão|
-| :----------: | :------: | :-----------: | :---------: |:---------: |
-|20/11/2022|1.0|Criação do Roadmap| [Arthur Taylor](https://github.com/Eruel6)|[Thiago Oliveira](https://github.com/Thiab394)
-|28/11/2022|1.1|Adição de tabela especificando atores para os artefatos| [Arthur Taylor](https://github.com/Eruel6)|[Thiago Oliveira](https://github.com/Thiab394)
+|Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisão|
+| :----------: | :------: | :------: | :-----------: | :---------: |:---------: |
+|20/11/2022|21/11/2022|1.0|Criação do Roadmap| [Arthur Taylor](https://github.com/Eruel6)|[Thiago Oliveira](https://github.com/Thiab394)
+|28/11/2022|29/11/2022|1.1|Adição de tabela especificando atores para os artefatos| [Arthur Taylor](https://github.com/Eruel6)|[Thiago Oliveira](https://github.com/Thiab394)
+|29/11/2022|30/11/2022|1.2|Adição de Novo Cronograma, de Acordo com os Padrões do Projeto|[Thiago Oliveira](https://github.com/Thiab394) |[Arthur Taylor](https://github.com/Eruel6)
 
 ## Roadmap planejado
 
