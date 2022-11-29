@@ -1,8 +1,9 @@
 # Técnicas de Elicitação
 
-|Data|Versão|Descrição|Autor|Revisão|
-| :----------: | :------: | :-----------: | :---------: |:---------: |
-|28/11/2022|1.0|Criação do documento| [Arthur Taylor](https://github.com/Eruel6) | [João Lucas](https://github.com/HacKairos) |
+|Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisão|
+| :----------: |:----------:| :------: | :-----------: | :---------: |:---------: |
+|28/11/2022|29/11/2022|1.0|Criação do documento| [Arthur Taylor](https://github.com/Eruel6) | [João Lucas](https://github.com/HacKairos) |
+|29/11/2022|30/11/2022|1.1|Correção do Historico de versão| [Thiago Olivera](https://github.com/Thiab394)| [Arthur Taylor](https://github.com/Eruel6)|
 
 Com o objetivo de atender o usuário da melhor forma possível são estudadas técnicas para entender e pririzar o que o usuário realmente deseja, estas são chamdas de técnicas de elicitação. Com auxílio destas técnicas os engenheiros podem ajustar a produção de um software para atender da melhor forma possível as nescessidades de clientes.
 
