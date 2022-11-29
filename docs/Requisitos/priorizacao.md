@@ -1,10 +1,11 @@
 # Priorização de Requisitos
 
 ## Histórico de Versão
-|Data|Versão|Descrição|Autor|Revisão|
-| :----------: | :------: | :-----------: | :---------: |:---------: |
-|27/11/2022|1.0|Criação do documento| [Ana](https://github.com/AnHoff) | - |
-|28/11/2022|1.1|Adiciona outras técnicas e conclusão| [Ana](https://github.com/AnHoff) | [João Lucas](https://github.com/HacKairos) |
+|Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisão|
+| :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
+|27/11/2022|28/11/2022|1.0|Criação do documento| [Ana](https://github.com/AnHoff) | - |
+|28/11/2022|29/11/2022|1.1|Adiciona outras técnicas e conclusão| [Ana](https://github.com/AnHoff) | [João Lucas](https://github.com/HacKairos) |
+|29/11/2022|30/11/2022|1.2|Correção do Historico de versão| [Thiago Olivera](https://github.com/Thiab394)| [João Lucas](https://github.com/HacKairos)|
 
 ## Introdução
 Para gerar valor agregado ao produto desde as primeiras entregas, é necessário saber quais requisitos elicitados serão desenvolvidos no início do processo para que haja um ponto de partida otimista para os clientes e/ou usuários. Assim, surge a necessidade de realizar a priorização dos requisitos elicitados.
