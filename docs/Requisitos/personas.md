@@ -27,7 +27,7 @@ Como dito previamente, personas devem ser baseadas em perfis reais. Em outras pa
 * Promovem consenso com relação ao design e medem sua efetividade;
 * Contribuem para diferentes áreas do produto, como, por exemplo, para o marketing.
 
-O perfil de usuário utilizado para a elaboração das personas pode ser encontrado [aqui](perfil.md).
+O perfil de usuário utilizado para a elaboração das personas pode ser encontrado [aqui](perfil.md). A quantidade de 3 personas e 1 antipersona foi escolhida por ser o sufuciente para agrupar os usuários do MEI.
 
 ## Personas Elaboradas
 <center>
