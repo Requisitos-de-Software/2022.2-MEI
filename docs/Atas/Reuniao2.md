@@ -1,4 +1,4 @@
-# 2ª Reuniao
+# 2ª Reunião
 
 ## Histórico de Versão
 

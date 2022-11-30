@@ -6,7 +6,7 @@
 | :----------: |:----------:| :------: | :-----------: | :---------: |:---------: |
 |20/11/2022|21/11/2022|1.0|Criação do Documento| [Pedro Lucas](https://github.com/PedroLSF)|[Ana Luiza](https://github.com/AnHoff)
 |20/11/2022|21/11/2022|1.1|Ajustes gerais e complementações| [Ana Luiza](https://github.com/AnHoff)|[Pedro Lucas](https://github.com/PedroLSF)
-|29/11/2022|30/11/2022|1.2|Correção no Historico de Versão| [Thiago Oliveira](https://github.com/Thiab394)|[Pedro Lucas](https://github.com/PedroLSF) e  [Ana Luiza](https://github.com/AnHoff) 
+|29/11/2022|30/11/2022|1.2|Correção no Historico de Versão| [Thiago Oliveira](https://github.com/Thiab394)|[João Lucas](https://github.com/HacKairos)
 
 Existe um documento que comenta um pouco sobre cada um dos aplicativos analisados e que poderiam ser utilizados para o desenvolvimento desse projeto é recomendado ler tal documento e entender o que é o MEI.
 

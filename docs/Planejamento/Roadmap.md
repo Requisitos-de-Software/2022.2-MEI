@@ -14,7 +14,7 @@ O roadmap foi planejado seguindo a data e requisitos para entrega das tarefas do
 que o limite para possibilitar possíveis revisões e alterações nos artefatos.
 
 Ilustração do Roadmap na Figura 1 :
-<img src='./../assets/images/Cronograma.png' width="1000">Figura 1 - RoadMap</img>
+<img src='/./../assets/images/Cronograma.png' width="1000">Figura 1 - RoadMap</img>
 
 *Este roadmap é uma versão inicial e pode sofrer alterações*
 

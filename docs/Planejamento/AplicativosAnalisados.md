@@ -9,7 +9,7 @@
 |21/11/2022|22/11/2022|1.2|Adiciona Rich Pictures| [Ana Luiza](https://github.com/AnHoff)|[Pedro Lucas](https://github.com/PedroLSF)
 |22/11/2022|23/11/2022|1.3|Adiciona referências bibliográficas| [Ana Luiza](https://github.com/AnHoff)|[Pedro Lucas](https://github.com/PedroLSF)
 |25/11/2022|26/11/2022|1.4|Adiciona imagem do Rich Picture| [Ana Luiza](https://github.com/AnHoff)|[Pedro Lucas](https://github.com/PedroLSF)
-|29/11/2022|30/11/2022|1.5|Correção do Historico de versão e Rich Picture| [Thiago Oliveira](https://github.com/Thiab394)|[João Lucas](https://github.com/HacKairos)
+|29/11/2022|30/11/2022|1.5|Correção do Historico de versão| [Thiago Oliveira](https://github.com/Thiab394)|[João Lucas](https://github.com/HacKairos)
 
 Antes de definir o aplicativo conhecido como MEI, a equipe realizou algumas pesquisas e trabalhos relacionados a outros aplicativos. Este documento irá listar e apresentar todos os aplicativos que foram levantados. <br>
 Caso queira ir diretamente às informações específicas do MEI, clique [aqui](MEI.md).
@@ -34,7 +34,7 @@ Com o App MEI você pode:
 
 O Rich Picture do aplicativo pode ser conferido abaixo, na figura 1, ou em PDF.
 
-<img src="./../assets/richPictures/RichPictureMEI2.png" width="1000"><br>*Figura 1 - Rich Picture versão 2 do aplicativo MEI*</img>
+<img src="/./../assets/richPictures/RichPictureMEI2.png" width="1000"><br>*Figura 1 - Rich Picture versão 2 do aplicativo MEI*</img>
 
 **Rich Picture v.2:** [PDF v.2](../assets/richPictures/RichPictureMEI2.pdf)<br>
 **Rich Picture v.1:** [PDF v.1](../assets/richPictures/RichPictureMEI.pdf)

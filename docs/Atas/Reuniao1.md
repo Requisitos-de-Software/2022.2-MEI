@@ -1,4 +1,4 @@
-# 1ª Reuniao
+# 1ª Reunião
 
 ## Histórico de Versão
 
@@ -35,7 +35,7 @@ A plataforma onde foi realizada a reuniao segue na tabale 1.
 
 | Ferramenta | Descrição |
 | :-: | :-: |
-| Microsoft Teams <img src="./../assets/ferramentasLogo/microsoft-teams.svg" width="125" height="125"></img> | Foi decidido que para as reuniões realizadas com o grupo de forma remota será utilizada a plataforma da Microsoft a fim de facilitar a gravação de reuniões.| 
+| Microsoft Teams <img src="/./../assets/ferramentasLogo/microsoft-teams.svg" width="125" height="125"></img> | Foi decidido que para as reuniões realizadas com o grupo de forma remota será utilizada a plataforma da Microsoft a fim de facilitar a gravação de reuniões.| 
 
 *Tabela 1 - Teams*
 

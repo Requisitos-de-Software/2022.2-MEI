@@ -6,7 +6,7 @@
 | :----------: |:----------:| :------: | :-----------: | :---------: |:---------: |
 |20/11/2022|21/11/2022|1.0|Criação do Documento de Metodologia| [Arthur Taylor](https://github.com/Eruel6)|[Thiago Oliveira](https://github.com/Thiab394)
 |20/11/2022|21/11/2022|1.1|Adição das logos de cada ferramenta de comunicação e colocação em tabela| [Thiago Oliveira](https://github.com/Thiab394)|[Arthur Taylor](https://github.com/Eruel6)
-|29/11/2022|30/11/2022|1.2|Correção do Histórico de Versão e Imagens| [Thiago Oliveira](https://github.com/Thiab394)|[Arthur Taylor](https://github.com/Eruel6)
+|29/11/2022|30/11/2022|1.2|Correção do Histórico de Versão| [Thiago Oliveira](https://github.com/Thiab394)|[João Lucas](https://github.com/HacKairos)
 
 ## Sprints
 
@@ -27,8 +27,8 @@ As ferramentas utlizidas para comunicação <b>formal</b> e <b>informal</b> a se
 
 | Ferramenta | Descrição |
 | :-: | :-: |
-| Github  <img src="./../assets/ferramentasLogo/github.svg" width="125" height="125"></img>| A comunicação se dará através das isssues do github para assuntos mais formais e técnicos sobre o projeto| 
-| Microsoft Teams <img src="./../assets/ferramentasLogo/microsoft-teams.svg" width="125" height="125"></img> | Para as reuniões realizadas com o grupo de forma remota será utilizada a plataforma da Microsoft a fim de facilitar a gravação de reuniões e pela facilidade de utilização desta ferramenta.| 
+| Github  <img src="/./../assets/ferramentasLogo/github.svg" width="125" height="125"></img>| A comunicação se dará através das isssues do github para assuntos mais formais e técnicos sobre o projeto| 
+| Microsoft Teams <img src="/./../assets/ferramentasLogo/microsoft-teams.svg" width="125" height="125"></img> | Para as reuniões realizadas com o grupo de forma remota será utilizada a plataforma da Microsoft a fim de facilitar a gravação de reuniões e pela facilidade de utilização desta ferramenta.| 
 
 *Tabela 1 - Comunicação Formal*
 
@@ -36,7 +36,7 @@ As ferramentas utlizidas para comunicação <b>formal</b> e <b>informal</b> a se
 
 | Ferramenta | Descrição |
 | :-: | :-: |
-| Telegram <img src="./../assets/ferramentasLogo/telegram.svg" width="125" height="125"></img>| Para a troca de informações rápidas sobre o projeto e demais assuntos como dúvidas pontuais que podem ser respondidas de formas simples e clara a equipe optou pela utilização de um grupo no aplicativo "Telegram" pela facilidade e rapidez na resposta por parte dos integrantes.| 
+| Telegram <img src="/./../assets/ferramentasLogo/telegram.svg" width="125" height="125"></img>| Para a troca de informações rápidas sobre o projeto e demais assuntos como dúvidas pontuais que podem ser respondidas de formas simples e clara a equipe optou pela utilização de um grupo no aplicativo "Telegram" pela facilidade e rapidez na resposta por parte dos integrantes.| 
 
 *Tabela 2 - Comunicação Informal*
 
