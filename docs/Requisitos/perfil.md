@@ -17,11 +17,11 @@ O perfil do usuário deve ser definido levando em conta o maior número possíve
 Tendo isto em mente, pode-se utilizar diferentes técnicas para coletar dados sobre o perfil dos usuários. Nesse projeto, foram utilizadas duas técnicas: um questionário em formato de formulário virtual e pesquisa do perfil em cima de estudos realizados previamente por outros analistas, método que complementa e orienta a obtenção de novos dados [1].
 
 ## Resultados
-Os resultados da pesquisa e do questionário são semelhantes, ou seja, não há grande divergência nos dados obtidos. Algumas das perguntas presentes no questionário são:
+Os resultados da pesquisa e do questionário são semelhantes, ou seja, não há grande divergência nos dados obtidos. Alguns dados obtidos pelo questionário são:
 
-1. 
-2. 
-3. 
+1. Escolaridade;
+2. Idade;
+3. Objetivo;
 
 O questionário também dá suporte às pesquisas realizadas, que nos dizem que, aproximadamente 47% dos usuários são do sexo feminino e que a idade da maior parte dos usuários fica entre 18 e 40 anos. Abaixo há um resumo dos perfis de usuário determinados a partir do uso de ambos os meios.
 
