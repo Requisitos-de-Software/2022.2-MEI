@@ -3,8 +3,8 @@
 ## Histórico de Versão
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
-|27/11/2022|28/11/2022|1.0|Criação do documento| [Ana](https://github.com/AnHoff) | [João Lucas](https://github.com/HacKairos) |
-|28/11/2022|29/11/2022|1.1|Adiciona outras técnicas e conclusão| [Ana](https://github.com/AnHoff) | [João Lucas](https://github.com/HacKairos) |
+|27/11/2022|28/11/2022|1.0|Criação do documento| [Ana Luiza](https://github.com/AnHoff) | [João Lucas](https://github.com/HacKairos) |
+|28/11/2022|29/11/2022|1.1|Adiciona outras técnicas e conclusão| [Ana Luiza](https://github.com/AnHoff) | [João Lucas](https://github.com/HacKairos) |
 |29/11/2022|30/11/2022|1.2|Correção do Historico de versão| [Thiago Olivera](https://github.com/Thiab394)| [João Lucas](https://github.com/HacKairos)|
 
 ## Introdução
