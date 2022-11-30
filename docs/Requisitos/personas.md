@@ -31,7 +31,7 @@ Como dito previamente, personas devem ser baseadas em perfis reais. Em outras pa
 <center>
   
 ### Isabela Menezes
-<img width='200' src='/./../assets/personas/isabela.jpg'>
+<img width='200' src='./../../assets/personas/isabela.jpg'>
 
 </center>
 
@@ -49,7 +49,7 @@ Como dito previamente, personas devem ser baseadas em perfis reais. Em outras pa
 <center>
   
 ### João Silva
-<img width='200' src='/./../assets/personas/joao.jpg'>
+<img width='200' src='./../../assets/personas/joao.jpg'>
   
 </center>
 
@@ -67,7 +67,7 @@ Como dito previamente, personas devem ser baseadas em perfis reais. Em outras pa
 <center>
   
 ### Savio Fernandes
-<img width='200' src='/./../assets/personas/savio.jpg'>
+<img width='200' src='./../../assets/personas/savio.jpg'>
   
 </center>
 

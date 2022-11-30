@@ -8,7 +8,7 @@
 ## Criação de _Branches_
 Ilustração do funcionamentos das branches na Figura 1 :
 
-<img src='../../assets/images/BranchPolicy.png'>Figura 1 - Politica de Branch </img>
+<img src='./../../assets/images/BranchPolicy.png'>Figura 1 - Politica de Branch </img>
 
 * <p align = "justify">O repositório do projeto terá uma branch principal e estável, a <i>main</i>.
 

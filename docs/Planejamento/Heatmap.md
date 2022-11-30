@@ -14,11 +14,11 @@ Neste documento está apresentado o quadro de indisponibilidade dos integrantes 
 preencher o horário em que eles não estariam disponíveis, desse modo, organizar as reuniões com a participação da maioria dos integrantes, como pode ser observado na figura 1.
 
 <center>
-<img src='/./../assets/images/heatmap.png'><br>Figura 1 - Mapa de calor </img>
+<img src='./../../assets/images/heatmap.png'><br>Figura 1 - Mapa de calor </img>
 </center>
 
 Onde consta zero na figura acima é quando nenhum dos integrantes está ocupado, onde possui um número maior que zero é a quantidade de integrantes que estão indisponíveis no horário como pode ser observado na figura 2.
 
 <center>
-<img src='/./../assets/images/legendaHeatmap.png'><br>Figura 2 - Legenda Heatmap</img>
+<img src='./../../assets/images/legendaHeatmap.png'><br>Figura 2 - Legenda Heatmap</img>
 </center>
