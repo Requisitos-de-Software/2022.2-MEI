@@ -1,4 +1,4 @@
-## Personas
+# Personas
 
 ## Histórico de Versão
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
@@ -27,6 +27,8 @@ Como dito previamente, personas devem ser baseadas em perfis reais. Em outras pa
 * Promovem consenso com relação ao design e medem sua efetividade;
 * Contribuem para diferentes áreas do produto, como, por exemplo, para o marketing.
 
+O perfil de usuário utilizado para a elaboração das personas pode ser encontrado [aqui](perfil.md).
+
 ## Personas Elaboradas
 <center>
   
@@ -44,7 +46,8 @@ Como dito previamente, personas devem ser baseadas em perfis reais. Em outras pa
 * **Atividades extra**: faculdade;
 * **Status socioeconômico**: classe média;
 * **Descrição**: começou a produzir vestuário e está começando a empreender;
-* **Motivação**: já produzia peças de roupa para si mesma e recebeu indicações para iniciar um trabalho autônomo de confecção e venda de vestuário.
+* **Motivação**: já produzia peças de roupa para si mesma e recebeu indicações para iniciar um trabalho autônomo de confecção e venda de vestuário;
+* **Afinidade com tecnologia**: média.
 
 <center>
   
@@ -62,7 +65,8 @@ Como dito previamente, personas devem ser baseadas em perfis reais. Em outras pa
 * **Atividades extra**: cuida de um filho deficiente;
 * **Status socioeconômico**: classe baixa;
 * **Descrição**: produz cerâmica para ter uma renda;
-* **Motivação**: realizou um curso profissionalizante de produção de cerâmica e precisava de uma renda.
+* **Motivação**: realizou um curso profissionalizante de produção de cerâmica e precisava de uma renda;
+* **Afinidade com tecnologia**: baixa.
 
 <center>
   
@@ -80,7 +84,8 @@ Como dito previamente, personas devem ser baseadas em perfis reais. Em outras pa
 * **Atividades extra**: faculdade;
 * **Status socioeconômico**: classe média;
 * **Descrição**: faz manutenção em computadores de conhecidos e deseja começar a cobrar pelo serviço;
-* **Motivação**: já possuía familiaridade com computadores e agora deseja ter uma renda extra com isso.
+* **Motivação**: já possuía familiaridade com computadores e agora deseja ter uma renda extra com isso;
+* **Afinidade com tecnologia**: alta.
 
 ## Bibliografia
 [1] Cooper, Alan, 1952 - About face 3: the essentials of interaction design
