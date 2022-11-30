@@ -2,7 +2,7 @@
 
 ## Histórico de Versão
 
-|Data|Data de Revisão Prevista|Versão|Descrição|Autor|Revisor|
+|Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
 |22/11/2022|23/11/2022|1.0|Criação da ata de reunião 12/11/2022| [Arthur Taylor](https://github.com/Eruel6)| [Ana Luiza](https://github.com/AnHoff) |
 |23/11/2022|24/11/2022|1.1|Conserta link da reunião| [Ana Luiza](https://github.com/AnHoff) | [Arthur Taylor](https://github.com/Eruel6)| 

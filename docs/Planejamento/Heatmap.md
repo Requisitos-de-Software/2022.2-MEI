@@ -2,7 +2,7 @@
 
 ## Histórico de Versão
 
-|Data|Data de Revisão Prevista|Versão|Descrição|Autor|Revisor|
+|Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:----------:| :------: | :-----------: | :---------: |:---------: |
 |17/11/2022|18/11/2022|1.0|Criação do Documento de Ferramentas Utilizadas| [Eduardo](https://github.com/edudsan)| [João Lucas](https://github.com/HacKairos)|
 |22/11/2022|23/11/2022|1.1|Adição de legendas nas imagens e adção da legenda do heatmap| [Eduardo](https://github.com/edudsan)| [João Lucas](https://github.com/HacKairos)|

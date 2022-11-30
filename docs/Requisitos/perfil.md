@@ -26,7 +26,7 @@ Os resultados da pesquisa e do questionário são semelhantes, ou seja, não há
 O questionário também dá suporte às pesquisas realizadas, que nos dizem que, aproximadamente 47% dos usuários são do sexo feminino e que a idade da maior parte dos usuários fica entre 18 e 40 anos. Abaixo há um resumo dos perfis de usuário determinados a partir do uso de ambos os meios.
 
 * Idade: entre 18 e 40 anos;
-* Sexo: 53% do sexo masculino e 47% do sexo feminino;
+* Sexo: 55,6 % do sexo masculino e 44,4 % do sexo feminino;
 * Status socioeconômico: classe média-baixa;
 * Atividades: comércio de vestuário e acessórios, cabelereiros, obras, lanchonetes, atividades relacionadas a beleza, minimercados e amarzéns, bares, entre outros;
 * Local de trabalho: grande maioria em casa, seguido de estabelecimento comercial e na rua;
@@ -37,6 +37,16 @@ O questionário também dá suporte às pesquisas realizadas, que nos dizem que,
 * Tarefas do usuário: o sistema deve ser uma forma de ter acesso e formalizar os benefícios como, por exemplo, a aposentadoria;
 * Idiomas: português;
 * Motivação: o MEI propicia formas de regulamentar um trabalho informal.
+
+<Center>
+A seguir o grafico com base nas pesquisas que indicam a relação de sexos dentro do projeto:
+<img src='./../../assets/images/Sexo.png'><br>Figura 1 - Grafico de dados relacionados ao sexo</img>
+</Center>
+<br>
+<Center>
+A seguir os objetivos dos usuários:
+<img src='./../../assets/images/Objetivos.png'><br>Figura 2 - Relação dos objetivos dos usuarios</img>
+</Center>
 
 ## Bibliografia
 [1] Cooper, Alan, 1952 - About face 3: the essentials of interaction design
