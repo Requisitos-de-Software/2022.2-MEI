@@ -1,9 +1,9 @@
 # Politica de Branch
 
 ## Histórico de Versão
-|Data|Versão|Descrição|Autor|Revisor|
-| :----------: | :------: | :-----------: | :---------: |:---------: |
-|11/11/2022|1.0|Criação do Documento de Políticas| [Joao Lucas](https://github.com/HacKairos)|[Pedro Lucas](https://github.com/PedroLSF)
+|Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
+| :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
+|11/11/2022|11/11/2022|1.0|Criação do Documento de Políticas| [Joao Lucas](https://github.com/HacKairos)|[Pedro Lucas](https://github.com/PedroLSF)
 
 ## Criação de _Branches_
 Ilustração do funcionamentos das branches na Figura 1 :

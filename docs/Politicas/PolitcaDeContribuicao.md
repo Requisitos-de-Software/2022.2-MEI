@@ -1,9 +1,9 @@
 # Politica de Contribuição
 
 ## Histórico de Versão
-|Data|Versão|Descrição|Autor|Revisor|
-| :----------: | :------: | :-----------: | :---------: |:---------: |
-|11/09/2022|1.0|Criação do Documento de Políticas| [Joao Lucas](https://github.com/HacKairos)|[Ana Luiza](https://github.com/AnHoff)
+|Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
+| :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
+|11/11/2022|11/11/2022|1.0|Criação do Documento de Políticas| [Joao Lucas](https://github.com/HacKairos)|[Ana Luiza](https://github.com/AnHoff)
 
 ## O que fazer antes de Contribuir?
 

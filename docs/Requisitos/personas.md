@@ -1,9 +1,9 @@
 ## Personas
 
 ## Histórico de Versão
-|Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisão|
+|Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
-|29/11/2022|30/11/2022|1.0|Criação do documento| [Ana](https://github.com/AnHoff) | - |
+|29/11/2022|30/11/2022|1.0|Criação do documento| [Ana](https://github.com/AnHoff) | [João Lucas](https://github.com/HacKairos) |
 
 ## Introdução
 Economistas criam modelos para representar o comportamento do mercado e o mesmo acontece na área de engenharia de software: engenheiros de requisitos criam personas para descrever os usuários. A criação de personas se provou uma ferramenta extremamente útil para lidar com designs relacionados à interação do usuário com o sistema.

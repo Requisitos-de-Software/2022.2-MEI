@@ -1,9 +1,9 @@
 # Código de Conduta para Colaboradores
 
 ## Histórico de Versão
-|Data|Versão|Descrição|Autor|
-| :----------: | :------: | :-----------: | :---------: |
-|11/09/2022|1.0|Criação do Documento de Políticas| [Joao Lucas](https://github.com/HacKairos)
+|Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
+| :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
+|11/11/2022|11/11/2022|1.0|Criação do Documento de Políticas| [Joao Lucas](https://github.com/HacKairos) | [Ana](https://github.com/AnHoff) |
 
 ## Nossa promessa
 <p align = "justify"> &emsp;&emsp; Com o objetivo de fomentar uma comunidade aberta e acolhedora, nós, como colaboradores e administradores deste projeto, comprometemo-nos a fazer a participação deste projeto uma experiência livre de assédio para todos, independentemente da aparência pessoal, deficiência, etnia, gênero, idade, identidade ou expressão de gênero, identidade ou orientação sexual, nacionalidade, nível de experiência, porte físico, raça ou religião.</p>

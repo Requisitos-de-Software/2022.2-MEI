@@ -1,9 +1,9 @@
 # Politica de Issue
 
 ## Histórico de Versão
-|Data|Versão|Descrição|Autor|
-| :----------: | :------: | :-----------: | :---------: |
-|11/11/2022|1.0|Criação do Documento de Políticas| [Joao Lucas](https://github.com/HacKairos)|
+|Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
+| :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
+|11/11/2022|11/11/2022|1.0|Criação do Documento de Políticas| [Joao Lucas](https://github.com/HacKairos)| [Ana](https://github.com/AnHoff) |
 
 ## Criação de _issues_
 

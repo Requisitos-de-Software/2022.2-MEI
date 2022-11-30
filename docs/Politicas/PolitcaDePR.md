@@ -1,9 +1,9 @@
 # Politica de Pull Request
 
 ## Histórico de Versão
-|Data|Versão|Descrição|Autor|
-| :----------: | :------: | :-----------: | :---------: |
-|11/11/2022|1.0|Criação do Documento de Políticas| [Joao Lucas](https://github.com/HacKairos)|
+|Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
+| :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
+|11/11/2022|11/11/2022|1.0|Criação do Documento de Políticas| [Joao Lucas](https://github.com/HacKairos)| [Ana](https://github.com/AnHoff) |
 
 ## Criação de _Pull Request_
 
@@ -34,7 +34,7 @@ Exemplo de como abrir um PR na figura 1 :
  
 #### Adicione os _reviewers_ 
 
-* Assinale os _reviewers_, ou seja, aqueles responsáveis à análise do _pull request_. Por exemplo, caso sua _feature_ esteja relacionada a arquitetura do projeto, assinale o **EPS** que desempenha esse papel.
+* Assinale os _reviewers_, ou seja, aqueles responsáveis pela análise do _pull request_. Por exemplo, caso sua _feature_ esteja relacionada a arquitetura do projeto, assinale o **EPS** que desempenha esse papel.
 
 Exemplo de como adcionar revisores na figura 2 :
 

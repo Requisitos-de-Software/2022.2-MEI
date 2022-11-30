@@ -1,12 +1,9 @@
 # Primeira Entrega
 
 ## Histórico de Versão
-
-|Data|Versão|Descrição|Autor|
-| :----------: | :------: | :-----------: | :---------: |
-|22/11/2022|1.0|Gravação da Primeira Entrega| [João Lucas](https://github.com/Hackairos)|
-
-
+|Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
+| :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
+|22/11/2022|22/11/2022|1.0|Gravação da Primeira Entrega| [João Lucas](https://github.com/Hackairos)| [Ana](https://github.com/AnHoff) |
 
 ## Local e horário
 

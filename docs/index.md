@@ -31,8 +31,8 @@ Apresentação da equipe na Tabela 1 :
 *Tabela 1 - Equipe*
 
 ## Histórico de Versão
-|Data|Versão|Descrição|Autor|
-| :----------: | :------: | :-----------: | :---------: |
-|20/11/2022|1.0|Criação da pagina Home| [Joao Lucas](https://github.com/HacKairos)|
+|Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
+| :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
+|20/11/2022|20/11/2022|1.0|Criação da pagina Home| [Joao Lucas](https://github.com/HacKairos)|[Thiago Olivera](https://github.com/Thiab394)|
 
 </center>
