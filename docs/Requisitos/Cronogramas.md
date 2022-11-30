@@ -5,6 +5,7 @@
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisão|
 | :----------: | :------: | :------: | :-----------: | :---------: |:---------: |
 |29/11/2022|30/11/2022|1.0|Criação dos Cronogramas| [Thiago Oliveira](https://github.com/Thiab394) |[Arthur Taylor](https://github.com/Eruel6)
+|29/11/2022|30/11/2022|1.1|Ajuste das Imagens| [Thiago Oliveira](https://github.com/Thiab394) |[Arthur Taylor](https://github.com/Eruel6)
 
 ## Cronograma Planejado(Elicitação)
 
@@ -13,7 +14,7 @@ e com as referencias presentes neste documento, tal cronograma(Figura 1) contem 
 uma das personas presentes.
 
 Ilustração do Roadmap na Figura 1 :
-<img src='./../../assets/images/Cronograma%20Elicitação.png' width="1000">Figura 1 - Cronograma de Elicitação</img>
+<img src='./../../assets/images/CronogramaElicitacao.png' width="1000">Figura 1 - Cronograma de Elicitação</img>
 
 ## Cronograma Planejado(Priorização)
 
@@ -22,7 +23,7 @@ e com as referencias presentes neste documento, tal cronograma(Figura 2) contem 
 uma das personas presentes.
 
 Ilustração do Roadmap na Figura 1 :
-<img src='./../../assets/images/Cronograma%20Priorização%20(1).png' width="1000">Figura 2 - Cronograma de Priorização</img>
+<img src='./../../assets/images/CronogramaPriorizacao.png' width="1000">Figura 2 - Cronograma de Priorização</img>
 
 
 
