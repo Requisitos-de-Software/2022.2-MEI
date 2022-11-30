@@ -87,5 +87,26 @@ O perfil de usuário utilizado para a elaboração das personas pode ser encontr
 * **Motivação**: já possuía familiaridade com computadores e agora deseja ter uma renda extra com isso;
 * **Afinidade com tecnologia**: alta.
 
+<center>
+
+### Valdemar Chess
+Antipersona
+
+<img width='200' src='./../../assets/personas/valdemar.jpg'>
+
+</center>
+
+* **Idade**: 54 anos;
+* **Sexo**: masculino;
+* **Local de trabalho**: escritório;
+* **Meios utilizados**: softwares de documentos;
+* **Acesso**: computador e celular;
+* **Funcionários**: mais de 100;
+* **Atividades extra**: fazer trilhas;
+* **Status socioeconômico**: classe alta;
+* **Descrição**: é dono de uma rede de escritórios de advocacia, possuindo renda extremamente alta;
+* **Motivação**: possui alguns funcionários que trabalham de forma autônoma e, por isso, decidiu aprender sobre o MEI;
+* **Afinidade com tecnologia**: alta.
+
 ## Bibliografia
 [1] Cooper, Alan, 1952 - About face 3: the essentials of interaction design
