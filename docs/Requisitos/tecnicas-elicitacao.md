@@ -5,6 +5,8 @@
 |28/11/2022|29/11/2022|1.0|Criação do documento| [Arthur Taylor](https://github.com/Eruel6) | [João Lucas](https://github.com/HacKairos) |
 |29/11/2022|30/11/2022|1.1|Correção do Historico de versão| [Thiago Olivera](https://github.com/Thiab394)| [Arthur Taylor](https://github.com/Eruel6)|
 
+## Introdução
+
 Com o objetivo de atender o usuário da melhor forma possível, são estudadas técnicas para entender e priorizar o que o usuário realmente deseja, sendo chamadas de técnicas de elicitação. Com o auxílio dessas técnicas, os engenheiros podem ajustar a produção de um software para atender da melhor forma possível as nescessidades dos clientes.
 
 ## Descrição de técnicas
