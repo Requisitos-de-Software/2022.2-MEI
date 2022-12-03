@@ -4,6 +4,7 @@
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
 |29/11/2022|30/11/2022|1.0|Criação do documento| [Ana Luiza](https://github.com/AnHoff) | [João Lucas](https://github.com/HacKairos) |
+|29/11/2022|30/11/2022|1.0|Criação do documento| [Pedro Lucas](https://github.com/PedroLSF) | [João Lucas](https://github.com/HacKairos) |
 
 ## Introdução
 Economistas criam modelos para representar o comportamento do mercado e o mesmo acontece na área de engenharia de software: engenheiros de requisitos criam personas para descrever os usuários. A criação de personas se provou uma ferramenta extremamente útil para lidar com designs relacionados à interação do usuário com o sistema.
@@ -28,6 +29,14 @@ Como dito previamente, personas devem ser baseadas em perfis reais. Em outras pa
 * Contribuem para diferentes áreas do produto, como, por exemplo, para o marketing.
 
 O perfil de usuário utilizado para a elaboração das personas pode ser encontrado [aqui](perfil.md). A quantidade de 3 personas e 1 antipersona foi escolhida por ser o sufuciente para agrupar os usuários do MEI.
+
+## Escolhas da Persona
+
+O grupo abriu um questionário e levantou questionamentos com relação ao número ideal de personas, e por fim, concluiu-se que 3 seria o número ideal e contando que futuramente possa ser adicionado mais personas. Pontos levantados para apenas três perfis:
+
+* Apesar de o MEI aceitar vários tipos de pessoas, todas se diferenciam apenas no serviço realizado, porém realizam os mesmos comandos no aplicativo;
+* Vamos escolher um perfil secundário pensando que alguns usuários precisam de auxílio para mexer no MEI;
+* Funções simples e poucas opções.
 
 ## Personas Elaboradas
 <center>
@@ -60,24 +69,25 @@ O perfil de usuário utilizado para a elaboração das personas pode ser encontr
 * **Idade**: 35 anos;
 * **Tipo**: Primário;
 * **Sexo**: Masculino;
-* **Local de trabalho**: casa própria;
-* **Meios utilizados**: redes sociais e site próprio para divulgação e venda;
-* **Acesso**: celular;
-* **Funcionários**: não possui;
-* **Atividades extra**: cuida de um filho deficiente;
-* **Status socioeconômico**: classe baixa;
-* **Descrição**: produz cerâmica para ter uma renda;
+* **Local de trabalho**: Casa Própria;
+* **Meios utilizados**: Redes Sociais e site próprio para divulgação e venda;
+* **Acesso**: Celular;
+* **Funcionários**: Não Possui;
+* **Atividades extra**: Cuida de um filho deficiente;
+* **Status socioeconômico**: Classe Baixa;
+* **Descrição**: Produz cerâmica para ter uma renda;
 * **Motivação**: realizou um curso profissionalizante de produção de cerâmica e precisava de uma renda;
-* **Afinidade com tecnologia**: baixa.
+* **Afinidade com tecnologia**: Alta.
 
 <center>
   
-### Salete
+### Salete Camargo
 <img width='200' src='./../../assets/personas/savio.jpg'>
   
 </center>
 
 * **Idade**: 65 anos;
+* **Tipo**: Secundária;
 * **Sexo**: Feminino;
 * **Local de trabalho**: Casa Própria;
 * **Meios utilizados**: Venda Local;
