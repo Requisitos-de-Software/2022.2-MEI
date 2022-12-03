@@ -4,7 +4,6 @@
 | :----------: |:----------:| :------: | :-----------: | :---------: |:---------: |
 |28/11/2022|29/11/2022|1.0|Criação do documento| [Arthur Taylor](https://github.com/Eruel6) | [João Lucas](https://github.com/HacKairos) |
 |29/11/2022|30/11/2022|1.1|Correção do Historico de versão| [Thiago Olivera](https://github.com/Thiab394)| [Arthur Taylor](https://github.com/Eruel6)|
-|29/11/2022|30/11/2022|1.1|Correção do Historico de versão| [Pedro Lucas](https://github.com/PedroLSF)| |
 
 ## Introdução
 
@@ -21,7 +20,6 @@ Consiste em uma "chuva de ideias", onde de 8 a 12 participantes devem expor suas
 * Deve existir um mediador.
 
 Essa técnica é uma das mais conhecidas e utilizadas para elicitar requisitos, reunindo profissionais de diversos setores para ter uma ampla visão do que deverá ser feito. Uma sessão de brainstorming bem sucedida gera um conjunto de boas ideias para a resolução do(s) problema(s) apresentados e promove aos participantes a sensação de que contribuíram de alguma forma para a resolução do(s) problema(s).
-
 
 ### Observação
 A observação consiste em observar o ambiente onde o software será implantado, sem interferência por parte do observador nas atividades realizadas pelos usuários; obtendo-se então os requisitos por meio da observação das tarefas realizadas pelos interessados no software. Existem alguns pontos a serem explicados antes da realização da observação, são eles:
@@ -61,60 +59,6 @@ Apesar de ser muito útil, essa técnica possui um grande problema. Um especilis
 - Introspecção: Como dito anteriormente, uma técninca muito útil quando utilizada em conjunto com outras. Por isso a escolha como uma as serem utilizadas no projeto, com os integrantes do grupo podendo se colocar no lugar do usuário para conseguir informações importantes que possam vir a serem úteis e passem despercebidas durante a utilização das outras técnicas.
 
 - Questionário: Escolhida para ser utilizada devido à grande quantidade de possíveis respostas sem a nescessidade de membros do grupo conduzirem de forma síncrona ou presencial a coleta de tais informações. Com isso, o grupo poderá ter um espaço amostral grande para comparar e refletir se as demais técnicas possuem uma mesma linha de resultado.
-
-## Realização das Técnicas
-
-### Brainstorming
-
-A equipe irá se dividir em 1 mediador e 3 possíveis personas, a fim de se colocar no lugar do usuário e elicitar alguns requisitos.
-
-Mediador: Thiago Oliveira
-Personas: Pedro Lucas, João Lucas e Eduardo
-
-Os seguintes dados serão a introduzação das personas que iremos utilizar no brainstorming:
-
-#### João Silva
-* **Idade**: 35 anos;
-* **Tipo**: Primário;
-* **Sexo**: Masculino;
-* **Local de trabalho**: Casa Própria;
-* **Meios utilizados**: Redes Sociais e site próprio para divulgação e venda;
-* **Acesso**: Celular;
-* **Funcionários**: Não Possui;
-* **Atividades extra**: Cuida de um filho deficiente;
-* **Status socioeconômico**: Classe Baixa;
-* **Descrição**: Produz cerâmica para ter uma renda;
-* **Motivação**: realizou um curso profissionalizante de produção de cerâmica e precisava de uma renda;
-* **Afinidade com tecnologia**: Alta.
-
-#### Isabela Menezes
-* **Idade**: 22 anos;
-* **Tipo**: Primário;
-* **Sexo**: Feminino;
-* **Local de trabalho**: Casa própria;
-* **Meios utilizados**: Redes sociais para divulgação;
-* **Acesso**: Computador e Celular;
-* **Funcionários**: Não Possui;
-* **Atividades extra**: Faculdade;
-* **Status socioeconômico**: Classe Média;
-* **Descrição**: Começou a produzir vestuário e está começando a empreender;
-* **Motivação**: Já produzia peças de roupa para si mesma e recebeu indicações para iniciar um trabalho autônomo de confecção e venda de vestuário;
-* **Afinidade com tecnologia**: Média.
-
-#### Salete Camargo
-* **Idade**: 65 anos;
-* **Tipo**: Secundária;
-* **Sexo**: Feminino;
-* **Local de trabalho**: Casa Própria;
-* **Meios utilizados**: Venda Local;
-* **Acesso**: Celular;
-* **Funcionários**: Não possui;
-* **Atividades extra**: Nenhuma;
-* **Status socioeconômico**: Classe Média;
-* **Descrição**: Devido a sua idade, não consegue exercer bem os trabalhos que necessitam de esforço fisíco e para se distrair começou a produzir manufaturado;
-* **Motivação**: Queria entreter-se no tempo livre e seu hobby virou uma fonte de renda extra;
-* **Afinidade com tecnologia**: Baixa.
-
 
 ## Bibliografia 
 
