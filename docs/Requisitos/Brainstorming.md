@@ -1,9 +1,21 @@
-## Brainstorming
+#Brainstorming
+
+## Histórico de Versão
+
+|Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
+| :----------: |:----------:| :------: | :-----------: | :---------: |:---------: |
+|03/12/2022|04/12/2022|1.0|Criação do documento| [Pedro Lucas](https://github.com/PedroLSF) |A Definir|
+
+## Introdução
+Caso deseje entender mais sobre a técnica utilizada nesse documento clique *aqui*
+
+Instruções do Brainstorming da equipe:
+
 
 A equipe irá se dividir em 1 mediador e 3 possíveis personas, a fim de se colocar no lugar do usuário e elicitar alguns requisitos.
 
-Mediador: Thiago Oliveira.
-Personas: Pedro Lucas, João Lucas e Eduardo.
+* Mediador: Thiago Oliveira.
+* Personas: Pedro Lucas, João Lucas e Eduardo.
 
 Os seguintes dados serão a introduzação das personas que iremos utilizar no brainstorming:
 
