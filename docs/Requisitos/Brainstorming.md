@@ -61,7 +61,7 @@ Os seguintes dados serão a introduzação das personas que iremos utilizar no b
 * **Motivação**: Queria entreter-se no tempo livre e seu hobby virou uma fonte de renda extra;
 * **Afinidade com tecnologia**: Baixa.
 
-Após a definição dos perfis, o brainstorm será realizado e o desenvolvimento pode ser encontrado *aqui:*.
+Após a definição dos perfis, o brainstorming será realizado e o desenvolvimento pode ser encontrado *aqui:*.
 
 Tabela de requisitos funcionais:
 
