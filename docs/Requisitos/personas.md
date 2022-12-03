@@ -82,7 +82,7 @@ O grupo abriu um questionário e levantou questionamentos com relação ao núme
 <center>
   
 ### Salete Camargo
-<img width='200' src='./../../assets/personas/savio.jpg'>
+<img width='200' src='./../../assets/personas/salete.jpg'>
   
 </center>
 
