@@ -38,16 +38,17 @@ O perfil de usuário utilizado para a elaboração das personas pode ser encontr
 </center>
 
 * **Idade**: 22 anos;
-* **Sexo**: feminino;
-* **Local de trabalho**: casa própria;
-* **Meios utilizados**: redes sociais para divulgação;
-* **Acesso**: computador e celular;
-* **Funcionários**: não possui;
-* **Atividades extra**: faculdade;
-* **Status socioeconômico**: classe média;
-* **Descrição**: começou a produzir vestuário e está começando a empreender;
-* **Motivação**: já produzia peças de roupa para si mesma e recebeu indicações para iniciar um trabalho autônomo de confecção e venda de vestuário;
-* **Afinidade com tecnologia**: média.
+* **Tipo**: Primário;
+* **Sexo**: Feminino;
+* **Local de trabalho**: Casa própria;
+* **Meios utilizados**: Redes sociais para divulgação;
+* **Acesso**: Computador e Celular;
+* **Funcionários**: Não Possui;
+* **Atividades extra**: Faculdade;
+* **Status socioeconômico**: Classe Média;
+* **Descrição**: Começou a produzir vestuário e está começando a empreender;
+* **Motivação**: Já produzia peças de roupa para si mesma e recebeu indicações para iniciar um trabalho autônomo de confecção e venda de vestuário;
+* **Afinidade com tecnologia**: Média.
 
 <center>
   
@@ -57,7 +58,8 @@ O perfil de usuário utilizado para a elaboração das personas pode ser encontr
 </center>
 
 * **Idade**: 35 anos;
-* **Sexo**: masculino;
+* **Tipo**: Primário;
+* **Sexo**: Masculino;
 * **Local de trabalho**: casa própria;
 * **Meios utilizados**: redes sociais e site próprio para divulgação e venda;
 * **Acesso**: celular;
@@ -70,22 +72,22 @@ O perfil de usuário utilizado para a elaboração das personas pode ser encontr
 
 <center>
   
-### Savio Fernandes
+### Salete
 <img width='200' src='./../../assets/personas/savio.jpg'>
   
 </center>
 
-* **Idade**: 22 anos;
-* **Sexo**: masculino;
-* **Local de trabalho**: casa própria;
-* **Meios utilizados**: redes sociais para divulgação;
-* **Acesso**: computador e celular;
-* **Funcionários**: não possui;
-* **Atividades extra**: faculdade;
-* **Status socioeconômico**: classe média;
-* **Descrição**: faz manutenção em computadores de conhecidos e deseja começar a cobrar pelo serviço;
-* **Motivação**: já possuía familiaridade com computadores e agora deseja ter uma renda extra com isso;
-* **Afinidade com tecnologia**: alta.
+* **Idade**: 65 anos;
+* **Sexo**: Feminino;
+* **Local de trabalho**: Casa Própria;
+* **Meios utilizados**: Venda Local;
+* **Acesso**: Celular;
+* **Funcionários**: Não possui;
+* **Atividades extra**: Nenhuma;
+* **Status socioeconômico**: Classe Média;
+* **Descrição**: Devido a sua idade, não consegue exercer bem os trabalhos que necessitam de esforço fisíco e para se distrair começou a produzir manufaturado;
+* **Motivação**: Queria entreter-se no tempo livre e seu hobby virou uma fonte de renda extra;
+* **Afinidade com tecnologia**: Baixa.
 
 <center>
 
