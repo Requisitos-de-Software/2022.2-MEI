@@ -84,3 +84,7 @@ Resposta: Sem dificuldades.
 |ENT4|O aplicativo deve realizar e salvar as informações|7|6| Não Funcional |
 
 
+**Legendas**:
+* ENT -> ID da entrevista
+* Nível de Benefício -> Vaira de 1 a 9, onde 1 é pouco benéfico e 9 é muito benéfico
+* Penalidade -> Varia de 1 a 9, onde 1 não gera muitos problemas e 9 impossibilita o uso do usuário
