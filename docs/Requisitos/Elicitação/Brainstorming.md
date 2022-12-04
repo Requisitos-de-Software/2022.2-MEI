@@ -5,12 +5,14 @@
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:----------:| :------: | :-----------: | :---------: |:---------: |
 |03/12/2022|04/12/2022|1.0|Criação do documento| [Pedro Lucas](https://github.com/PedroLSF) |[Ana Luiza](https://github.com/AnHoff)|
+|04/12/2022|05/12/2022|1.1|Adição de links e detalhamento do texto| [Joao Lucas](https://github.com/HacKairo) |[Pedro Lucas](https://github.com/PedroLSF)|
 
 ## Introdução
-Caso deseje entender mais sobre a técnica utilizada nesse documento clique *aqui*
+Caso deseje entender mais sobre a técnica utilizada nesse documento clique [*aqui*](https://requisitos-de-software.github.io/2022.2-MEI/Requisitos/Elicita%C3%A7%C3%A3o/tecnicas-elicitacao/)
+
+O brainstorming foi realizado durante a 5ª Reunião do grupo, no dia 3 de dezembro de 2022.
 
 Instruções do Brainstorming da equipe:
-
 
 A equipe irá se dividir em 1 mediador e 3 possíveis personas, a fim de se colocar no lugar do usuário e elicitar alguns requisitos.
 
@@ -61,14 +63,14 @@ Os seguintes dados serão a introduzação das personas que iremos utilizar no b
 * **Motivação**: Queria entreter-se no tempo livre e seu hobby virou uma fonte de renda extra;
 * **Afinidade com tecnologia**: Baixa.
 
-Após a definição dos perfis, o brainstorming será realizado e o desenvolvimento pode ser encontrado *aqui:*.
+Após a definição dos perfis, o brainstorming será realizado e o desenvolvimento pode ser encontrado [**aqui**](https://youtu.be/IEj32_Gj0Vo) (Link com o video completo do *Brainstorming*).
 
 Tabela de requisitos funcionais:
 
 |ID|Requisito|Descrição|Nível de Benefício| Penalidade |
 | :----------: |:----------:| :------: | :-----------: | :---------: |
 |BS01|Cadastro|O aplicativo deve instruir o usuário para a criação do CNPJ|9|9|
-|BS02|Login|O aplicativo deve permitir o login|9|9|
+|BS02|Login|Implementação de um sistema de login|9|9|
 |BS03|Lembrete|O aplicativo deve emitir um lembrete para o pagamento do DAS|4|5|
 |BS04|Depedência|O aplicativo deve obter dados dentro do próprio aplicativo|6|7|
 |BS05|Plataforma Única|O aplicativo deve solicitar autorização para pegar dados de outros sites do governo|6|6|
@@ -80,9 +82,9 @@ Tabela de requisitos não funcionais:
 
 |ID|Requisito|Descrição|Nível de Benefício| Penalidade |
 | :----------: |:----------:| :------: | :-----------: | :---------: |
-|BS08|Diversificação|O aplicativo deve ser possível de ser utilizado em todos modelos de dispositivos|7|7|
+|BS08|Diversificação|O aplicativo deve ser possível de ser utilizado na maioria dos modelos de dispositivos|7|7|
 |BS09|Segurança|O aplicativo deve validar a pessoa que está utilizando o CNPJ|8|8|
-|BS10|Diversificação|O aplicativo deve ser possível de ser utilizado em todos modelos de SO|9|7|
+|BS10|Diversificação|O aplicativo deve ser possível de ser utilizado na maioria dos modelos de SO|9|7|
 |BS11|Acessibilidade|O aplicativo deve ser acessível para usuário com algum tipo de deficiência|5|6|
 |BS12|Detalhar Texto|O aplicativo deve conter texto que seja de fácil entendimento|5|5|
 

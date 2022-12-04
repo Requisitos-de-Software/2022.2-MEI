@@ -4,7 +4,7 @@
 
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:----------:| :------: | :-----------: | :---------: |:---------: |
-|03/12/2022|04/12/2022|1.0|Criação do documento| [Pedro Lucas](https://github.com/PedroLSF) |A Definir|
+|03/12/2022|04/12/2022|1.0|Criação do documento| [Pedro Lucas](https://github.com/PedroLSF) | [João Lucas](https://github.com/HacKairos)|
 
 ## Introdução
 
@@ -15,10 +15,13 @@ Será utilizado o modelo de **Entrevista Fechada**, ou seja, definimos perguntas
 ## Dados
 
 * Entrevistador: Pedro Lucas S. Fernandes
-* Entrevistado: Renal Almeida de Souza - 26 anos
 * Data: 03/12/2022
 * Horário: 13:00
 * Duração 7:57 minutos
+
+### Entrevistado
+
+Nome: Renan Almeida de Souza.<br>Idade: 26 anos.<br>Sexo: Masculino.<br>Escolaridade: Ensino Superior Completo.<br>Classe Social: Media.
 
 ## Perguntas e Respostas
 
@@ -82,6 +85,11 @@ Resposta: Sem dificuldades.
 |ENT3|Confiabilidade|O aplicativo deve evitar os erros e telas brancas através do uso |9|9| Não Funcional|
 |ENT4|Salvamento|O aplicativo deve salvar as informações|7|6| Não Funcional |
 
+## Audio da entrevista
+<audio controls>
+  <source src="../../../assets/outros/AudioEntrevistaRenan.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 **Legendas**:
 
