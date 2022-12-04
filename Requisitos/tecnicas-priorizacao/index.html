@@ -807,20 +807,6 @@
               
   
   
-  
-    <li class="md-nav__item">
-      <a href="../tecnicas-elicitacao/" class="md-nav__link">
-        Técnicas de Elicitação
-      </a>
-    </li>
-  
-
-            
-          
-            
-              
-  
-  
     
   
   
@@ -885,8 +871,8 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#priorizacao-baseada-no-valor-custo-e-risco" class="md-nav__link">
-    Priorização baseada no valor, custo e risco
+  <a href="#three-level-scale" class="md-nav__link">
+    Three-Level Scale
   </a>
   
 </li>
@@ -909,6 +895,95 @@
   
 </nav>
       
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6_5" type="checkbox" id="__nav_6_5" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6_5">
+          Elicitação
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Elicitação" data-md-level="2">
+        <label class="md-nav__title" for="__nav_6_5">
+          <span class="md-nav__icon md-icon"></span>
+          Elicitação
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Elicita%C3%A7%C3%A3o/Brainstorming/" class="md-nav__link">
+        Brainstorming
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Elicita%C3%A7%C3%A3o/Entrevista/" class="md-nav__link">
+        Entrevista
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Elicita%C3%A7%C3%A3o/Introspeccao/" class="md-nav__link">
+        Introspecção
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Elicita%C3%A7%C3%A3o/tecnicas-elicitacao/" class="md-nav__link">
+        Técnicas de Elicitação
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
     </li>
   
 
@@ -975,8 +1050,8 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#priorizacao-baseada-no-valor-custo-e-risco" class="md-nav__link">
-    Priorização baseada no valor, custo e risco
+  <a href="#three-level-scale" class="md-nav__link">
+    Three-Level Scale
   </a>
   
 </li>
@@ -1053,12 +1128,20 @@
 <td align="center"><a href="https://github.com/Thiab394">Thiago Olivera</a></td>
 <td align="center"><a href="https://github.com/HacKairos">João Lucas</a></td>
 </tr>
+<tr>
+<td align="center">04/12/2022</td>
+<td align="center">04/12/2022</td>
+<td align="center">1.3</td>
+<td align="center">Adiciona tabelas</td>
+<td align="center"><a href="https://github.com/AnHoff">Ana Luiza</a></td>
+<td align="center"><a href="https://github.com/Eruel6">Arthur Taylor</a></td>
+</tr>
 </tbody>
 </table>
 <h2 id="introducao">Introdução</h2>
 <p>Para gerar valor agregado ao produto desde as primeiras entregas, é necessário saber quais requisitos elicitados serão desenvolvidos no início do processo para que haja um ponto de partida otimista para os clientes e/ou usuários. Assim, surge a necessidade de realizar a priorização dos requisitos elicitados.</p>
 <p>A priorização costuma ser realizada com o uso de tabelas que possuem o objetivo de categorizar os requisitos elicitados em baixa, média ou alta prioridade. Além disso, a priorização deve ser feita levando em consideração as expectativas e necessidades dos clientes, não tendo, portanto, opinião exclusiva dos desenvolvedores.</p>
-<p>Abaixo serão apresentadas algumas técnicas comuns para priorização de requisitos.</p>
+<p>Abaixo serão apresentadas algumas técnicas comuns para priorização de requisitos e seus respectivos resultados de aplicação.</p>
 <h2 id="moscow">MoSCoW</h2>
 <p>Essa técnica é simples e proporciona um esquema de quatro possíveis classificações de prioridade para os requisitos. São elas:</p>
 <ul>
@@ -1067,9 +1150,188 @@
 <li><strong>C</strong>ould: se refere aos requisitos desejáveis, porém dispensáveis. Ou seja, são aqueles que serão implementados apenas caso o tempo e os recursos permitirem;</li>
 <li><strong>W</strong>on't: requisito(s) que não será(ão) implementado(s) em primeiro momento, mas que podem ser incluídos em versões futuras do produto.</li>
 </ul>
-<p>A proposta dessa técnica é elaborar uma alternativa para a clássica divisão em três níveis (baixo, médio, alto) de prioridade. Sua aplicação é simples e rápida de realizar, porém pode apresentar furos relacionados à definição de tempo, afinal, "won't" irá significar que o requisito não será implementado na primeira release ou que nunca será implementado? Por esse fator, a técnica MoSCoW não deverá ser posta em prática sozinha nesse projeto, sendo, portanto complementada pelas técnicas apresentadas abaixo.</p>
+<p>A proposta dessa técnica é elaborar uma alternativa para a clássica divisão em três níveis (baixo, médio, alto) de prioridade. Sua aplicação é rápida, porém pode apresentar furos relacionados à definição de tempo, afinal, "won't" irá significar que o requisito não será implementado na primeira release ou que nunca será implementado? Por esse fator, a técnica MoSCoW não deverá ser posta em prática sozinha nesse projeto, sendo, portanto, complementada pelas outras técnicas apresentadas nesse documento.</p>
+<p>Na tabela 1 a seguir, é possível conferir a classificação dos requisitos elicitados de acordo com as propostas da técnica MoSCoW. Note que alguns requisitos foram detectados em mais de uma técnica de elicitação e, para evitar redundância na tabela, eles foram citados apenas uma vez (como o requisito login, por exemplo).
+<br><br></p>
+<p><center></p>
+<table>
+<thead>
+<tr>
+<th align="center">ID</th>
+<th align="center">Requisito</th>
+<th align="center">Descrição</th>
+<th align="center">Tipo</th>
+<th align="center">Classificação</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">BS1</td>
+<td align="center">Cadastro</td>
+<td align="center">O aplicativo deve instruir o usuário para a criação do CNPJ</td>
+<td align="center">Funcional</td>
+<td align="center">Must</td>
+</tr>
+<tr>
+<td align="center">BS2</td>
+<td align="center">Login</td>
+<td align="center">O aplicativo deve permitir o login</td>
+<td align="center">Funcional</td>
+<td align="center">Must</td>
+</tr>
+<tr>
+<td align="center">BS9</td>
+<td align="center">Segurança</td>
+<td align="center">O aplicativo deve validar a pessoa que está utilizando o CNPJ</td>
+<td align="center">Não Funcional</td>
+<td align="center">Must</td>
+</tr>
+<tr>
+<td align="center">BS11</td>
+<td align="center">Acessibilidade</td>
+<td align="center">O aplicativo deve ser acessível para usuários com deficiência</td>
+<td align="center">Não Funcional</td>
+<td align="center">Must</td>
+</tr>
+<tr>
+<td align="center">BS8</td>
+<td align="center">Diversificação</td>
+<td align="center">Deve ser possível utilizar o app em todos os modelos de dispositivos</td>
+<td align="center">Não Funcional</td>
+<td align="center">Should</td>
+</tr>
+<tr>
+<td align="center">BS4</td>
+<td align="center">Depedência</td>
+<td align="center">O aplicativo deve obter de dados dentro do próprio aplicativo</td>
+<td align="center">Funcional</td>
+<td align="center">Should</td>
+</tr>
+<tr>
+<td align="center">BS6</td>
+<td align="center">Avisos</td>
+<td align="center">O aplicativo deve mostrar de forma clara se uma ação foi realizada com sucesso ou não</td>
+<td align="center">Funcional</td>
+<td align="center">Should</td>
+</tr>
+<tr>
+<td align="center">BS12</td>
+<td align="center">Detalhar Texto</td>
+<td align="center">O aplicativo deve conter texto de fácil entendimento</td>
+<td align="center">Não Funcional</td>
+<td align="center">Could</td>
+</tr>
+<tr>
+<td align="center">BS3</td>
+<td align="center">Lembrete</td>
+<td align="center">O aplicativo deve emitir um lembrete para o pagamento do DAS</td>
+<td align="center">Funcional</td>
+<td align="center">Could</td>
+</tr>
+<tr>
+<td align="center">BS7</td>
+<td align="center">Suporte</td>
+<td align="center">O aplicativo deve fornecer suporte para os usuários</td>
+<td align="center">Funcional</td>
+<td align="center">Could</td>
+</tr>
+<tr>
+<td align="center">BS5</td>
+<td align="center">Plataforma Única</td>
+<td align="center">O aplicativo deve solicitar autorização para pegar dados de outros sites do governo</td>
+<td align="center">Funcional</td>
+<td align="center">Won't</td>
+</tr>
+<tr>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td align="center">ENT4</td>
+<td align="center">Salvamento</td>
+<td align="center">O aplicativo deve salvar as informações</td>
+<td align="center">Não Funcional</td>
+<td align="center">Must</td>
+</tr>
+<tr>
+<td align="center">ENT3</td>
+<td align="center">Confiabilidade</td>
+<td align="center">O aplicativo deve evitar os erros e telas brancas através do uso</td>
+<td align="center">Não Funcional</td>
+<td align="center">Should</td>
+</tr>
+<tr>
+<td align="center">ENT1</td>
+<td align="center">Validação</td>
+<td align="center">O aplicativo deve solicitar o CNPJ apenas uma vez</td>
+<td align="center">Funcional</td>
+<td align="center">Could</td>
+</tr>
+<tr>
+<td align="center">ENT2</td>
+<td align="center">Consistência</td>
+<td align="center">O aplicativo deve ir até o final da operação antes de realizar outra etapa</td>
+<td align="center">Não Funcional</td>
+<td align="center">Could</td>
+</tr>
+<tr>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td align="center">IS03</td>
+<td align="center">Informação</td>
+<td align="center">Deve ser possível Consultar informações do CNPJ</td>
+<td align="center">Funcional</td>
+<td align="center">Should</td>
+</tr>
+<tr>
+<td align="center">IS05</td>
+<td align="center">FAQ</td>
+<td align="center">Deve ser possível consultar perguntas e respostas frequentes</td>
+<td align="center">Funcional</td>
+<td align="center">Should</td>
+</tr>
+<tr>
+<td align="center">IS06</td>
+<td align="center">Compatibilidade</td>
+<td align="center">O aplicativo deve ser suportado pelos principais sistemas mobile</td>
+<td align="center">Não Funcional</td>
+<td align="center">Should</td>
+</tr>
+<tr>
+<td align="center">IS08</td>
+<td align="center">Facilidade de uso</td>
+<td align="center">O aplicativo deve ser de fácil entendimento e uso por seus usuários</td>
+<td align="center">Não Funcional</td>
+<td align="center">Should</td>
+</tr>
+<tr>
+<td align="center">IS02</td>
+<td align="center">Emissão</td>
+<td align="center">Deve ser possível emitir o DAS</td>
+<td align="center">Funcional</td>
+<td align="center">Could</td>
+</tr>
+<tr>
+<td align="center">IS04</td>
+<td align="center">Restituição</td>
+<td align="center">Deve ser possível pedir restituição</td>
+<td align="center">Funcional</td>
+<td align="center">Could</td>
+</tr>
+</tbody>
+</table>
+<p>Tabela 1 - Priorização de requisitos com MoSCoW
+</center></p>
 <h2 id="first-things-first">First Things First</h2>
-<p>A técnica First Things First é um pouco mais elaborada que a MoSCoW. Ela foca na importância de equilibrar os benefícios e os custos de cada requisito, além de propor a definição das consequências que cada um deles irá gerar na arquitetura do software, o alinhamento dos requisitos com as regras de negócios e o estabelecimento do risco técnico agregado a cada um dos requisitos.</p>
+<p>A técnica First Things First é mais elaborada que a MoSCoW. Ela foca na importância de equilibrar os benefícios e os custos de cada requisito, além de propor a definição das consequências que cada um deles irá gerar na arquitetura do software, o alinhamento dos requisitos com as regras de negócios e o estabelecimento do risco técnico agregado a cada um dos requisitos.</p>
 <p>Nessa técnica estão envolvidos: </p>
 <ul>
 <li>Gerente, responsável por liderar o processo e lidar com conflitos;</li>
@@ -1081,21 +1343,29 @@
 <p>O próximo passo é, em uma escala de 1 a 9, estimar o custo de implementação de cada requisito. Essa etapa conta com participação especial dos desenvolvedores, que classificarão os custos levando em consideração a complexidade, a interface necessária, a capacidade de reutilização do código, os testes e a documentação relativa a cada requisito.</p>
 <p>O mesmo explicado acima deverá ser feito para estimar o grau de risco para cada requisito, sendo que um grau elevado é indicativo de prováveis problemas sobre sua viabilidade, disponibilidade de pessoal e uso de tecnologias e/ou ferramentas desconhecidas. A prioridade pode ser calculada seguindo a seguinte fórmula:</p>
 <p><em>prioridade = (valor%) / (custo% x peso do custo + risco% x peso do risco)</em></p>
-<p>Por fim, deve-se ordenar a lista de acordo com a ordem crescente de prioridade, sendo os requisitos do topo da lista os mais equilibrados em termos de valor, custo e risco. Tendo isso em mente, tais requisitos devem ser priorizados.</p>
-<h2 id="priorizacao-baseada-no-valor-custo-e-risco">Priorização baseada no valor, custo e risco</h2>
-<p>Essa técnica de priorização propõe um método mais analítico, ideal para situações onde os stakeholders não entram em consenso sobre a prioridade de cada requisito por meio das outras técnicas. Ela utiliza, portanto, uma técnica conhecida como QFD (Quality Function Deployment), que é rigorosa na relação dos valores do cliente às features propostas pelo produto.</p>
-<p>Para priorizar os requisitos, essa técnica utiliza, normalmente, uma planilha que classifica o valor do benefício oferecido ao cliente caso o requisito seja implementado e as penalidades que a falta desse recurso pode trazer para o mesmo. Assim, essa técnica providencia uma abordagem contínua dos requisitos, sem dividi-los em certos níveis pré-definidos de prioridades. Essa característica torna tal método especialmente atrativo para classificar requisitos que não possuem uma prioridade definida. Nessa análise, não devem ser incluídos itens relacionados às funções básicas da empresa, por exemplo.</p>
-<p>Fazem parte desse processo:</p>
+<p>Por fim, deve-se ordenar a lista de acordo com a ordem decrescente de prioridade, sendo os requisitos do topo da lista os mais equilibrados em termos de valor, custo e risco. Tendo isso em mente, tais requisitos devem ser priorizados.</p>
+<p>Abaixo está a tabela 2, apresentando os resultados da First Things First. Vale destacar que alguns requisitos foram detectados por mais de um método, como por exemplo o login, e por isso foram declarados na tabela apenas uma vez.
+<br><br></p>
+<p><center></p>
+<iframe width="1000" height="500" style="-webkit-transform:scale(1);-moz-transform-scale(1);" frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSuC9dJeohLdIleRbNnzG4rc54lHtYv4CO87YVKVRGm9c9VMeJVpLPa2Ajj866Quf_TRVtKs_fPf9lv/pubhtml?gid=885337733&single=true"></iframe>
+<p>Tabela 2 - Priorização de requisitos com First Things First</p>
+<p></center></p>
+<h2 id="three-level-scale">Three-Level Scale</h2>
+<p>Essa técnica de priorização propõe agrupar os requisitos, os enquadrando em três categorias. Essas categorias definem se o requisito elicitado possui baixa, média ou alta prioridade e por isso é considerada uma técnica imprecisa. Os desenvolvedores devem, antes de aplicá-la, entrar em consenso com uma definição para cada nível de prioridade, considerando a importância e a urgência de cada requisito.</p>
+<p>Definições comuns da escala serão utilizadas para priorizar os requisitos nesse projeto. São elas:</p>
 <ul>
-<li>Gerente de projeto ou analista de negócios;</li>
-<li>Representantes do cliente;</li>
-<li>Representantes do desenvolvimento.</li>
+<li><strong>Alta prioridade</strong>: são os requisitos considerados importantes e urgentes;</li>
+<li><strong>Média prioridade</strong>: são os requisitos importantes porém não urgentes;</li>
+<li><strong>Baixa prioridade</strong>: são requisitos sem importância e urgência.</li>
 </ul>
-<p>Para iniciar o uso desse modelo de priorização de requisitos, primeiro deve-se listar numa planilha todos os casos de uso, histórias de usuários, funcionalidades ou requisitos funcionais que devem ser classificados. Após realizar a listagem, os representantes do cliente devem estimar o benefício relativo que cada funcionalidade iria prover ao usuário, em uma escala de 1 a 9; deve-se fazer o mesmo para estimar as penalidades que o usuário sofreria com a ausência de tal funcionalidade. Em seguida, os desenvolvedores devem estimar um custo relativo à implementação e/ou complexidade de cada funcionalidade, repetindo o processo para estimar o risco técnico associado a cada funcionalidade. A planilha irá calcular a prioridade com base na equação abaixo:</p>
-<p><em>prioridade = (valor%) / (custo% + risco%)</em></p>
-<p>Por fim, classifica-se os requisitos em ordem descendente de prioridade, tendo as funcionalidades com bom balanceamento de valor, custo e risco no topo de prioridade.</p>
+<p>Vale destacar que há um quarto quadrante na tabela formada por essa técnica: requisitos urgentes porém não importantes. Essa área engloba requisitos que são urgentes para algum stakeholder específico mas que não são importantes para atingir os objetivos do produto. Tais requisitos não incrementam valor significante ao produto e não devem ser de forma alguma priorizados.</p>
+<p>Segue abaixo a tabela 3, que apresenta os resultados da plicação da técnica Three-Level Scale.</p>
+<p><center></p>
+<iframe width="1000" height="450" style="-webkit-transform:scale(1);-moz-transform-scale(1);" frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSuC9dJeohLdIleRbNnzG4rc54lHtYv4CO87YVKVRGm9c9VMeJVpLPa2Ajj866Quf_TRVtKs_fPf9lv/pubhtml?gid=1615492145&single=true"></iframe>
+<p>Tabela 3 - Priorização de requisitos com Three-Level Scale</p>
+<p></center></p>
 <h2 id="conclusao">Conclusão</h2>
-<p>As técnicas apresentadas acima possuem diferentes níveis de complexidade. Portanto, é vantajoso aplicar todas as três técnicas citadas acima no projeto da disciplina, visto que serão fontes de grandes aprendizados e propiciarão avaliações completas e assertivas sobre a priorização de cada requisito elicitado.</p>
+<p>As técnicas apresentadas acima possuem diferentes níveis de complexidade. Portanto, é vantajoso aplicar todas as três técnicas citadas no projeto da disciplina, visto que serão fontes de grandes aprendizados e propiciarão avaliações completas e assertivas sobre a priorização de cada requisito elicitado.</p>
 <p>Por fim, também deve-se ressaltar a ampla interação da equipe do projeto com o usuário que será incentivada pelas diversas técnicas. Seja o usuário uma pessoa real ou uma persona, a interação será uma parte crucial para a definição da importância dos requisitos e, consequentemente, para a definição de todo o andamento do projeto.</p>
 <h2 id="bibliografia">Bibliografia</h2>
 <p>Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
@@ -1126,7 +1396,7 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação.</p>
     <nav class="md-footer__inner md-grid" aria-label="Rodapé" >
       
         
-        <a href="../tecnicas-elicitacao/" class="md-footer__link md-footer__link--prev" aria-label="Anterior: Técnicas de Elicitação" rel="prev">
+        <a href="../personas/" class="md-footer__link md-footer__link--prev" aria-label="Anterior: Personas" rel="prev">
           <div class="md-footer__button md-icon">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
           </div>
@@ -1135,11 +1405,26 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação.</p>
               <span class="md-footer__direction">
                 Anterior
               </span>
-              Técnicas de Elicitação
+              Personas
             </div>
           </div>
         </a>
       
+      
+        
+        <a href="../Elicita%C3%A7%C3%A3o/Brainstorming/" class="md-footer__link md-footer__link--next" aria-label="Próximo: Brainstorming" rel="next">
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Próximo
+              </span>
+              Brainstorming
+            </div>
+          </div>
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z"/></svg>
+          </div>
+        </a>
       
     </nav>
   
