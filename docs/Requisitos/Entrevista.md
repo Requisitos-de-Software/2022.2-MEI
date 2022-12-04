@@ -76,7 +76,7 @@ Resposta: Sem dificuldades.
 
 
 |ID|Requisito|Descrição|Nível de Benefício|Penalidade|Tipo|
-| :----------: |:----------:| :------: | :-----------: |:-----------: |
+| :----------: |:----------:| :------: | :-----------: |:-----------: | :----: |
 |ENT1|Validação|O aplicativo deve solicitar o CNPJ apenas uma vez|7|5| Funcional |
 |ENT2|Consistência|O aplicativo deve ir até o final da operação antes de realizar qualquer outra etapa|9|9| Não Funcional |
 |ENT3|Confiabilidade|O aplicativo deve evitar os erros e telas brancas através do uso |9|9| Não Funcional|
