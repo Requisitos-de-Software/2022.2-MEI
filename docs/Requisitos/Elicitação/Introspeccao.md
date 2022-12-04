@@ -4,7 +4,7 @@
 | :----------: |:----------:| :------: | :-----------: | :---------: |:---------: |
 |04/12/2022|05/12/2022|1.0|Criação do documento| [Arthur Taylor](https://github.com/Eruel6) |[Ana Luiza](https://github.com/AnHoff)|
 
-A instrospecção é uma técnica utilizada para elicitar requisitos. Caso deseje saber mais detalhadamente sobre essa técnica, acesse o documento de [técnicas de elicitação](https://requisitos-de-software.github.io/2022.2-MEI/Requisitos/tecnicas-elicitacao/).
+A instrospecção é uma técnica utilizada para elicitar requisitos. Caso deseje saber mais detalhadamente sobre essa técnica, acesse o documento de [técnicas de elicitação](https://requisitos-de-software.github.io/2022.2-MEI/Requisitos/Elicita%C3%A7%C3%A3o/tecnicas-elicitacao/).
 
 ## Tabela de requisitos funcionais:
 
