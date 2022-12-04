@@ -6,7 +6,7 @@
 |27/11/2022|28/11/2022|1.0|Criação do documento| [Ana Luiza](https://github.com/AnHoff) | [João Lucas](https://github.com/HacKairos) |
 |28/11/2022|29/11/2022|1.1|Adiciona outras técnicas e conclusão| [Ana Luiza](https://github.com/AnHoff) | [João Lucas](https://github.com/HacKairos) |
 |29/11/2022|30/11/2022|1.2|Correção do Historico de versão| [Thiago Olivera](https://github.com/Thiab394)| [João Lucas](https://github.com/HacKairos)|
-|04/12/2022|04/12/2022|1.3|Adiciona tabelas| [Ana Luiza](https://github.com/AnHoff) | A definir |
+|04/12/2022|04/12/2022|1.3|Adiciona tabelas| [Ana Luiza](https://github.com/AnHoff) | [Arthur Taylor](https://github.com/Eruel6) |
 
 ## Introdução
 Para gerar valor agregado ao produto desde as primeiras entregas, é necessário saber quais requisitos elicitados serão desenvolvidos no início do processo para que haja um ponto de partida otimista para os clientes e/ou usuários. Assim, surge a necessidade de realizar a priorização dos requisitos elicitados.
