@@ -59,7 +59,6 @@ Na tabela 1 a seguir, é possível conferir a classificação dos requisitos eli
 
 Tabela 1 - Priorização de requisitos com MoSCoW
 </center>
-<br>
 
 ## First Things First
 A técnica First Things First é mais elaborada que a MoSCoW. Ela foca na importância de equilibrar os benefícios e os custos de cada requisito, além de propor a definição das consequências que cada um deles irá gerar na arquitetura do software, o alinhamento dos requisitos com as regras de negócios e o estabelecimento do risco técnico agregado a cada um dos requisitos.
@@ -107,11 +106,10 @@ Segue abaixo a tabela 3, que apresenta os resultados da plicação da técnica T
 
 <center>
 
-<iframe width="1000" height="500" style="-webkit-transform:scale(1);-moz-transform-scale(1);" frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSuC9dJeohLdIleRbNnzG4rc54lHtYv4CO87YVKVRGm9c9VMeJVpLPa2Ajj866Quf_TRVtKs_fPf9lv/pubhtml?gid=1615492145&single=true"></iframe>
+<iframe width="1000" height="450" style="-webkit-transform:scale(1);-moz-transform-scale(1);" frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSuC9dJeohLdIleRbNnzG4rc54lHtYv4CO87YVKVRGm9c9VMeJVpLPa2Ajj866Quf_TRVtKs_fPf9lv/pubhtml?gid=1615492145&single=true"></iframe>
 Tabela 3 - Priorização de requisitos com Three-Level Scale
 
 </center>
-
 
 ## Conclusão
 As técnicas apresentadas acima possuem diferentes níveis de complexidade. Portanto, é vantajoso aplicar todas as três técnicas citadas no projeto da disciplina, visto que serão fontes de grandes aprendizados e propiciarão avaliações completas e assertivas sobre a priorização de cada requisito elicitado.
