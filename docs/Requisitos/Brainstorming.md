@@ -4,7 +4,7 @@
 
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:----------:| :------: | :-----------: | :---------: |:---------: |
-|03/12/2022|04/12/2022|1.0|Criação do documento| [Pedro Lucas](https://github.com/PedroLSF) |A Definir|
+|03/12/2022|04/12/2022|1.0|Criação do documento| [Pedro Lucas](https://github.com/PedroLSF) |[Ana Luiza](https://github.com/AnHoff)|
 
 ## Introdução
 Caso deseje entender mais sobre a técnica utilizada nesse documento clique *aqui*
@@ -67,24 +67,24 @@ Tabela de requisitos funcionais:
 
 |ID|Requisito|Descrição|Nível de Benefício| Penalidade |
 | :----------: |:----------:| :------: | :-----------: | :---------: |
-|BS1|Cadastro|O aplicativo deve instruir o usuário para a criação do CNPJ|8|9|
-|BS2|Login|O aplicativo deve permitir o login|7|6|
-|BS3|Lembrete|O aplicativo deve emitir um lembrete para o pagamento do DAS|9|7|
-|BS4|Depedência|O aplicativo deve obter de dados dentro do próprio aplicativo|6|8|
-|BS5|Plataforma Única|O aplicativo deve solicitar autorização para pegar dados de outros sites do governo|9|9|
-|BS6|Avisos|O aplicativo deve mostrar de forma clara se uma ação foi realizada com sucesso ou não|8|7|
-|BS7|Suporte|O aplicativo deve fornecer suporte para os usuários|6|4|
+|BS01|Cadastro|O aplicativo deve instruir o usuário para a criação do CNPJ|9|9|
+|BS02|Login|O aplicativo deve permitir o login|9|9|
+|BS03|Lembrete|O aplicativo deve emitir um lembrete para o pagamento do DAS|4|5|
+|BS04|Depedência|O aplicativo deve obter dados dentro do próprio aplicativo|6|7|
+|BS05|Plataforma Única|O aplicativo deve solicitar autorização para pegar dados de outros sites do governo|6|6|
+|BS06|Avisos|O aplicativo deve mostrar de forma clara se uma ação foi realizada com sucesso ou não|4|3|
+|BS07|Suporte|O aplicativo deve fornecer suporte para os usuários|4|6|
 
 
 Tabela de requisitos não funcionais:
 
 |ID|Requisito|Descrição|Nível de Benefício| Penalidade |
 | :----------: |:----------:| :------: | :-----------: | :---------: |
-|BS8|Diversificação|O aplicativo deve ser possível de ser utilizado em todos modelos de dispositivos|9|6|
-|BS9|Segurança|O aplicativo deve validar a pessoa que está utilizando o CNPJ|10|8|
-|BS10|Diversificação|O aplicativo deve ser possível de ser utilizado em todos modelos de máquina|9|7|
-|BS11|Acessibilidade|O aplicativo deve ser acessível para usuário com algum tipo de deficiência|9|6|
-|BS12|Detalhar Texto|O aplicativo deve conter texto que seja de fácil entendimento|7|9|
+|BS08|Diversificação|O aplicativo deve ser possível de ser utilizado em todos modelos de dispositivos|7|7|
+|BS09|Segurança|O aplicativo deve validar a pessoa que está utilizando o CNPJ|8|8|
+|BS10|Diversificação|O aplicativo deve ser possível de ser utilizado em todos modelos de SO|9|7|
+|BS11|Acessibilidade|O aplicativo deve ser acessível para usuário com algum tipo de deficiência|5|6|
+|BS12|Detalhar Texto|O aplicativo deve conter texto que seja de fácil entendimento|5|5|
 
 **Legendas**:
 

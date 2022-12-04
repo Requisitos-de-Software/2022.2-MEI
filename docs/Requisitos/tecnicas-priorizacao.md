@@ -25,7 +25,7 @@ Essa técnica é simples e proporciona um esquema de quatro possíveis classific
 
 A proposta dessa técnica é elaborar uma alternativa para a clássica divisão em três níveis (baixo, médio, alto) de prioridade. Sua aplicação é rápida, porém pode apresentar furos relacionados à definição de tempo, afinal, "won't" irá significar que o requisito não será implementado na primeira release ou que nunca será implementado? Por esse fator, a técnica MoSCoW não deverá ser posta em prática sozinha nesse projeto, sendo, portanto, complementada pelas outras técnicas apresentadas nesse documento.
 
-Na tabela 1 a seguir, é possível conferir a classificação dos requisitos elicitados de acordo com as propostas da técnica MoSCoW.
+Na tabela 1 a seguir, é possível conferir a classificação dos requisitos elicitados de acordo com as propostas da técnica MoSCoW. Note que alguns requisitos foram detectados em mais de uma técnica de elicitação e, para evitar redundância na tabela, eles foram citados apenas uma vez (como o requisito login, por exemplo).
 <br><br>
 
 <center>
@@ -38,17 +38,24 @@ Na tabela 1 a seguir, é possível conferir a classificação dos requisitos eli
 |BS11|Acessibilidade|O aplicativo deve ser acessível para usuários com deficiência|Não Funcional|Must|
 |BS8|Diversificação|Deve ser possível utilizar o app em todos os modelos de dispositivos|Não Funcional|Should|
 |BS4|Depedência|O aplicativo deve obter de dados dentro do próprio aplicativo|Funcional|Should|
-|BS5|Plataforma Única|O aplicativo deve solicitar autorização para pegar dados de outros sites do governo|Funcional|Should|
 |BS6|Avisos|O aplicativo deve mostrar de forma clara se uma ação foi realizada com sucesso ou não|Funcional|Should|
 |BS12|Detalhar Texto|O aplicativo deve conter texto de fácil entendimento|Não Funcional|Could|
 |BS3|Lembrete|O aplicativo deve emitir um lembrete para o pagamento do DAS|Funcional|Could|
 |BS7|Suporte|O aplicativo deve fornecer suporte para os usuários|Funcional|Could|
-|BS10|Diversificação|Deve ser possível utilizar o app em todos os modelos de máquina|Não Funcional|Won't|
+|BS5|Plataforma Única|O aplicativo deve solicitar autorização para pegar dados de outros sites do governo|Funcional|Won't|
 |-|-|-|-|-|
 |ENT4|Salvamento|O aplicativo deve salvar as informações|Não Funcional|Must|
 |ENT3|Confiabilidade|O aplicativo deve evitar os erros e telas brancas através do uso|Não Funcional|Should|
 |ENT1|Validação|O aplicativo deve solicitar o CNPJ apenas uma vez|Funcional|Could|
 |ENT2|Consistência|O aplicativo deve ir até o final da operação antes de realizar outra etapa|Não Funcional|Could|
+|-|-|-|-|-|
+|IS03|Informação|Deve ser possível Consultar informações do CNPJ|Funcional|Should|
+|IS05|FAQ|Deve ser possível consultar perguntas e respostas frequentes|Funcional|Should|
+|IS06|Compatibilidade|O aplicativo deve ser suportado pelos principais sistemas mobile|Não Funcional|Should|
+|IS08|Facilidade de uso|O aplicativo deve ser de fácil entendimento e uso por seus usuários|Não Funcional|Should|
+|IS02|Emissão|Deve ser possível emitir o DAS|Funcional|Could|
+|IS04|Restituição|Deve ser possível pedir restituição|Funcional|Could|
+
 
 Tabela 1 - Priorização de requisitos com MoSCoW
 </center>
@@ -75,7 +82,7 @@ O mesmo explicado acima deverá ser feito para estimar o grau de risco para cada
 
 Por fim, deve-se ordenar a lista de acordo com a ordem decrescente de prioridade, sendo os requisitos do topo da lista os mais equilibrados em termos de valor, custo e risco. Tendo isso em mente, tais requisitos devem ser priorizados.
 
-Abaixo está a tabela 2, apresentando os resultados da First Things First.
+Abaixo está a tabela 2, apresentando os resultados da First Things First. Vale destacar que alguns requisitos foram detectados por mais de um método, como por exemplo o login, e por isso foram declarados na tabela apenas uma vez.
 <br><br>
 
 <center>
@@ -85,26 +92,29 @@ Tabela 2 - Priorização de requisitos com First Things First
 
 </center>
 
-## QFD
-Essa técnica de priorização propõe um método mais analítico, ideal para situações onde os stakeholders não entram em consenso sobre a prioridade de cada requisito por meio das outras técnicas. A QFD (Quality Function Deployment) é rigorosa na relação dos valores do cliente às features propostas pelo produto.
+## Three-Level Scale
+Essa técnica de priorização propõe agrupar os requisitos, os enquadrando em três categorias. Essas categorias definem se o requisito elicitado possui baixa, média ou alta prioridade e por isso é considerada uma técnica imprecisa. Os desenvolvedores devem, antes de aplicá-la, entrar em consenso com uma definição para cada nível de prioridade, considerando a importância e a urgência de cada requisito.
 
-Para priorizar os requisitos, essa técnica utiliza, normalmente, uma planilha que classifica o valor do benefício oferecido ao cliente caso o requisito seja implementado e as penalidades que a falta desse recurso pode trazer para o mesmo. Assim, essa técnica providencia uma abordagem contínua dos requisitos, sem dividi-los em certos níveis pré-definidos de prioridades. Essa característica torna tal método especialmente atrativo para classificar requisitos que não possuem uma prioridade definida. Nessa análise, não devem ser incluídos itens relacionados às funções básicas da empresa, por exemplo.
+Definições comuns da escala serão utilizadas para priorizar os requisitos nesse projeto. São elas:
 
-Fazem parte desse processo:
+* **Alta prioridade**: são os requisitos considerados importantes e urgentes;
+* **Média prioridade**: são os requisitos importantes porém não urgentes;
+* **Baixa prioridade**: são requisitos sem importância e urgência.
 
-* Gerente de projeto ou analista de negócios;
-* Representantes do cliente;
-* Representantes do desenvolvimento.
+Vale destacar que há um quarto quadrante na tabela formada por essa técnica: requisitos urgentes porém não importantes. Essa área engloba requisitos que são urgentes para algum stakeholder específico mas que não são importantes para atingir os objetivos do produto. Tais requisitos não incrementam valor significante ao produto e não devem ser de forma alguma priorizados.
 
-Para iniciar o uso desse modelo de priorização de requisitos, primeiro deve-se listar numa planilha todos os casos de uso, histórias de usuários, funcionalidades ou requisitos funcionais que devem ser classificados. Após realizar a listagem, os representantes do cliente devem estimar o benefício relativo que cada funcionalidade iria prover ao usuário, em uma escala de 1 a 9; deve-se fazer o mesmo para estimar as penalidades que o usuário sofreria com a ausência de tal funcionalidade. Em seguida, os desenvolvedores devem estimar um custo relativo à implementação e/ou complexidade de cada funcionalidade, repetindo o processo para estimar o risco técnico associado a cada funcionalidade. A planilha irá calcular a prioridade com base na equação abaixo:
+Segue abaixo a tabela 3, que apresenta os resultados da plicação da técnica Three-Level Scale.
 
-*prioridade = (valor%) / (custo% + risco%)*
+<center>
 
-Por fim, classifica-se os requisitos em ordem descendente de prioridade, tendo as funcionalidades com bom balanceamento de valor, custo e risco no topo de prioridade.
+<iframe width="1000" height="500" style="-webkit-transform:scale(1);-moz-transform-scale(1);" frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSuC9dJeohLdIleRbNnzG4rc54lHtYv4CO87YVKVRGm9c9VMeJVpLPa2Ajj866Quf_TRVtKs_fPf9lv/pubhtml?gid=1615492145&single=true"></iframe>
+Tabela 3 - Priorização de requisitos com Three-Level Scale
+
+</center>
 
 
 ## Conclusão
-As técnicas apresentadas acima possuem diferentes níveis de complexidade. Portanto, é vantajoso aplicar todas as três técnicas citadas acima no projeto da disciplina, visto que serão fontes de grandes aprendizados e propiciarão avaliações completas e assertivas sobre a priorização de cada requisito elicitado.
+As técnicas apresentadas acima possuem diferentes níveis de complexidade. Portanto, é vantajoso aplicar todas as três técnicas citadas no projeto da disciplina, visto que serão fontes de grandes aprendizados e propiciarão avaliações completas e assertivas sobre a priorização de cada requisito elicitado.
 
 Por fim, também deve-se ressaltar a ampla interação da equipe do projeto com o usuário que será incentivada pelas diversas técnicas. Seja o usuário uma pessoa real ou uma persona, a interação será uma parte crucial para a definição da importância dos requisitos e, consequentemente, para a definição de todo o andamento do projeto.
 
