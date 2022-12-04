@@ -55,7 +55,7 @@ Tabela 1 - Priorização de requisitos com MoSCoW
 <br>
 
 ## First Things First
-A técnica First Things First é um pouco mais elaborada que a MoSCoW. Ela foca na importância de equilibrar os benefícios e os custos de cada requisito, além de propor a definição das consequências que cada um deles irá gerar na arquitetura do software, o alinhamento dos requisitos com as regras de negócios e o estabelecimento do risco técnico agregado a cada um dos requisitos.
+A técnica First Things First é mais elaborada que a MoSCoW. Ela foca na importância de equilibrar os benefícios e os custos de cada requisito, além de propor a definição das consequências que cada um deles irá gerar na arquitetura do software, o alinhamento dos requisitos com as regras de negócios e o estabelecimento do risco técnico agregado a cada um dos requisitos.
 
 Nessa técnica estão envolvidos: 
 
@@ -73,10 +73,20 @@ O mesmo explicado acima deverá ser feito para estimar o grau de risco para cada
 
 *prioridade = (valor%) / (custo% x peso do custo + risco% x peso do risco)*
 
-Por fim, deve-se ordenar a lista de acordo com a ordem crescente de prioridade, sendo os requisitos do topo da lista os mais equilibrados em termos de valor, custo e risco. Tendo isso em mente, tais requisitos devem ser priorizados.
+Por fim, deve-se ordenar a lista de acordo com a ordem decrescente de prioridade, sendo os requisitos do topo da lista os mais equilibrados em termos de valor, custo e risco. Tendo isso em mente, tais requisitos devem ser priorizados.
 
-## Priorização baseada no valor, custo e risco
-Essa técnica de priorização propõe um método mais analítico, ideal para situações onde os stakeholders não entram em consenso sobre a prioridade de cada requisito por meio das outras técnicas. Ela utiliza, portanto, uma técnica conhecida como QFD (Quality Function Deployment), que é rigorosa na relação dos valores do cliente às features propostas pelo produto.
+Abaixo está a tabela 2, apresentando os resultados da First Things First.
+<br><br>
+
+<center>
+
+<iframe width="1000" height="500" style="-webkit-transform:scale(1);-moz-transform-scale(1);" frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSuC9dJeohLdIleRbNnzG4rc54lHtYv4CO87YVKVRGm9c9VMeJVpLPa2Ajj866Quf_TRVtKs_fPf9lv/pubhtml?gid=885337733&single=true"></iframe>
+Tabela 2 - Priorização de requisitos com First Things First
+
+</center>
+
+## QFD
+Essa técnica de priorização propõe um método mais analítico, ideal para situações onde os stakeholders não entram em consenso sobre a prioridade de cada requisito por meio das outras técnicas. A QFD (Quality Function Deployment) é rigorosa na relação dos valores do cliente às features propostas pelo produto.
 
 Para priorizar os requisitos, essa técnica utiliza, normalmente, uma planilha que classifica o valor do benefício oferecido ao cliente caso o requisito seja implementado e as penalidades que a falta desse recurso pode trazer para o mesmo. Assim, essa técnica providencia uma abordagem contínua dos requisitos, sem dividi-los em certos níveis pré-definidos de prioridades. Essa característica torna tal método especialmente atrativo para classificar requisitos que não possuem uma prioridade definida. Nessa análise, não devem ser incluídos itens relacionados às funções básicas da empresa, por exemplo.
 
@@ -91,6 +101,7 @@ Para iniciar o uso desse modelo de priorização de requisitos, primeiro deve-se
 *prioridade = (valor%) / (custo% + risco%)*
 
 Por fim, classifica-se os requisitos em ordem descendente de prioridade, tendo as funcionalidades com bom balanceamento de valor, custo e risco no topo de prioridade.
+
 
 ## Conclusão
 As técnicas apresentadas acima possuem diferentes níveis de complexidade. Portanto, é vantajoso aplicar todas as três técnicas citadas acima no projeto da disciplina, visto que serão fontes de grandes aprendizados e propiciarão avaliações completas e assertivas sobre a priorização de cada requisito elicitado.
