@@ -70,9 +70,9 @@ Tabela de requisitos funcionais:
 |BS1|Cadastro|O aplicativo deve instruir o usuário para a criação do CNPJ|8|9|
 |BS2|Login|O aplicativo deve permitir o login|7|6|
 |BS3|Lembrete|O aplicativo deve emitir um lembrete para o pagamento do DAS|9|7|
-|BS4|Depedência|O aplicativo deve a obtenção de dados dentro do próprio aplicativo|6|8|
+|BS4|Depedência|O aplicativo deve obter de dados dentro do próprio aplicativo|6|8|
 |BS5|Plataforma Única|O aplicativo deve solicitar autorização para pegar dados de outros sites do governo|9|9|
-|BS6|Avisos|O aplicativo deve mostrar de forma clara que uma ação foi realizada com sucesso ou não|8|7|
+|BS6|Avisos|O aplicativo deve mostrar de forma clara se uma ação foi realizada com sucesso ou não|8|7|
 |BS7|Suporte|O aplicativo deve fornecer suporte para os usuários|6|4|
 
 
@@ -87,6 +87,7 @@ Tabela de requisitos não funcionais:
 |BS12|Detalhar Texto|O aplicativo deve conter texto que seja de fácil entendimento|7|9|
 
 **Legendas**:
+
 * BS -> Brainstorming
 * Nível de Benefício -> Vaira de 1 a 9, onde 1 é pouco benéfico e 9 é muito benéfico
 * Penalidade -> Varia de 1 a 9, onde 1 não gera muitos problemas e 9 impossibilita o uso do usuário

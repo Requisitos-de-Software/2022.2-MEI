@@ -10,7 +10,6 @@
 
 Depois de definir alguns tipos de perfis de usuários e personas, foi necessário conversar com algum dos possíveis usuários do aplicativo para entender as necessidades para que o usuário continue usando o MEI.
 
-
 Será utilizado o modelo de **Entrevista Fechada**, ou seja, definimos perguntas que serão interessantes para o levantamentos de requisitos e irei apresentar para o entrevistado.
 
 ## Dados
@@ -76,15 +75,16 @@ Resposta: Sem dificuldades.
 ## Requisitos Elicitados
 
 
-|ID|Requisito|Nível de Benefício|Penalidade|Tipo|
+|ID|Requisito|Descrição|Nível de Benefício|Penalidade|Tipo|
 | :----------: |:----------:| :------: | :-----------: |:-----------: |
-|ENT1|O aplicativo deve solicitar o CNPJ apenas uma vez|7|5| Funcional |
-|ENT2|O aplicativo deve ir até o final da operação antes de realizar qualquer outra etapa|9|9| Não Funcional |
-|ENT3|O aplicativo deve evitar os erros e telas brancas através do uso |9|9| Não Funcional|
-|ENT4|O aplicativo deve realizar e salvar as informações|7|6| Não Funcional |
+|ENT1|Validação|O aplicativo deve solicitar o CNPJ apenas uma vez|7|5| Funcional |
+|ENT2|Consistência|O aplicativo deve ir até o final da operação antes de realizar qualquer outra etapa|9|9| Não Funcional |
+|ENT3|Confiabilidade|O aplicativo deve evitar os erros e telas brancas através do uso |9|9| Não Funcional|
+|ENT4|Salvamento|O aplicativo deve salvar as informações|7|6| Não Funcional |
 
 
 **Legendas**:
+
 * ENT -> ID da entrevista
 * Nível de Benefício -> Vaira de 1 a 9, onde 1 é pouco benéfico e 9 é muito benéfico
 * Penalidade -> Varia de 1 a 9, onde 1 não gera muitos problemas e 9 impossibilita o uso do usuário

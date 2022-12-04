@@ -6,13 +6,14 @@
 |27/11/2022|28/11/2022|1.0|Criação do documento| [Ana Luiza](https://github.com/AnHoff) | [João Lucas](https://github.com/HacKairos) |
 |28/11/2022|29/11/2022|1.1|Adiciona outras técnicas e conclusão| [Ana Luiza](https://github.com/AnHoff) | [João Lucas](https://github.com/HacKairos) |
 |29/11/2022|30/11/2022|1.2|Correção do Historico de versão| [Thiago Olivera](https://github.com/Thiab394)| [João Lucas](https://github.com/HacKairos)|
+|04/12/2022|04/12/2022|1.3|Adiciona tabelas| [Ana Luiza](https://github.com/AnHoff) | A definir |
 
 ## Introdução
 Para gerar valor agregado ao produto desde as primeiras entregas, é necessário saber quais requisitos elicitados serão desenvolvidos no início do processo para que haja um ponto de partida otimista para os clientes e/ou usuários. Assim, surge a necessidade de realizar a priorização dos requisitos elicitados.
 
 A priorização costuma ser realizada com o uso de tabelas que possuem o objetivo de categorizar os requisitos elicitados em baixa, média ou alta prioridade. Além disso, a priorização deve ser feita levando em consideração as expectativas e necessidades dos clientes, não tendo, portanto, opinião exclusiva dos desenvolvedores.
 
-Abaixo serão apresentadas algumas técnicas comuns para priorização de requisitos.
+Abaixo serão apresentadas algumas técnicas comuns para priorização de requisitos e seus respectivos resultados de aplicação.
 
 ## MoSCoW
 Essa técnica é simples e proporciona um esquema de quatro possíveis classificações de prioridade para os requisitos. São elas:
@@ -22,7 +23,36 @@ Essa técnica é simples e proporciona um esquema de quatro possíveis classific
 * **C**ould: se refere aos requisitos desejáveis, porém dispensáveis. Ou seja, são aqueles que serão implementados apenas caso o tempo e os recursos permitirem;
 * **W**on't: requisito(s) que não será(ão) implementado(s) em primeiro momento, mas que podem ser incluídos em versões futuras do produto.
 
-A proposta dessa técnica é elaborar uma alternativa para a clássica divisão em três níveis (baixo, médio, alto) de prioridade. Sua aplicação é simples e rápida de realizar, porém pode apresentar furos relacionados à definição de tempo, afinal, "won't" irá significar que o requisito não será implementado na primeira release ou que nunca será implementado? Por esse fator, a técnica MoSCoW não deverá ser posta em prática sozinha nesse projeto, sendo, portanto complementada pelas técnicas apresentadas abaixo.
+A proposta dessa técnica é elaborar uma alternativa para a clássica divisão em três níveis (baixo, médio, alto) de prioridade. Sua aplicação é rápida, porém pode apresentar furos relacionados à definição de tempo, afinal, "won't" irá significar que o requisito não será implementado na primeira release ou que nunca será implementado? Por esse fator, a técnica MoSCoW não deverá ser posta em prática sozinha nesse projeto, sendo, portanto, complementada pelas outras técnicas apresentadas nesse documento.
+
+Na tabela 1 a seguir, é possível conferir a classificação dos requisitos elicitados de acordo com as propostas da técnica MoSCoW.
+<br><br>
+
+<center>
+
+|ID|Requisito|Descrição|Tipo|Classificação|
+| :---: | :---: | :---: | :---: | :---: |
+|BS1|Cadastro|O aplicativo deve instruir o usuário para a criação do CNPJ|Funcional|Must|
+|BS2|Login|O aplicativo deve permitir o login|Funcional|Must|
+|BS9|Segurança|O aplicativo deve validar a pessoa que está utilizando o CNPJ|Não Funcional|Must|
+|BS11|Acessibilidade|O aplicativo deve ser acessível para usuários com deficiência|Não Funcional|Must|
+|BS8|Diversificação|Deve ser possível utilizar o app em todos os modelos de dispositivos|Não Funcional|Should|
+|BS4|Depedência|O aplicativo deve obter de dados dentro do próprio aplicativo|Funcional|Should|
+|BS5|Plataforma Única|O aplicativo deve solicitar autorização para pegar dados de outros sites do governo|Funcional|Should|
+|BS6|Avisos|O aplicativo deve mostrar de forma clara se uma ação foi realizada com sucesso ou não|Funcional|Should|
+|BS12|Detalhar Texto|O aplicativo deve conter texto de fácil entendimento|Não Funcional|Could|
+|BS3|Lembrete|O aplicativo deve emitir um lembrete para o pagamento do DAS|Funcional|Could|
+|BS7|Suporte|O aplicativo deve fornecer suporte para os usuários|Funcional|Could|
+|BS10|Diversificação|Deve ser possível utilizar o app em todos os modelos de máquina|Não Funcional|Won't|
+|-|-|-|-|-|
+|ENT4|Salvamento|O aplicativo deve salvar as informações|Não Funcional|Must|
+|ENT3|Confiabilidade|O aplicativo deve evitar os erros e telas brancas através do uso|Não Funcional|Should|
+|ENT1|Validação|O aplicativo deve solicitar o CNPJ apenas uma vez|Funcional|Could|
+|ENT2|Consistência|O aplicativo deve ir até o final da operação antes de realizar outra etapa|Não Funcional|Could|
+
+Tabela 1 - Priorização de requisitos com MoSCoW
+</center>
+<br>
 
 ## First Things First
 A técnica First Things First é um pouco mais elaborada que a MoSCoW. Ela foca na importância de equilibrar os benefícios e os custos de cada requisito, além de propor a definição das consequências que cada um deles irá gerar na arquitetura do software, o alinhamento dos requisitos com as regras de negócios e o estabelecimento do risco técnico agregado a cada um dos requisitos.
