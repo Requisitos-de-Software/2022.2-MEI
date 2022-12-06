@@ -32,6 +32,6 @@ Ilustração do Roadmap na Figura 2 :
 
 
 
-## Referências
+## Bibliografia
 - BCE Github Interção Humano Computador , disponivel em: https://github.com/Interacao-Humano-Computador/2020.1-BCE Acesso em: 29 de novembro de 2022
 - Duolingo Github Requisitos de Software, disponivel em: https://github.com/Requisitos-de-Software/2019.2-Duolingo Acesso em: 29 de novembro de 2022

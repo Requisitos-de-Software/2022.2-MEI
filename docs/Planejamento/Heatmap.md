@@ -23,5 +23,5 @@ Onde consta zero na figura acima é quando nenhum dos integrantes está ocupado,
 <img src='./../../assets/images/legendaHeatmap.png'><br>Figura 2 - Legenda Heatmap</img>
 </center>
 
-# Referências
+# Bibliografia
 - HEATMAP. Disponível em: https://pt.wikipedia.org/wiki/Mapa_de_calor Acesso em: 30 de novembro de 2022.

@@ -31,13 +31,7 @@ Clique [aqui](https://youtu.be/OSfZTHsXr14) para ser redirecionado ao YouTube.
 ## Conclusão
 
 ### Plataformas 
-A plataforma onde foi realizada a reuniao segue na tabale 1.
-
-| Ferramenta | Descrição |
-| :-: | :-: |
-| Microsoft Teams <img src="./../../assets/ferramentasLogo/microsoft-teams.svg" width="125" height="125"></img> | Foi decidido que para as reuniões realizadas com o grupo de forma remota será utilizada a plataforma da Microsoft a fim de facilitar a gravação de reuniões.| 
-
-*Tabela 1 - Teams*
+A plataforma onde serão realizadas as reuniões e as gravações será o Microsoft Teams.
 
 ### Horário
 

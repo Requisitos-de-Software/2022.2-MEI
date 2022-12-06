@@ -31,7 +31,7 @@ Clique [aqui](https://youtu.be/X7KntEqHTHc?list=PLz1vcLMmwmQIxuz-Fg3rAzfeIJyEZpC
 
 ## Conclusão
 
-Depois de discussões com o grupo decidimos distribuir a confecção de artefatos da forma apresentada na tabela 1.
+Depois de discussões com o grupo, decidiu-se distribuir a confecção de artefatos da forma apresentada na tabela 1.
 
 ### Reponsáveis 
 <center>

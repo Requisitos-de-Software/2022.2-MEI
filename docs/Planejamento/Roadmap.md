@@ -44,6 +44,6 @@ Na tabela 1 a listade tarefas e seus respectivos responsaveis.
 *Tabela 1 - Tarefas Designadas*
 </center>
 
-## Referências
+## Bibliografia
 - BCE Github Interção Humano Computador , disponivel em: https://github.com/Interacao-Humano-Computador/2020.1-BCE Acesso em: 20 de novembro de 2022
 - Duolingo Github Requisitos de Software, disponivel em: https://github.com/Requisitos-de-Software/2019.2-Duolingo Acesso em: 20 de novembro de 2022

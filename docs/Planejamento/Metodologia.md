@@ -40,5 +40,5 @@ As ferramentas utlizidas para comunicação <b>formal</b> e <b>informal</b> a se
 
 *Tabela 2 - Comunicação Informal*
 
-# Referências
+# Bibliografia
 - SCRUM. Disponível em: https://www.desenvolvimentoagil.com.br/scrum/ Acesso em: 19 de novembro de 2022.

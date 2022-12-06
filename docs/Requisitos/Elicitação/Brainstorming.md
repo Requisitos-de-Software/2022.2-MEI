@@ -21,9 +21,8 @@ A equipe irá se dividir em 1 mediador e 3 possíveis personas, a fim de se colo
 
 Os seguintes dados serão a introduzação das personas que iremos utilizar no brainstorming:
 
-#### João Silva - Pedro Lucas
+#### João Silva (persona primária) - Pedro Lucas
 * **Idade**: 35 anos;
-* **Tipo**: Primário;
 * **Sexo**: Masculino;
 * **Local de trabalho**: Casa Própria;
 * **Meios utilizados**: Redes Sociais e site próprio para divulgação e venda;
@@ -35,9 +34,8 @@ Os seguintes dados serão a introduzação das personas que iremos utilizar no b
 * **Motivação**: realizou um curso profissionalizante de produção de cerâmica e precisava de uma renda;
 * **Afinidade com tecnologia**: Alta.
 
-#### Isabela Menezes - Eduardo
+#### Isabela Menezes (persona primária) - Eduardo
 * **Idade**: 22 anos;
-* **Tipo**: Primário;
 * **Sexo**: Feminino;
 * **Local de trabalho**: Casa própria;
 * **Meios utilizados**: Redes sociais para divulgação;
@@ -49,9 +47,8 @@ Os seguintes dados serão a introduzação das personas que iremos utilizar no b
 * **Motivação**: Já produzia peças de roupa para si mesma e recebeu indicações para iniciar um trabalho autônomo de confecção e venda de vestuário;
 * **Afinidade com tecnologia**: Média.
 
-#### Salete Camargo - João Lucas
+#### Salete Camargo (persona secundária) - João Lucas
 * **Idade**: 65 anos;
-* **Tipo**: Secundária;
 * **Sexo**: Feminino;
 * **Local de trabalho**: Casa Própria;
 * **Meios utilizados**: Venda Local;

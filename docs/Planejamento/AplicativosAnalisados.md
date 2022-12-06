@@ -64,7 +64,7 @@ O aplicativo Pardal permite realizar denúncias no âmbito da Justiça Eleitoral
 
 **Rich Picture:** [PDF](../assets/richPictures/RichPicturePardal.pdf)
 
-## Referências Bibliográficas
+## Bibliografia
 [1] ID Jovem, acesso em: https://www.gov.br/mdh/pt-br/idjovem.<br>
 [2] MEI, Ministério da Economia, acesso em: https://www.gov.br/pt-br/apps/mei.<br>
 [3] Portal da Cidadania do Governo da Paraíba, acesso em: https://portaldacidadania.pb.gov.br/.<br>
