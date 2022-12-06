@@ -147,4 +147,5 @@ Imagem 4 - fonte Random User Generator
 
 ## Bibliografia
 [1] Cooper, Alan, 1952 - About face 3: the essentials of interaction design
+
 [2] Random User Generator - disponível em https://randomuser.me/
