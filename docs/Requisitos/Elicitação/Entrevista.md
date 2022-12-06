@@ -76,14 +76,20 @@ Resposta: Está sempre na mão e usa frequentemente os aplicativos do governo, p
 Resposta: Sem dificuldades.
 
 ## Requisitos Elicitados
+A elicitação de requisitos levou em consideração também o nível de benefício e penalidade que cada um traria ao sistema caso seja implementado ou não. Confira a tabela 1 abaixo.
 
+<center>
 
 |ID|Requisito|Descrição|Nível de Benefício|Penalidade|Tipo|
 | :----------: |:----------:| :------: | :-----------: |:-----------: | :----: |
-|ENT1|Validação|O aplicativo deve solicitar o CNPJ apenas uma vez|7|5| Funcional |
+|ENT1|Validação|O aplicativo deve solicitar o CNPJ apenas uma vez|7|5| Não Funcional |
 |ENT2|Consistência|O aplicativo deve ir até o final da operação antes de realizar qualquer outra etapa|9|9| Não Funcional |
 |ENT3|Confiabilidade|O aplicativo deve evitar os erros e telas brancas através do uso |9|9| Não Funcional|
 |ENT4|Salvamento|O aplicativo deve salvar as informações|7|6| Não Funcional |
+
+*Tabela 1 - Requisitos elicitados*
+
+</center>
 
 ## Audio da entrevista
 <audio controls>

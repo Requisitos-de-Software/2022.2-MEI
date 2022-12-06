@@ -37,16 +37,16 @@ Na tabela 1 a seguir, é possível conferir a classificação dos requisitos eli
 |BS9|Segurança|O aplicativo deve validar a pessoa que está utilizando o CNPJ|Não Funcional|Must|
 |BS11|Acessibilidade|O aplicativo deve ser acessível para usuários com deficiência|Não Funcional|Must|
 |BS8|Diversificação|Deve ser possível utilizar o app em todos os modelos de dispositivos|Não Funcional|Should|
-|BS4|Depedência|O aplicativo deve obter de dados dentro do próprio aplicativo|Funcional|Should|
+|BS4|Depedência|O aplicativo deve obter de dados dentro do próprio aplicativo|Não Funcional|Should|
 |BS6|Avisos|O aplicativo deve mostrar de forma clara se uma ação foi realizada com sucesso ou não|Funcional|Should|
 |BS12|Detalhar Texto|O aplicativo deve conter texto de fácil entendimento|Não Funcional|Could|
 |BS3|Lembrete|O aplicativo deve emitir um lembrete para o pagamento do DAS|Funcional|Could|
 |BS7|Suporte|O aplicativo deve fornecer suporte para os usuários|Funcional|Could|
-|BS5|Plataforma Única|O aplicativo deve solicitar autorização para pegar dados de outros sites do governo|Funcional|Won't|
+|BS5|Plataforma Única|O aplicativo deve solicitar autorização para pegar dados de outros sites do governo|Não Funcional|Won't|
 |-|-|-|-|-|
 |ENT4|Salvamento|O aplicativo deve salvar as informações|Não Funcional|Must|
 |ENT3|Confiabilidade|O aplicativo deve evitar os erros e telas brancas através do uso|Não Funcional|Should|
-|ENT1|Validação|O aplicativo deve solicitar o CNPJ apenas uma vez|Funcional|Could|
+|ENT1|Validação|O aplicativo deve solicitar o CNPJ apenas uma vez|Não Funcional|Could|
 |ENT2|Consistência|O aplicativo deve ir até o final da operação antes de realizar outra etapa|Não Funcional|Could|
 |-|-|-|-|-|
 |IS03|Informação|Deve ser possível Consultar informações do CNPJ|Funcional|Should|
@@ -56,8 +56,8 @@ Na tabela 1 a seguir, é possível conferir a classificação dos requisitos eli
 |IS02|Emissão|Deve ser possível emitir o DAS|Funcional|Could|
 |IS04|Restituição|Deve ser possível pedir restituição|Funcional|Could|
 
+*Tabela 1 - Priorização de requisitos com MoSCoW*
 
-Tabela 1 - Priorização de requisitos com MoSCoW
 </center>
 
 ## First Things First
@@ -69,7 +69,9 @@ Nessa técnica estão envolvidos:
 * Representantes do(s) cliente(s), responsáveis por classificar benefícios e fraquezas;
 * Representantes do desenvolvimento, responsáveis por identificar custos e riscos e lidar com a parte técnica.
 
-Para colocar a técnica em prática, o gerente precisará criar uma planilha com todos os requisitos listados. Em seguida, os representantes dos clientes devem auxiliar na estimativa dos benefícios agregados por cada requisito e também na estimativa da penalidade que a falta da implementação de cada recurso acarretaria. Após esses passos, cria-se uma coluna que ilustra o valor total, formado pela seguinte fórmula:
+Para colocar a técnica em prática, o gerente precisará criar uma planilha com todos os requisitos listados. Em seguida, os representantes dos clientes devem auxiliar na estimativa dos benefícios agregados por cada requisito e também na estimativa da penalidade que a falta da implementação de cada recurso acarretaria. Os dados de benefício e penalidade foram obtidos na sessão de brainstorming com as [personas](personas.md), que pode ser conferida [aqui](https://youtu.be/IEj32_Gj0Vo) (link com o video completo do *Brainstorming*). 
+
+Após os passos acima, cria-se uma coluna com o valor total, formado pela seguinte fórmula:
 
 *valor total = (benefício x peso) + (penalidade x peso)*
 
@@ -81,13 +83,14 @@ O mesmo explicado acima deverá ser feito para estimar o grau de risco para cada
 
 Por fim, deve-se ordenar a lista de acordo com a ordem decrescente de prioridade, sendo os requisitos do topo da lista os mais equilibrados em termos de valor, custo e risco. Tendo isso em mente, tais requisitos devem ser priorizados.
 
-Abaixo está a tabela 2, apresentando os resultados da First Things First. Vale destacar que alguns requisitos foram detectados por mais de um método, como por exemplo o login, e por isso foram declarados na tabela apenas uma vez.
+Abaixo está a tabela 2, apresentando os resultados da First Things First. Vale destacar que alguns requisitos foram detectados por mais de um método, como por exemplo o login, e por isso foram declarados na tabela apenas uma vez. Além disso, os requisitos funcionais são apresentados em verde claro, enquanto os não funcionais estão em verde escuro.
 <br><br>
 
 <center>
 
 <iframe width="1000" height="500" style="-webkit-transform:scale(1);-moz-transform-scale(1);" frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSuC9dJeohLdIleRbNnzG4rc54lHtYv4CO87YVKVRGm9c9VMeJVpLPa2Ajj866Quf_TRVtKs_fPf9lv/pubhtml?gid=885337733&single=true"></iframe>
-Tabela 2 - Priorização de requisitos com First Things First
+
+*Tabela 2 - Priorização de requisitos com First Things First*
 
 </center>
 
@@ -107,14 +110,15 @@ Segue abaixo a tabela 3, que apresenta os resultados da plicação da técnica T
 <center>
 
 <iframe width="1000" height="450" style="-webkit-transform:scale(1);-moz-transform-scale(1);" frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSuC9dJeohLdIleRbNnzG4rc54lHtYv4CO87YVKVRGm9c9VMeJVpLPa2Ajj866Quf_TRVtKs_fPf9lv/pubhtml?gid=1615492145&single=true"></iframe>
-Tabela 3 - Priorização de requisitos com Three-Level Scale
+
+*Tabela 3 - Priorização de requisitos com Three-Level Scale*
 
 </center>
 
 ## Conclusão
-As técnicas apresentadas acima possuem diferentes níveis de complexidade. Portanto, é vantajoso aplicar todas as três técnicas citadas no projeto da disciplina, visto que serão fontes de grandes aprendizados e propiciarão avaliações completas e assertivas sobre a priorização de cada requisito elicitado.
+As técnicas apresentadas acima possuem diferentes níveis de complexidade. Portanto, é vantajoso aplicar todas as três no projeto da disciplina, visto que serão fontes de grandes aprendizados e propiciarão avaliações completas e assertivas sobre a priorização de cada requisito elicitado.
 
-Por fim, também deve-se ressaltar a ampla interação da equipe do projeto com o usuário que será incentivada pelas diversas técnicas. Seja o usuário uma pessoa real ou uma persona, a interação será uma parte crucial para a definição da importância dos requisitos e, consequentemente, para a definição de todo o andamento do projeto.
+Por fim, também deve ser ressaltada a ampla interação da equipe do projeto com o usuário que será incentivada pelas diversas técnicas. Seja o usuário uma pessoa real ou uma persona, a interação é uma parte crucial para a definição da importância dos requisitos e, consequentemente, para a definição de todo o andamento do projeto.
 
 ## Bibliografia
 Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
