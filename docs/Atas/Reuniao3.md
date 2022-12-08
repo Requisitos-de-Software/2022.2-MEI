@@ -29,15 +29,15 @@ Definir o site a ser utilizado como objeto de trabalho da disciplina, confecçã
 ## Gravação
 Clique [aqui](https://youtu.be/XOIeLpFNc-w) para ser redirecionado ao YouTube.
 
-## Conclusão
+## Definições
 
 ### Site selecionado
 
-O grupo discutiu sobre os site que foram analisados pelos intergrantes e chegaram a decisão de utilizar o site "Simples Nacional"
+O grupo discutiu sobre os sites que foram analisados pelos intergrantes, chegando à decisão de utilizar o site "Simples Nacional" para desenvolver o projeto.
 
 ### Reponsáveis 
 <center>
-A seguir os artefatos e seus respectivos Responsaveis na tabela 1 :
+A seguir os artefatos e seus respectivos responsáveis, na tabela 1:
 
 | Artefato | Dupla responsável |
 | :-: | :-: |

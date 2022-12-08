@@ -30,13 +30,13 @@ Definir os responsáveis pela confecção dos artefatos que não nescessitavam d
 ## Gravação
 Clique [aqui](https://youtu.be/dgPIWv2J9-8) para ser redirecionado ao YouTube.
 
-## Conclusão
+## Definições
 
-### Artefatos e Responsaveis
+### Artefatos e Responsáveis
 
 <center>
 
-A seguir os artefatos e seus respectivos Responsaveis na tabela 1 :
+A seguir os artefatos e seus respectivos responsaveis, na tabela 1:
 
 | Artefato | Dupla responsável |
 | :-: | :-: |

@@ -28,7 +28,7 @@ Primeira reunião com a equipe. O objetivo era decidir de fato plataformas a ser
 ## Gravação
 Clique [aqui](https://youtu.be/OSfZTHsXr14) para ser redirecionado ao YouTube.
 
-## Conclusão
+## Definições
 
 ### Plataformas 
 A plataforma onde serão realizadas as reuniões e as gravações será o Microsoft Teams.

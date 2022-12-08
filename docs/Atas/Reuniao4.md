@@ -29,13 +29,13 @@ Definir tarefas dos membros do grupo para serem realizadas para a próxima entre
 ## Gravação
 Clique [aqui](https://youtu.be/X7KntEqHTHc?list=PLz1vcLMmwmQIxuz-Fg3rAzfeIJyEZpC0-) para ser redirecionado ao YouTube.
 
-## Conclusão
+## Definições
 
-Depois de discussões com o grupo, decidiu-se distribuir a confecção de artefatos da forma apresentada na tabela 1.
+Depois de discussões em grupo, decidiu-se distribuir a confecção de artefatos da forma apresentada na tabela 1.
 
 ### Reponsáveis 
 <center>
-A seguir os artefatos e seus respectivos Responsaveis na tabela 1 :
+A seguir os artefatos e seus respectivos responsáveis, na tabela 1:
 
 | Artefato | Dupla responsável |
 | :-: | :-: |

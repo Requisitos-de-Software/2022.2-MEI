@@ -4,6 +4,7 @@
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
 |30/11/2022|30/11/2022|1.0|Criação do documento| [Ana Luiza](https://github.com/AnHoff) | [João Lucas](https://github.com/HacKairos) |
+|01/12/2022|02/12/2022|1.1|Adiciona dados pesquisa| [Eduardo](https://github.com/edudsan) |[Thiago Oliveira](https://github.com/Thiab394)|
 
 ## Introdução
 
