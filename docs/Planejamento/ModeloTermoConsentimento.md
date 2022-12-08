@@ -1,3 +1,9 @@
+## Histórico de Versão
+
+|Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
+| :----------: |:----------:| :------: | :-----------: | :---------: |:---------: |
+|08/12/2022|09/12/2022|1.0|Criação do Modelo| [Thiago Oliveira](https://github.com/Thiab394)|[-](https://github.com/)
+
 ## TERMO DE CONSENTIMENTO LIVRE E ESCLARECIDO
 
 **Título da Pesquisa**: 
