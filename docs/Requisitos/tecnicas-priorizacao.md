@@ -132,6 +132,6 @@ As técnicas apresentadas acima possuem diferentes níveis de complexidade. Port
 Por fim, também deve ser ressaltada a ampla interação da equipe do projeto com o usuário que será incentivada pelas diversas técnicas. Seja o usuário uma pessoa real ou uma persona, a interação é uma parte crucial para a definição da importância dos requisitos e, consequentemente, para a definição de todo o andamento do projeto.
 
 ## Bibliografia
-Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
-Interação Humano-Computador e Experiência do usuário. Autopublicação.
+Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) _Interação Humano-Computador e Experiência do usuário_. Autopublicação. ISBN: 978-65-00-19677-1.
+
 Karl E. Wiegers, Joy Beatty; Software Requirements, Third Edition.
