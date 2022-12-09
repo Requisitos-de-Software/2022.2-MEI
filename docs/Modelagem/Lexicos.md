@@ -2,9 +2,9 @@
 
 ## Histórico de Versão
 
-|Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisão|
+|Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: | :------: | :------: | :-----------: | :---------: |:---------: |
-|09/12/2022|10/12/2022|1.0|Criação do documento| [Ana Luiza](https://github.com/AnHoff) | -
+|09/12/2022|10/12/2022|1.0|Criação do documento| [Ana Luiza](https://github.com/AnHoff) | [João Lucas](https://github.com/HacKairos) |
 
 ## Introdução
 

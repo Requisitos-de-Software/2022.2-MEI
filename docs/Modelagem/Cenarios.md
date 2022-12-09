@@ -13,7 +13,7 @@ Este projeto utiliza personas para representar situações em que a plataforma p
 
 ## Representação dos Cenários
 A seguir na Tabela 1 a forma a qual sera representada os cenários.
-<center>
+<center style="max-width: 500px; margin: auto; align-items: center;">
 
 | **Cenário**     | **Número do Cenário** |
 | :--------------:| :-------------- |
@@ -32,14 +32,14 @@ Tabela 1 - representação dos cenários.
 ## Cenários
 
 Nas tabelas a seguir estão representados alguns cenários.<br></br><br>
-<center>
+<center style="max-width: 500px; margin: auto; align-items: center;">
 
 | **Cenário**     | **001** |
 | :--------------:| :-------------- |
 | **Titulo**      | _Emissão de DAS em aberto, do ano atual._ |
 | **Objetivo**    | _Emitir boleto  em aberto do DAS recente._ |
 | **Contexto**    | Local: _Tela de Emitir DAS._<br>Tempo: _Indeterminado._<br>Pré-condição: _Acesso a internet._ |
-| **Atores**      | _Usúario com CNPJ ativo._ |
+| **Atores**      | _[Usúario](../Lexicos/#l01-usuario) com CNPJ ativo._ |
 | **Recursos**    | _Internet, Smartphone e o MEI instalado._ |
 | **Episódios**   | _Usúario acessa o app com o CNPJ, acessa a opção Emitir DAS,<br> escolhe o mes em aberto para realizar o pagamento e tem acesso ao boleto._ |
 | **Restrição**   | _Internet indisponivel, todos os DAS pagos._ |
@@ -53,7 +53,7 @@ Tabela 2 - Cenario 001<br></br><br>
 | **Titulo**      | _Perguntas e Respostas._ |
 | **Objetivo**    | _Ter acesso as perguntas e respostas do app._ |
 | **Contexto**    | Local: _Tela após acessar o CNPJ, a opção Perguntas e respostas._<br>Tempo: _Indeterminado._<br>Pré-condição: _Acesso a internet._ |
-| **Atores**      | _Usúario com CNPJ ativo._ |
+| **Atores**      | _[Usúario](../Lexicos/#l01-usuario) com CNPJ ativo._ |
 | **Recursos**    | _Internet, Smartphone e o MEI instalado._ |
 | **Episódios**   | _Usúario acessa o app com o CNPJ, acessa a opção Perguntas e Respostas,<br>após isso o aplicativo baixa um pdf no celular do usuario mostrando as perguntas<br> mais frequentes e suas respostas._ |
 | **Restrição**   | _Internet indisponivel._ |
@@ -66,7 +66,7 @@ Tabela 3 - Cenario 002<br></br><br>
 | **Titulo**      | _Favoritar CNPJ._ |
 | **Objetivo**    | _Deixar CNPJ salvo nos favoritos._ |
 | **Contexto**    | Local: _Tela apos acessar com CNPJ._<br>Tempo: _Rapido._<br>Pré-condição: _CNPJ não estar favoritado._ |
-| **Atores**      | _Usúario com CNPJ ativo._ |
+| **Atores**      | _[Usúario](../Lexicos/#l01-usuario) com CNPJ ativo._ |
 | **Recursos**    | _Internet, Smartphone e o MEI instalado._ |
 | **Episódios**   | _Usúario acessa o app com o CNPJ e clica na estrela do lado do número do CNPJ._ |
 | **Restrição**   | _Internet indisponivel._ |
@@ -79,7 +79,7 @@ Tabela 4 - Cenario 003<br></br><br>
 | **Titulo**      | _Exibir Legenda._ |
 | **Objetivo**    | _Exibir Legenda do estado do DAS._ |
 | **Contexto**    | Local: _Tela de Emitir DAS._<br>Tempo: _Indeterminado._<br>Pré-condição: _Acesso a internet._ |
-| **Atores**      | _Usúario com CNPJ ativo._ |
+| **Atores**      | _[Usúario](../Lexicos/#l01-usuario) com CNPJ ativo._ |
 | **Recursos**    | _Internet, Smartphone e o MEI instalado._ |
 | **Episódios**   | _Usúario acessa o app com o CNPJ, acessa a opção Emitir DAS,<br> clica na opção Exibir legenda._ |
 | **Restrição**   | _Internet indisponivel._ |
@@ -92,7 +92,7 @@ Tabela 5 - Cenario 004<br></br><br>
 | **Titulo**      | _Compartilhar estado do DAS._ |
 | **Objetivo**    | _Compartilhar imagem contendo a informação de quais DAS foram liquidados._ |
 | **Contexto**    | Local: _Tela de Emitir DAS._<br>Tempo: _Indeterminado._<br>Pré-condição: _Acesso a internet._ |
-| **Atores**      | _Usúario com CNPJ ativo._ |
+| **Atores**      | _[Usúario](../Lexicos/#l01-usuario) com CNPJ ativo._ |
 | **Recursos**    | _Internet, Smartphone e o MEI instalado._ |
 | **Episódios**   | _Usúario acessa o app com o CNPJ, acessa a opção Emitir DAS,<br> clica no botão de compartilhar._ |
 | **Restrição**   | _Internet indisponivel._ |
