@@ -29,7 +29,7 @@ Definir tarefas dos membros do grupo para serem realizadas para a próxima entre
 ## Gravação
 
 <center>
-<iframe width="800" height="400" src="https://youtu.be/X7KntEqHTHc?list=PLz1vcLMmwmQIxuz-Fg3rAzfeIJyEZpC0-" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/X7KntEqHTHc?list=PLz1vcLMmwmQIxuz-Fg3rAzfeIJyEZpC0-" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
 ## Definições

@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # Técnicas de Priorização
 
 ## Histórico de Versão
@@ -104,10 +109,16 @@ Definições comuns da escala serão utilizadas para priorizar os requisitos nes
 * **Baixa prioridade**: são requisitos sem importância e urgência.
 
 Vale destacar que há um quarto quadrante na tabela formada por essa técnica: requisitos urgentes porém não importantes. Essa área engloba requisitos que são urgentes para algum stakeholder específico mas que não são importantes para atingir os objetivos do produto. Tais requisitos não incrementam valor significante ao produto e não devem ser de forma alguma priorizados.
+<center>
+Abaixo o audio da pesquisa realizada com a persona [João Silva](../personas/#joao-silva)
+
+<audio controls>
+  <source src="../../../assets/outros/AudioTLS.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 Segue abaixo a tabela 3, que apresenta os resultados da plicação da técnica Three-Level Scale.
 
-<center>
 
 <iframe width="1000" height="450" style="-webkit-transform:scale(1);-moz-transform-scale(1);" frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSuC9dJeohLdIleRbNnzG4rc54lHtYv4CO87YVKVRGm9c9VMeJVpLPa2Ajj866Quf_TRVtKs_fPf9lv/pubhtml?gid=1615492145&single=true"></iframe>
 
@@ -123,5 +134,4 @@ Por fim, também deve ser ressaltada a ampla interação da equipe do projeto co
 ## Bibliografia
 Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
 Interação Humano-Computador e Experiência do usuário. Autopublicação.
-
 Karl E. Wiegers, Joy Beatty; Software Requirements, Third Edition.

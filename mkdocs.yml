@@ -30,3 +30,43 @@ theme:
     - header.autohide
     - navigation.tabs
     - navigation.top
+
+nav:
+  - Projeto: 
+    - Projeto: index.md
+  - Planejamento:
+    - Aplicativos Analisados: Planejamento/AplicativosAnalisados.md
+    - Aplicativo Escolido: Planejamento/MEI.md
+    - Metodologias e Processos: Planejamento/Metodologia.md
+    - Ferramentas: Planejamento/Ferramentas.md
+    - Heatmap: Planejamento/Heatmap.md
+    - Roadmap: Planejamento/Roadmap.md
+    - Políticas:
+      - Código de Conduta Para Colaboradores: Politicas/CodigoDeConduta.md
+      - Política de Contribuição: Politicas/PolitcaDeContribuicao.md
+      - Política de Issue: Politicas/PolitcaDeIssue.md
+      - Política de Branch: Politicas/PolitcaDeBranch.md
+      - Política de Commit: Politicas/PolitcaDeCommit.md
+      - Política de Pull Request: Politicas/PolitcaDePR.md
+      - Política de Segurança: Politicas/PolitcaDeSeguranca.md
+    - Cronograma Elicitação/Priorização: Requisitos/Cronogramas.md
+  - Apresentações/Reuniões:
+    - Apresentações:
+      - 1º Ponto de Controle: Apresentacoes/PrimeiraEntrega.md
+      - 2º Ponto de Controle: Apresentacoes/SegundaEntrega.md
+    - Reuniões:
+      - 1ª Reunião: Atas/Reuniao1.md
+      - 2ª Reunião: Atas/Reuniao2.md
+      - 3ª Reunião: Atas/Reuniao3.md
+      - 4ª Reunião: Atas/Reuniao4.md
+  - Elicitação: 
+    - Tecnicas de Elicitação: Requisitos/Elicitacao/tecnicas-elicitacao.md
+    - Brainstorming: Requisitos/Elicitacao/Brainstorming.md
+    - Entrevista: Requisitos/Elicitacao/Entrevista.md
+    - Introspecção: Requisitos/Elicitacao/Introspeccao.md
+    - Termo de consentimento: Requisitos/ModeloTermoConsentimento.md
+    - Perfil de Usuario: Requisitos/perfil.md
+    - Persona: Requisitos/personas.md
+  - Priorização: Requisitos/tecnicas-priorizacao.md
+  - Modelagem:
+    - Cenarios: Modelagem/Cenarios.md
