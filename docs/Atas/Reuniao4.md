@@ -27,7 +27,10 @@ A reunião foi realizada de forma remota no dia 26 de Novembro de 2022, às 15:2
 Definir tarefas dos membros do grupo para serem realizadas para a próxima entrega da disciplina
 
 ## Gravação
-Clique [aqui](https://youtu.be/X7KntEqHTHc?list=PLz1vcLMmwmQIxuz-Fg3rAzfeIJyEZpC0-) para ser redirecionado ao YouTube.
+
+<center>
+<iframe width="800" height="400" src="https://youtu.be/X7KntEqHTHc?list=PLz1vcLMmwmQIxuz-Fg3rAzfeIJyEZpC0-" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
 
 ## Definições
 
