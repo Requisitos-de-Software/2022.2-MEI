@@ -69,5 +69,5 @@ nav:
     - Persona: Requisitos/personas.md
   - Priorização: Requisitos/tecnicas-priorizacao.md
   - Modelagem:
-    - Cenarios: Modelagem/Cenarios.md
+    - Cenários: Modelagem/Cenarios.md
     - Léxicos: Modelagem/Lexicos.md

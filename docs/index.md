@@ -3,7 +3,6 @@ hide:
   - navigation
   - toc
 ---
-# Projeto
 
 <center>
 <h1>
