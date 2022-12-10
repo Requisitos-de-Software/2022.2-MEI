@@ -98,7 +98,7 @@ Tabela 5 - Léxico 4<br><br>
 |**Classificação**|_Objeto_|
 |**Sinônimos**|_Documento de Arrecadação do Simples Nacional_|
 |**Noção**|_Meio do empresário recolher os impostos_|
-|**Impacto**| _Permite que o(s) usuário(s) recolham e vejam informações sobre os impostos_|
+|**Impacto**| _O(s) usuário(s) podem recolher e ver informações sobre os impostos_|
 |**Rastro**|[IS02](../Requisitos/Elicitacao/Introspeccao.md)|
 
 Tabela 6 - Léxico 5<br><br>
@@ -154,7 +154,7 @@ Tabela 9 - Léxico 8<br><br>
 |**Classificação**|_Objeto_|
 |**Sinônimos**|_Cadastro Nacional de Pessoa Jurídica_|
 |**Noção**|_Número único de identificação de uma pessoa jurídica_|
-|**Impacto**| _O usuário pode ter acesso a todas as funcionalidades do MEI e legalização de seu trabalho a partir da criação de um CNPJ_|
+|**Impacto**| _O usuário pode ter acesso a todas as funcionalidades do MEI e legalizar seu trabalho a partir da criação de um CNPJ_|
 |**Rastro**|[BS01](../Requisitos/Elicitacao/Brainstorming.md)|
 
 Tabela 10 - Léxico 9<br><br>
@@ -168,7 +168,7 @@ Tabela 10 - Léxico 9<br><br>
 |**Classificação**|_Objeto_|
 |**Sinônimos**|_Empresa, sociedade, organização, PJ_|
 |**Noção**|_Entidade formada por uma ou mais Pessoas Físicas com propósitos e finalidades específicos_|
-|**Impacto**| _Pessoas Jurídicas obtém acesso ao MEI e a todos os recursos disponíveis às entidades_|
+|**Impacto**| _Usuários que se enquandram como Pessoas Jurídicas obtém acesso ao MEI e a todos os recursos disponíveis a eles_|
 |**Rastro**|[BS01](../Requisitos/Elicitacao/Brainstorming.md)|
 
 Tabela 11 - Léxico 10<br><br>
@@ -224,7 +224,7 @@ Tabela 14 - Léxico 13<br><br>
 |**Classificação**|_Objeto_|
 |**Sinônimos**|_-_|
 |**Noção**|_Sistema de recolhimento em valores fixos mensais dos tributos abrangidos pelo Simples Nacional_|
-|**Impacto**| _Permite ao usuário MEI realizar o pagamento de tributos sem taxa adicional_|
+|**Impacto**| _O usuário MEI poderá realizar o pagamento de tributos sem taxa adicional_|
 |**Rastro**|[IS02](../Requisitos/Elicitacao/Introspeccao.md)|
 
 Tabela 15 - Léxico 14<br><br>
@@ -238,7 +238,7 @@ Tabela 15 - Léxico 14<br><br>
 |**Classificação**|_Objeto_|
 |**Sinônimos**|_Contributário, pagante, colaborador_|
 |**Noção**|_Pessoa que realiza operações de circulação de mercadorias ou prestação de serviços_|
-|**Impacto**| _Permite a divisão de pessoas físicas e jurídicas quanto a sua atuação ou não atuação_|
+|**Impacto**| _O usuário será classificado quanto a sua atuação ou não atuação e obterá acesso ou restrições no MEI com base nisso_|
 |**Rastro**|[BS01](../Requisitos/Elicitacao/Brainstorming.md)|
 
 Tabela 16 - Léxico 15<br><br>
@@ -252,7 +252,7 @@ Tabela 16 - Léxico 15<br><br>
 |**Classificação**|_Verbo_|
 |**Sinônimos**|_Devolver, retornar, revocar_|
 |**Noção**|_Ato de devolver completa ou parcialmente algo previamente enviado_|
-|**Impacto**| _Permite que os usuários consigam parte dos impostos pagos de volta ou se recuperem de uma operação inesperada_|
+|**Impacto**| _Os usuários podem conseguir parte dos impostos pagos de volta e se recuperar de uma operação inesperada_|
 |**Rastro**|[IS04](../Requisitos/Elicitacao/Introspeccao.md)|
 
 Tabela 17 - Léxico 16<br><br>
@@ -266,7 +266,7 @@ Tabela 17 - Léxico 16<br><br>
 |**Classificação**|_Verbo_|
 |**Sinônimos**|_Alegar, expor, explicitar_|
 |**Noção**|_Texto com valor jurídico_|
-|**Impacto**| _Permite a criação de documentos que sirvam como provas oficiais de um fato ou situação_|
+|**Impacto**| _O usuário pode criar documentos que sirvam como provas oficiais de um fato ou situação_|
 |**Rastro**|[IS03](../Requisitos/Elicitacao/Introspeccao.md)|
 
 Tabela 18 - Léxico 17<br><br>
