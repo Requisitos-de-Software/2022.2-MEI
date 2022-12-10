@@ -54,9 +54,9 @@ Tabela 2 - Léxico 1 <br><br>
 |:---|:---|
 |**Autor**|_Ana Luiza_|
 |**Classificação**|_Objeto_|
-|**Sinônimos**|_-_|
+|**Sinônimos**|_Perfil do usuário_|
 |**Noção**|_Conjunto de dados e permissões do usuário_|
-|**Impacto**| _Os usuários podem ter acesso às próprias informações e alterá-las_|
+|**Impacto**| _Os usuários podem acessar e alterar as próprias informações conforme achar necessário_|
 |**Rastro**|[BS02](../Requisitos/Elicitacao/Brainstorming.md)|
 
 Tabela 3 - Léxico 2<br><br>
@@ -84,7 +84,7 @@ Tabela 4 - Léxico 3<br><br>
 |**Classificação**|_Verbo_|
 |**Sinônimos**|_Lançar, soltar, libertar_|
 |**Noção**|_Emissão de um documento_|
-|**Impacto**| _Os usuários podem emitir um documento selecionado para pagamento ou consulta_|
+|**Impacto**| _Os usuários podem emitir um documento selecionado para pagamento e/ou consulta_|
 |**Rastro**|[IS02](../Requisitos/Elicitacao/Introspeccao.md)|
 
 Tabela 5 - Léxico 4<br><br>
@@ -110,8 +110,8 @@ Tabela 6 - Léxico 5<br><br>
 |:---|:---|
 |**Autor**|_Ana Luiza_|
 |**Classificação**|_Estado_|
-|**Sinônimos**|_Pagar, resolver, saldar_|
-|**Noção**|_Classificação que mostra ao usuário o que foi pago_|
+|**Sinônimos**|_Pago, resolvido_|
+|**Noção**|_Classificação que mostra ao usuário que um documento foi pago_|
 |**Impacto**| _O usuário poderá conferir quais documentos já foram pagos em seu CNPJ_|
 |**Rastro**|[IS02](../Requisitos/Elicitacao/Introspeccao.md)|
 
@@ -125,7 +125,7 @@ Tabela 7 - Léxico 6<br><br>
 |**Autor**|_Ana Luiza_|
 |**Classificação**|_Estado_|
 |**Sinônimos**|_Arrasar, exceder_|
-|**Noção**|_Classificação que mostra ao usuário o que não foi pago_|
+|**Noção**|_Classificação que mostra ao usuário que um documento não foi pago_|
 |**Impacto**| _O usuário poderá conferir quais documentos ainda não foram pagos em seu CNPJ_|
 |**Rastro**|[IS02](../Requisitos/Elicitacao/Introspeccao.md)|
 
@@ -186,6 +186,90 @@ Tabela 11 - Léxico 10<br><br>
 |**Rastro**|[BS12](../Requisitos/Elicitacao/Brainstorming.md)|
 
 Tabela 12 - Léxico 11<br><br>
+
+<hr>
+
+### L12 - Informação
+|**L12**|Informação|
+|:---|:---|
+|**Autor**|_Ana Luiza_|
+|**Classificação**|_Objeto_|
+|**Sinônimos**|_Compreensão, conhecimento, consciência_|
+|**Noção**|_Conjunto de conhecimentos acumulados sobre certo tema_|
+|**Impacto**| _O usuário poderá entender as tarefas a partir da visualização de informações em textos e/ou imagens_|
+|**Rastro**|[BS12](../Requisitos/Elicitacao/Brainstorming.md)|
+
+Tabela 13 - Léxico 12<br><br>
+
+<hr>
+
+### L13 - Consultar
+|**L13**|Consultar|
+|:---|:---|
+|**Autor**|_Ana Luiza_|
+|**Classificação**|_Verbo_|
+|**Sinônimos**|_Informar-se, estudar, examinar_|
+|**Noção**|_Ação que visa solicitar uma opinião sobre o assunto_|
+|**Impacto**| _O usuário poderá consultar informações sobre qualquer tema de interesse a partir do acesso à página de tal tema_|
+|**Rastro**|[BS12](../Requisitos/Elicitacao/Brainstorming.md)|
+
+Tabela 14 - Léxico 13<br><br>
+
+<hr>
+
+### L14 - SIMEI
+|**L14**|SIMEI|
+|:---|:---|
+|**Autor**|_Ana Luiza_|
+|**Classificação**|_Objeto_|
+|**Sinônimos**|_-_|
+|**Noção**|_Sistema de recolhimento em valores fixos mensais dos tributos abrangidos pelo Simples Nacional_|
+|**Impacto**| _Permite ao usuário MEI realizar o pagamento de tributos sem taxa adicional_|
+|**Rastro**|[IS02](../Requisitos/Elicitacao/Introspeccao.md)|
+
+Tabela 15 - Léxico 14<br><br>
+
+<hr>
+
+### L15 - Contribuinte
+|**L15**|Contribuinte|
+|:---|:---|
+|**Autor**|_Ana Luiza_|
+|**Classificação**|_Objeto_|
+|**Sinônimos**|_Contributário, pagante, colaborador_|
+|**Noção**|_Pessoa que realiza operações de circulação de mercadorias ou prestação de serviços_|
+|**Impacto**| _Permite a divisão de pessoas físicas e jurídicas quanto a sua atuação ou não atuação_|
+|**Rastro**|[BS01](../Requisitos/Elicitacao/Brainstorming.md)|
+
+Tabela 16 - Léxico 15<br><br>
+
+<hr>
+
+### L16 - Restituir
+|**L16**|Restituir|
+|:---|:---|
+|**Autor**|_Ana Luiza_|
+|**Classificação**|_Verbo_|
+|**Sinônimos**|_Devolver, retornar, revocar_|
+|**Noção**|_Ato de devolver completa ou parcialmente algo previamente enviado_|
+|**Impacto**| _Permite que os usuários consigam parte dos impostos pagos de volta ou se recuperem de uma operação inesperada_|
+|**Rastro**|[IS04](../Requisitos/Elicitacao/Introspeccao.md)|
+
+Tabela 17 - Léxico 16<br><br>
+
+<hr>
+
+### L17 - Declarar
+|**L17**|Declarar|
+|:---|:---|
+|**Autor**|_Ana Luiza_|
+|**Classificação**|_Verbo_|
+|**Sinônimos**|_Alegar, expor, explicitar_|
+|**Noção**|_Texto com valor jurídico_|
+|**Impacto**| _Permite a criação de documentos que sirvam como provas oficiais de um fato ou situação_|
+|**Rastro**|[IS03](../Requisitos/Elicitacao/Introspeccao.md)|
+
+Tabela 18 - Léxico 17<br><br>
 
 </center>
 

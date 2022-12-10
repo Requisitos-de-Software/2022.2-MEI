@@ -159,12 +159,12 @@ O cronograma planejado apresenta uma versão inicial de planejamento e pode dife
 | Tarefa | Responsáveis | Entrega | Revisão | Revisor |
 | --- | --- | --- | --- | --- |
 | Gravação de elicitação - introspecção | Arthur | 08/11/2022 | 09/12/2022 | João
-| Gravação de priorização - Three-Level Scale| Ana | 08/11/2022 | 09/12/2022 | Eduardo
-| Gravação de priorização - Moscow| Pedro | 08/12/2022 | 09/12/2022 | Arthur
+| Gravação de priorização - Three-Level Scale| Ana e João | 09/11/2022 | 09/12/2022 | Eduardo
+| Gravação de priorização - Moscow| Pedro | 09/12/2022 | 10/12/2022 | Arthur
 | Cenários - especificações | João, Eduardo | 11/12/2022 | 12/12/2022 | Thiago
 | Cenários - criação| João, Eduardo | 11/12/2022 | 12/12/2022 | Thiago
-| Léxicos - especificações | Ana | 11/12/2022 | 12/12/2022 | Pedro
-| Léxicos - definições | Ana | 11/12/2022 | 12/12/2022 | Pedro
+| Léxicos - especificações | Ana | 10/12/2022 | 10/12/2022 | Pedro
+| Léxicos - definições | Ana | 10/12/2022 | 10/12/2022 | Pedro
 | Casos de Uso - especificação | Pedro, Thiago | 11/12/2022 | 12/12/2022 | Ana
 | Casos de Uso - atores | Pedro, Thiago | 11/12/2022 | 12/12/2022 | Ana
 | Casos de Uso - diagrama | Pedro, Thiago | 11/12/2022 | 12/12/2022 | Ana
