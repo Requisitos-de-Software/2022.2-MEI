@@ -3,7 +3,7 @@
 ## Histórico de Versão
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
-|09/12/2022|10/12/2022|1.0|Criação do documento| [João Lucas](https://github.com/HacKairos) | [ ](https://github.com/) |
+|09/12/2022|10/12/2022|1.0|Criação do documento| [João Lucas](https://github.com/HacKairos) e [Eduardo](https://github.com/edudsan) | [ ](https://github.com/) |
 
 ## Introdução
 Cenários são representações do contexto do sistema por meio de histórias de pessoas realizando atividades e são específicos e ricos em detalhes de contexto de uso do aplicativo, incluindo usuários, processos e dados reais ou potenciais. , texto ou narrativa visual. Os cenários não são apenas poderosos, mas também são uma ferramenta importante no processo geral de design porque representam um investimento de custo e tempo menor em comparação com os protótipos.
