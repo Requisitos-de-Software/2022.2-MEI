@@ -20,7 +20,7 @@ A seguir na Tabela 1 a forma a qual sera representada os cenários.
 | **Titulo**      | _Nome do Cenário._ |
 | **Objetivo**    | _Objetivo do Cenário._ |
 | **Contexto**    | Local: _Local onde acontece o Cenário._<br>Tempo: _Tempo do Cenário._<br>Pré-condição: _Condição para que o Cenário aconteça._ |
-| **Atores**      | _Autor(es) do Cenário._ |
+| **Atores**      | _Ator(es) do Cenário._ |
 | **Recursos**    | _Recursos do Cenário._ |
 | **Episódios**   | _Episódios do Cenário da aplicação._ |
 | **Restrição**   | _Restrição do Cenário._ |
