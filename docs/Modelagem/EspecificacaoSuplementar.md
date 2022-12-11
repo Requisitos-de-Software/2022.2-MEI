@@ -38,6 +38,7 @@ requisitos específicos, e que os requisitos não funcionais devem ser definidos
 Conforme os dados coletados na etapa de elicitação de requisitos, os resultados foram baseados nos requisitos não funcionais, onde chegamos nos seguintes resultados 
 que podem ser observados na tabela 1 com a legenda na tabela 2.
 
+<center>
 
 |Sigla|Categoria|Requisitos| 
 | :----------: | :------: | :------: | 
@@ -48,7 +49,7 @@ que podem ser observados na tabela 1 com a legenda na tabela 2.
 |S|Suportabilidade| IS 06, BS08, BS10 | 
 |+|Outros| BS04 | 
 
-Tabela 1: Classificação dos requisitos não funcionais pela metodologia FURPS+.(Feita pelos autores)
+Tabela 1 - Classificação dos requisitos não funcionais pela metodologia FURPS+
 
 |Legenda||
 | :----------: | :----------: |
@@ -57,8 +58,10 @@ Tabela 1: Classificação dos requisitos não funcionais pela metodologia FURPS+
 | IS | Introspecção |
 | BS | BrainStorm |
 
-Tabela 2: Legenda tabela 1.(Feita pelos autores)
-  
+Tabela 2 - Legenda tabela 1
+
+</center>
+ 
 ## Bibliografia
 
 - SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 13.

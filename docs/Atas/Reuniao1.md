@@ -28,7 +28,7 @@ Primeira reunião com a equipe. O objetivo era decidir de fato plataformas a ser
 ## Gravação
 
 <center>
-<iframe width="800" height="400" src="https://youtu.be/OSfZTHsXr14" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/OSfZTHsXr14" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
 ## Definições

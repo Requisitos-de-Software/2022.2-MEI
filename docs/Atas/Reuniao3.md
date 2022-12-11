@@ -29,7 +29,7 @@ Definir o site a ser utilizado como objeto de trabalho da disciplina, confecçã
 ## Gravação
 
 <center>
-<iframe width="800" height="400" src="https://youtu.be/XOIeLpFNc-w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/XOIeLpFNc-w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
 ## Definições

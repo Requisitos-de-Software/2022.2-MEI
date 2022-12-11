@@ -30,8 +30,10 @@ Definir os responsáveis pela confecção dos artefatos que não nescessitavam d
 ## Gravação
 
 <center>
-<iframe width="800" height="400" src="https://youtu.be/dgPIWv2J9-8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/dgPIWv2J9-8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
+
+
 
 ## Definições
 

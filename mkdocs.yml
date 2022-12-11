@@ -69,5 +69,7 @@ nav:
     - Persona: Requisitos/personas.md
   - Priorização: Requisitos/tecnicas-priorizacao.md
   - Modelagem:
+    - Casos de Uso: Modelagem/CasosdeUso.md
     - Cenários: Modelagem/Cenarios.md
     - Léxicos: Modelagem/Lexicos.md
+    - Especificação Suplementar: Modelagem/EspecificacaoSuplementar.md

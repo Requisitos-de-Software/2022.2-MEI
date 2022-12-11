@@ -26,7 +26,7 @@ A seguir na Tabela 1 a forma a qual sera representada os cenários.
 | **Restrição**   | _Restrição do Cenário._ |
 | **Exceção**     | _Exceção do Cenário._ |
 
-Tabela 1 - representação dos cenários.
+Tabela 1 - Representação dos cenários
 </center>
 
 ## Cenários
@@ -45,7 +45,7 @@ Nas tabelas a seguir estão representados alguns cenários.<br></br><br>
 | **Restrição**   | _Internet indisponível<br>Todos os DAS pagos_ |
 | **Exceção**     | _CNPJ invalido<br>Não ter acesso ao smartphone<br>Internet indisponivel._ |
 
-Tabela 2 - Cenario 001<br></br><br>
+Tabela 2 - Cenário 001<br></br><br>
 
 
 | **Cenário**     | **002** |
@@ -59,7 +59,7 @@ Tabela 2 - Cenario 001<br></br><br>
 | **Restrição**   | _Internet indisponível._ |
 | **Exceção**     | _CNPJ invalido<br>Não ter acesso ao smartphone<br>Internet indisponivel_ |
 
-Tabela 3 - Cenario 002<br></br><br>
+Tabela 3 - Cenário 002<br></br><br>
 
 | **Cenário**     | **003** |
 | :--------------:| :-------------- |
@@ -72,7 +72,7 @@ Tabela 3 - Cenario 002<br></br><br>
 | **Restrição**   | _Internet indisponível._ |
 | **Exceção**     | _CNPJ invalido<br>Não ter acesso ao smartphone<br>Internet indisponivel_ |
 
-Tabela 4 - Cenario 003<br></br><br>
+Tabela 4 - Cenário 003<br></br><br>
 
 | **Cenário**     | **004** |
 | :--------------:| :-------------- |
@@ -85,7 +85,7 @@ Tabela 4 - Cenario 003<br></br><br>
 | **Restrição**   | _Internet indisponível._ |
 | **Exceção**     | _CNPJ invalido<br>Não ter acesso ao smartphone<br>Internet indisponivel_ |
 
-Tabela 5 - Cenario 004<br></br><br>
+Tabela 5 - Cenário 004<br></br><br>
 
 | **Cenário**     | **005** |
 | :--------------:| :-------------- |
@@ -98,7 +98,7 @@ Tabela 5 - Cenario 004<br></br><br>
 | **Restrição**   | _Internet indisponível._ |
 | **Exceção**     | _CNPJ invalido<br>Não ter acesso ao smartphone<br>Internet indisponivel._ |
 
-Tabela 6 - Cenario 005<br></br><br>
+Tabela 6 - Cenário 005<br></br><br>
 
 | **Cenário**     | **006** |
 | :--------------:| :-------------- |
@@ -111,7 +111,7 @@ Tabela 6 - Cenario 005<br></br><br>
 | **Restrição**   | _Internet indisponível._ |
 | **Exceção**     | _CNPJ invalido<br>Não ter acesso ao smartphone<br>Internet indisponivel._ |
 
-Tabela 7 - Cenario 006<br></br><br>
+Tabela 7 - Cenário 006<br></br><br>
 
 | **Cenário**     | **007** |
 | :--------------:| :-------------- |
@@ -124,7 +124,7 @@ Tabela 7 - Cenario 006<br></br><br>
 | **Restrição**   | _Internet indisponivel._ |
 | **Exceção**     | _CNPJ invalido<br>Não ter acesso ao smartphone<br>Internet indisponivel<br>Errar o captcha._ |
 
-Tabela 8 - Cenario 007<br></br><br>
+Tabela 8 - Cenário 007<br></br><br>
 
 | **Cenário**     | **008** |
 | :--------------:| :-------------- |
@@ -137,7 +137,7 @@ Tabela 8 - Cenario 007<br></br><br>
 | **Restrição**   | _Internet indisponível._ |
 | **Exceção**     | _CNPJ invalido<br>Não ter acesso ao smartphone<br>Internet indisponivel_ |
 
-Tabela 9 - Cenario 008<br></br><br>
+Tabela 9 - Cenário 008<br></br><br>
 
 | **Cenário**     | **009** |
 | :--------------:| :-------------- |
@@ -150,7 +150,7 @@ Tabela 9 - Cenario 008<br></br><br>
 | **Restrição**   | _Internet indisponivel._ |
 | **Exceção**     | _CNPJ invalido<br>Não ter acesso ao smartphone<br>Internet indisponivel_ |
 
-Tabela 10 - Cenario 009<br></br><br>
+Tabela 10 - Cenário 009<br></br><br>
 
 | **Cenário**     | **010** |
 | :--------------:| :-------------- |
@@ -163,7 +163,7 @@ Tabela 10 - Cenario 009<br></br><br>
 | **Restrição**   | _Internet indisponivel_ |
 | **Exceção**     | _CNPJ invalido<br>Não ter acesso ao smartphone<br>Internet indisponivel<br>Data não estar mais disponível para restituição._ |
 
-Tabela 11 - Cenario 010
+Tabela 11 - Cenário 010
 
 </center>
 
