@@ -3,19 +3,28 @@
 ## Histórico de Versão
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
-|09/12/2022|10/12/2022|1.0|Criação do documento| [Pedro Lucas](https://github.com/PedroLSF)| |
+|09/12/2022|10/12/2022|1.0|Criação do documento| [Pedro Lucas](https://github.com/PedroLSF)|[Thiago Oliveira](https://github.com/Thiab394) |
+|10/12/2022|11/12/2022|1.1|Adição Dos Diagramas de Caso de Uso| [Thiago Oliveira](https://github.com/Thiab394)| [Pedro Lucas](https://github.com/PedroLSF)|
 
 ## Introdução
-Um caso de uso define uma sequência de ações executadas pelo sistema que geram um resultado de valor observável para um ator em particular. Cada caso de uso deve gerar um significado de valor para o ator que utilia o sistema.
+Um caso de uso define uma sequência de ações executadas pelo sistema que geram um resultado de valor observável para um ator em particular. Cada caso de uso deve gerar um significado de valor para o ator que utiliza o sistema.
 
 ## Metodologia
-Após a elicitação de requisitos funcionais, o grupo esolheu os principais requisitos para o desenvolvimento de tabelas e diagramas de casos de uso.
+Após a elicitação de requisitos funcionais, o grupo escolheu os principais requisitos para o desenvolvimento de tabelas e diagramas de casos de uso.
 
 ## Casos de Uso
 Legenda:
 * UC -> Caso de Uso
+### **Casos de Uso Geral**
 
-### UC01 - Fazer Login
+<center>
+<img src='./../../assets/images/Casos de Uso/Diagrama de caso de uso - UC Geral.png'pngwidth="1000"> Figura 1 - Diagrama Do UC Geral</img>
+</center>
+
+### **UC01 - Fazer Login**
+<center>
+<img src='./../../assets/images/Casos de Uso/Diagrama de caso de uso - UC 01.png'pngwidth="1000">Figura 2 - Diagrama Do UC 01</img>
+</center>
 
 |**UC01**|**Fazer Login**|
 | :----------: |:-----------|
@@ -30,7 +39,10 @@ Legenda:
 |Pós Condições|Usuário fica logado e pode realizar todas as ações|
 |Rastreabilidade|BS02|
 
-### UC02 - Cadastro
+### **UC02 - Cadastro**
+<center>
+<img src='./../../assets/images/Casos de Uso/Diagrama de caso de uso - UC 02.png'pngwidth="1000">Figura 3 - Diagrama Do UC 02</img>
+</center>
 
 |**UC02**|**Realizar Cadastro**|
 | :----------: |:-----------|
@@ -47,7 +59,10 @@ Legenda:
 
 
 
-### UC03 - Acesso a Suporte
+### **UC03 - Acesso a Suporte**
+<center>
+<img src='./../../assets/images/Casos de Uso/Diagrama de caso de uso - UC 03.png'pngwidth="1000">Figura 4 - Diagrama Do UC 03</img>
+</center>
 
 |**UC03**|**Acesso a Suporte**|
 | :----------: |:-----------|
@@ -62,7 +77,10 @@ Legenda:
 |Pós Condições|Usuário volta para a página inicial|
 |Rastreabilidade|BS07|
 
-### UC04 - Lembrete
+### **UC04 - Lembrete**
+<center>
+<img src='./../../assets/images/Casos de Uso/Diagrama de caso de uso - UC 04.png'pngwidth="1000">Figura 5 - Diagrama Do UC 04</img>
+</center>
 
 |**UC04**|**Receber Lembrete de Pagamento**|
 | :----------: |:-----------|
@@ -77,7 +95,7 @@ Legenda:
 |Pós Condições|Usuário segue para a página principal|
 |Rastreabilidade|BS03|
 
-### UC05 - Plataforma Unica
+### **UC05 - Plataforma Unica**
 
 |**UC05**|**Utilizar apenas o MEI**|
 | :----------: |:-----------|
@@ -92,7 +110,7 @@ Legenda:
 |Pós Condições|Usuário pode realizar outras operações sem necessitar de sites externos do Governo|
 |Rastreabilidade|BS04 e BS05|
 
-### UC06 - Utilizar apenas o MEI
+### **UC06 - Utilizar apenas o MEI**
 
 |**UC6**|**Utilizar apenas o MEI**|
 | :----------: |:-----------|
@@ -106,4 +124,7 @@ Legenda:
 |Fluxo de Exceção|**Fluxo de Exceção 1 - Recusar** <br> > Usuário recusa a utilização|
 |Pós Condições|Usuário pode realizar outras operações sem necessitar de sites externos do Governo|
 |Rastreabilidade|BS04 e BS05|
+
+## Referências Bibliográficas
+- Duolingo Github Requisitos de Software, disponivel em: https://github.com/Requisitos-de-Software/2019.2-Duolingo Acesso em: 10 de dezembro de 2022
 
