@@ -96,23 +96,11 @@ Legenda:
 |Rastreabilidade|BS03|
 
 ### **UC05 - Plataforma Unica**
+<center>
+<img src='./../../assets/images/Casos de Uso/Diagrama de caso de uso - UC 05.png'pngwidth="1000">Figura 6 - Diagrama Do UC 05</img>
+</center>
 
 |**UC05**|**Utilizar apenas o MEI**|
-| :----------: |:-----------|
-|Versão|Atual: 1.0 (10/12)|
-|Autores|Pedro Lucas e Thiago|
-|Descrição|Autorizar acesso a dados externos|
-|Atores|> Usuário <br> > MEI|
-|Pré Condições|> Estar Logado|
-|Fluxo Principal|> Usuário acessa o MEI <br> > Usuário digita o CNPJ <br> > Usuário digita sua senha <br> > Usuário clica em "Acessar" <br> > Usuário autoriza a utilização de outros sites do governo|
-|Fluxo Alternativo|Não será utilizado|
-|Fluxo de Exceção|**Fluxo de Exceção 1 - Recusar** <br> > Usuário recusa a utilização|
-|Pós Condições|Usuário pode realizar outras operações sem necessitar de sites externos do Governo|
-|Rastreabilidade|BS04 e BS05|
-
-### **UC06 - Utilizar apenas o MEI**
-
-|**UC6**|**Utilizar apenas o MEI**|
 | :----------: |:-----------|
 |Versão|Atual: 1.0 (10/12)|
 |Autores|Pedro Lucas e Thiago|
