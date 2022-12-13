@@ -9,7 +9,7 @@ Especificação suplementar em requisitos de software é um documento que fornec
 software. Esse documento pode incluir detalhes adicionais sobre como o sistema deve ser projetado e implementado, bem como quaisquer requisitos específicos que devem 
 ser atendidos. A especificação suplementar é usada para complementar a especificação de requisitos principal, que fornece uma visão geral dos requisitos do sistema.
 
-## Metodilogia FURPS+
+## Metodologia FURPS+
 
 Os requisitos não funcionais de um Microempreendedor Individual (MEI) são aqueles que especificam as características do sistema que não se relacionam diretamente 
 com sua funcionalidade principal. Alguns exemplos de requisitos não funcionais que podem ser aplicados a um MEI incluem: 
