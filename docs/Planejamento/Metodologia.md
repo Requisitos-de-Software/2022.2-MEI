@@ -10,11 +10,11 @@
 
 ## Sprints
 
-O projeto será divido em Sprints com duração de uma semana para elaboração de artefatos, podendo artefatos maiores exigir mais de uma sprint para ser devidamente confeccionado. A princípio o grupo se ecotrará todos os sábados as 16h para planejamento das tarefas da sprint seguinte, retrospectiva da sprint e revisão dos artefatos. 
+O projeto será divido em Sprints com duração de uma semana para elaboração de artefatos, podendo artefatos maiores exigir mais de uma sprint para ser devidamente confeccionado. A princípio o grupo se ecotrará todos os sábados as 16h para planejamento das tarefas da sprint seguinte, retrospectiva da sprint e revisão dos artefatos. [1]
 
 ## Pareamento
 
-Foi decidido pelo time adotar a prática do pareamento, que ajuda a espalhar o conhecimento de forma uniforme dentre os membros da equipe, o pareamento será realizado de forma com que a cada semana o grupo busque revezar os membros pareados, fornecendo assim a chance de todos os membros do grupo trabalharem uns com os outros. 
+Foi decidido pelo time adotar a prática do pareamento, que ajuda a espalhar o conhecimento de forma uniforme dentre os membros da equipe, o pareamento será realizado de forma com que a cada semana o grupo busque revezar os membros pareados, fornecendo assim a chance de todos os membros do grupo trabalharem uns com os outros.
 
 ## Revisão por pares
 
@@ -24,4 +24,4 @@ Foi de comum acordo também a decisão de que os artefatos confeccionados devem 
 As ferramentas utilizidas para comunicação <b>formal</b> foram o Microsoft Teams e o GitHub e a <b>informal</b> é o Telegram.
 
 # Bibliografia
-- SCRUM. Disponível em: https://www.desenvolvimentoagil.com.br/scrum/ Acesso em: 19 de novembro de 2022.
+[1] SCRUM. Disponível em: https://www.desenvolvimentoagil.com.br/scrum/ Acesso em: 19 de novembro de 2022.

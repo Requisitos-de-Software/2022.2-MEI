@@ -6,7 +6,7 @@
 |09/12/2022|10/12/2022|1.0|Criação do documento| [João Lucas](https://github.com/HacKairos) e [Eduardo](https://github.com/edudsan) | [Ana Luiza](https://github.com/AnHoff) |
 
 ## Introdução
-Cenários são representações do contexto do sistema por meio de histórias de pessoas realizando atividades, sendo específicos e ricos em detalhes de contexto de uso do aplicativo. Os cenários incluem usuários, processos e dados reais ou potenciais; eles podem ser expostos em formato de texto ou narrativa visual. Os cenários não são apenas poderosos; eles também são uma ferramenta importante no processo geral de design porque representam um investimento de custo e tempo menor em comparação com os protótipos.
+Cenários são representações do contexto do sistema por meio de histórias de pessoas realizando atividades, sendo específicos e ricos em detalhes de contexto de uso do aplicativo. Os cenários incluem usuários, processos e dados reais ou potenciais; eles podem ser expostos em formato de texto ou narrativa visual. Os cenários não são apenas poderosos; eles também são uma ferramenta importante no processo geral de design porque representam um investimento de custo e tempo menor em comparação com os protótipos. [1]
 
 ## Metodologia
 Este projeto utiliza personas para representar situações em que a plataforma pode ser utilizada e para representar problemas enfrentados tanto pela plataforma quanto pelos usuários.
@@ -33,7 +33,7 @@ Tabela 1 - Representação dos cenários
 
 ## Cenários
 
-Nas tabelas de 2 a 11 a seguir estão representados alguns cenários.<br></br><br>
+Nas tabelas de 2 a 11 a seguir estão representados os cenários.<br></br><br>
 
 <center style="max-width: 500px; margin: auto; align-items: center;">
 
@@ -171,4 +171,4 @@ Tabela 11 - Cenário 010
 </center>
 
 ## Bibliografia
-Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) _Interação Humano-Computador e Experiência do usuário_. Autopublicação. ISBN: 978-65-00-19677-1.
+[1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) _Interação Humano-Computador e Experiência do usuário_. Autopublicação. ISBN: 978-65-00-19677-1.

@@ -161,15 +161,16 @@ O cronograma planejado apresenta uma versão inicial de planejamento e pode dife
 | Gravação de elicitação - introspecção | Arthur | 08/11/2022 | 09/12/2022 | João
 | Gravação de priorização - Three-Level Scale| Ana e João | 09/11/2022 | 09/12/2022 | Eduardo
 | Gravação de priorização - Moscow| Pedro | 09/12/2022 | 10/12/2022 | Arthur
-| Cenários - especificações | João, Eduardo | 11/12/2022 | 12/12/2022 | Thiago
-| Cenários - criação| João, Eduardo | 11/12/2022 | 12/12/2022 | Thiago
-| Léxicos - especificações | Ana | 10/12/2022 | 10/12/2022 | Pedro
-| Léxicos - definições | Ana | 10/12/2022 | 10/12/2022 | Pedro
-| Casos de Uso - especificação | Pedro, Thiago | 11/12/2022 | 12/12/2022 | Ana
-| Casos de Uso - atores | Pedro, Thiago | 11/12/2022 | 12/12/2022 | Ana
-| Casos de Uso - diagrama | Pedro, Thiago | 11/12/2022 | 12/12/2022 | Ana
+| Cenários - especificações | João, Eduardo | 11/12/2022 | 12/12/2022 | Ana
+| Cenários - criação| João, Eduardo | 11/12/2022 | 12/12/2022 | Ana
+| Léxicos - especificações | Ana | 10/12/2022 | 10/12/2022 | Pedro, João
+| Léxicos - definições | Ana | 10/12/2022 | 10/12/2022 | Pedro, João
+| Casos de Uso - especificação | Pedro, Thiago | 11/12/2022 | 12/12/2022 | Pedro, Thiago
+| Casos de Uso - atores | Pedro, Thiago | 11/12/2022 | 12/12/2022 | Pedro, Thiago
+| Casos de Uso - diagrama | Pedro, Thiago | 11/12/2022 | 12/12/2022 | Pedro, Thiago
 | Especificação suplementar | Eduarto, Arthur | 11/12/2022 | 12/12/2022 | João
-| Modelo FURPS+ | Eduardo | 11/12/2022 | 12/12/2022 | Arthur
+| Modelo FURPS+ | Eduardo, Arthur | 11/12/2022 | 12/12/2022 | João
+| Ajustes Introspecção | Arthur | 08/12/2022 | 09/12/2022 | Eduardo
 
 *Tabela 9 - Tarefas executadas para a entrega 3*<br><br>
 
