@@ -4,7 +4,7 @@
 
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:----------:| :------: | :-----------: | :---------: |:---------: |
-|22/12/2022|23/12/2022|1.0|Criação da ata de reunião 15/12/2022| [Arthur Taylor](https://github.com/Eruel6)| - |
+|22/12/2022|23/12/2022|1.0|Criação da ata de reunião 15/12/2022| [Arthur Taylor](https://github.com/Eruel6)| [João Lucas](https://github.com/HacKairos) |
 
 
 

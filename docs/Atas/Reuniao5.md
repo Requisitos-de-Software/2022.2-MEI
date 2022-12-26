@@ -4,7 +4,7 @@
 
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:----------:| :------: | :-----------: | :---------: |:---------: |
-|22/12/2022|23/12/2022|1.0|Criação da ata de reunião 10/12/2022| [Arthur Taylor](https://github.com/Eruel6)| - |
+|22/12/2022|23/12/2022|1.0|Criação da ata de reunião 10/12/2022| [Arthur Taylor](https://github.com/Eruel6)| [João Lucas](https://github.com/HacKairos) |
 
 
 
@@ -27,7 +27,7 @@ Definir tarefas dos membros do grupo para serem realizadas para a próxima entre
 ## Gravação
 
 <center>
-<iframe width="800" height="400" src="https://www.youtube.com/watch?v=Q6v778ikpow&list=PLz1vcLMmwmQIxuz-Fg3rAzfeIJyEZpC0-&index=6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/Q6v778ikpow" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
 ## Definições
