@@ -70,9 +70,10 @@ nav:
     - Termo de consentimento: Requisitos/ModeloTermoConsentimento.md
     - Perfil de Usuario: Requisitos/perfil.md
     - Persona: Requisitos/personas.md
-  - Priorização: Requisitos/tecnicas-priorizacao.md
+    - Priorização: Requisitos/tecnicas-priorizacao.md
   - Modelagem:
     - Casos de Uso: Modelagem/CasosdeUso.md
     - Cenários: Modelagem/Cenarios.md
     - Léxicos: Modelagem/Lexicos.md
     - Especificação Suplementar: Modelagem/EspecificacaoSuplementar.md
+    - NFR Framework: Modelagem/NFRFramework.md
