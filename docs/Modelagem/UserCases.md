@@ -57,7 +57,7 @@ Será utilizado um __card__ para definir as histórias de usuário, segue uma le
 | US04 | Realizar Logout |
 | Descrição | _Eu, como_ _**Usuário**_, _desejo logar em outras contas para auxiliar familia e amigos no MEI_  |
 | Critérios de Aceitação | A ser definido |
-| Rastro | [BS02](https://requisitos-de-software.github.io/2022.2-MEI/Requisitos/Elicitacao/Brainstorming/) |
+| Rastro | [ENT5](https://requisitos-de-software.github.io/2022.2-MEI/Requisitos/Elicitacao/Entrevista/) |
 
 ### 3. Configurações
 #### 3.1 Card: Lembrete
