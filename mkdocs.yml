@@ -34,8 +34,6 @@ theme:
 
 
 nav:
-  - Projeto: 
-    - Projeto: index.md
   - Planejamento:
     - Aplicativos Analisados: Planejamento/AplicativosAnalisados.md
     - Aplicativo Escolido: Planejamento/MEI.md
