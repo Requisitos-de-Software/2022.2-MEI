@@ -19,7 +19,7 @@ Sendo realizado sua medição conforme o cumprimento dos requisitos especificado
 
 - Usabilidade: o sistema deve ser fácil de usar e entender, para que o MEI possa realizar suas atividades com eficiência e sem problemas. 
 
-- Confiabilidade: o sistema deve garantir a segurança dos dados do MEI e de seus clientes, para evitar fraudes e roubo de informações pessoais. 
+- Reliabilidade : o sistema deve garantir a segurança dos dados do MEI e de seus clientes, para evitar fraudes e roubo de informações pessoais. 
 
 - Performance: o sistema deve ser capaz de lidar com grandes volumes de dados e transações sem sobrecarregar ou travar, garantindo a velocidade e eficiência do 
 processamento das informações. 
@@ -44,8 +44,8 @@ que podem ser observados na tabela 1 com a legenda na tabela 2.
 | :----------: | :------: | :------: | 
 |F| Funcionalidade | ENT 1, IS07, BS05, BS09 | 
 |U| Usabilidade | IS 08, ENT 4, BS11, BS12   | 
-|R|Confiabilidade|  ENT 3| 
-|P|Performance| ENT 2 | 
+|R|Confiabilidade |  ENT 3| 
+|P|Desempenho| ENT 2 | 
 |S|Suportabilidade| IS 06, BS08, BS10 | 
 |+|Outros| BS04 | 
 

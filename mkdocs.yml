@@ -1,6 +1,7 @@
 site_name: MEI
 
-repo_url: https://github.com/Requisitos-de-Software/2022.2-Grupo3-REQ
+repo_name: '2022.2-MEI'
+repo_url: https://github.com/Requisitos-de-Software/2022.2-MEI
 
 theme:
   name: material
@@ -11,14 +12,14 @@ theme:
   palette: 
     - scheme: default
       primary: yellow
-      accent: green
+      accent: yellow
       toggle:
         icon: material/brightness-7 
         name: Switch to dark mode
 
     - scheme: slate
       primary: green
-      accent: yellow
+      accent: green
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
@@ -30,6 +31,7 @@ theme:
     - header.autohide
     - navigation.tabs
     - navigation.top
+
 
 nav:
   - Projeto: 
@@ -50,6 +52,7 @@ nav:
       - Política de Pull Request: Politicas/PolitcaDePR.md
       - Política de Segurança: Politicas/PolitcaDeSeguranca.md
     - Cronograma Elicitação/Priorização: Requisitos/Cronogramas.md
+    - Termo de consentimento: Requisitos/ModeloTermoConsentimento.md
   - Apresentações/Reuniões:
     - Apresentações:
       - 1º Ponto de Controle: Apresentacoes/PrimeiraEntrega.md
@@ -67,13 +70,12 @@ nav:
     - Brainstorming: Requisitos/Elicitacao/Brainstorming.md
     - Entrevista: Requisitos/Elicitacao/Entrevista.md
     - Introspecção: Requisitos/Elicitacao/Introspeccao.md
-    - Termo de consentimento: Requisitos/ModeloTermoConsentimento.md
     - Perfil de Usuario: Requisitos/perfil.md
     - Persona: Requisitos/personas.md
     - Priorização: Requisitos/tecnicas-priorizacao.md
   - Modelagem:
-    - Casos de Uso: Modelagem/CasosdeUso.md
     - Cenários: Modelagem/Cenarios.md
     - Léxicos: Modelagem/Lexicos.md
+    - Casos de Uso: Modelagem/CasosdeUso.md
     - Especificação Suplementar: Modelagem/EspecificacaoSuplementar.md
     - NFR Framework: Modelagem/NFRFramework.md

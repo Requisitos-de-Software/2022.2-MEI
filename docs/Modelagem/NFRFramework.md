@@ -4,6 +4,7 @@
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
 |27/12/2022|27/12/2022|1.0|Criação do documento| [Ana Luiza](https://github.com/AnHoff) | [João Lucas](https://github.com/HacKairos) |
+|28/12/2022|28/12/2022|1.1|Criação e adição dos SIG| [João Lucas](https://github.com/HacKairos) | [Ana Luiza](https://github.com/AnHoff) |
 
 ## Introdução
 
@@ -71,6 +72,54 @@ Para entender as figuras apresentadas mais abaixo nesse documento, faz-se necess
 
 *Tabela 2 - Legenda*
 
+</center>
+
+## NFR
+
+ As figuras a seguir contem os SIG feitos pela equipe, sobre Usabilidade, Confiabilidade, Desempenho e Suportabilidade
+
+### Usabilidade
+
+<center>
+
+#### Sem Propagação
+<img src="./../../assets/NFR/NFR-Usabilidade.png">Figura 1 - SIG Usabilidade Sem Propagação</img>
+
+#### Com Propagação
+<img src="./../../assets/NFR/NFR-Usabilidade-Propagado.png">Figura 2 - SIG Usabilidade Com Propagação</img>
+</center>
+
+### Confiabilidade
+
+<center>
+
+#### Sem Propagação
+<img src="./../../assets/NFR/NFR-Confiabilidade.png">Figura 3 - SIG Confiabilidade Sem Propagação</img>
+
+#### Com Propagação
+<img src="./../../assets/NFR/NFR-Confiabilidade-Propagado.png">Figura 4 - SIG Confiabilidade Com Propagação</img>
+</center>
+
+### Desempenho
+
+<center>
+
+#### Sem Propagação
+<img src="./../../assets/NFR/NFR-Desempenho.png">Figura 5 - SIG Desempenho Sem Propagação</img>
+
+#### Com Propagação
+<img src="./../../assets/NFR/NFR-Desempenho-Propagado.png">Figura 6 - SIG Desempenho Com Propagação</img>
+</center>
+
+### Suportabilidade
+
+<center>
+
+#### Sem Propagação
+<img src="./../../assets/NFR/NFR-Suportabilidade.png">Figura 7 - SIG Suportabilidade Sem Propagação</img>
+
+#### Com Propagação
+<img src="./../../assets/NFR/NFR-Suportabilidade-Propagado.png">Figura 8 - SIG Suportabilidade Com Propagação</img>
 </center>
 
 ## Bibliografia
