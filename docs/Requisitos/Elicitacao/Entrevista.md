@@ -86,6 +86,7 @@ A elicitação de requisitos levou em consideração também o nível de benefí
 |ENT2|Consistência|O aplicativo deve ir até o final da operação antes de realizar qualquer outra etapa|9|9| Não Funcional |
 |ENT3|Confiabilidade|O aplicativo deve evitar os erros e telas brancas através do uso |9|9| Não Funcional|
 |ENT4|Salvamento|O aplicativo deve salvar as informações|7|6| Não Funcional |
+|ENT5|Outros Logins|O aplicativo deve realizar o login em mais de uma conta |5|5| Funcional |
 
 *Tabela 1 - Requisitos elicitados*
 
