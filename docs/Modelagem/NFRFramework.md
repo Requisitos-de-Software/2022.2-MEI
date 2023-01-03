@@ -1,4 +1,4 @@
-# Cenários
+# NFR Framework
 
 ## Histórico de Versão
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
@@ -74,19 +74,24 @@ Para entender as figuras apresentadas mais abaixo nesse documento, faz-se necess
 
 </center>
 
-## NFR
+## NFRs
 
- As figuras a seguir contem os SIG feitos pela equipe, sobre Usabilidade, Confiabilidade, Desempenho e Suportabilidade
+As figuras a seguir apresentam os SIG elaborados sobre Usabilidade, Confiabilidade, Desempenho e Suportabilidade.
 
 ### Usabilidade
 
 <center>
 
 #### Sem Propagação
-<img src="./../../assets/NFR/NFR-Usabilidade.png">Figura 1 - SIG Usabilidade Sem Propagação</img>
+<img src="./../../assets/NFR/NFR-Usabilidade.png">
 
-#### Com Propagação
-<img src="./../../assets/NFR/NFR-Usabilidade-Propagado.png">Figura 2 - SIG Usabilidade Com Propagação</img>
+**Figura 1 - SIG Usabilidade** <br><br>
+
+#### Propagação de erros
+<img src="./../../assets/NFR/NFR-Usabilidade-Propagado.png">
+
+**Figura 2 - SIG Usabilidade Com Propagação de erros** <br><br>
+
 </center>
 
 ### Confiabilidade
@@ -94,10 +99,15 @@ Para entender as figuras apresentadas mais abaixo nesse documento, faz-se necess
 <center>
 
 #### Sem Propagação
-<img src="./../../assets/NFR/NFR-Confiabilidade.png">Figura 3 - SIG Confiabilidade Sem Propagação</img>
+<img src="./../../assets/NFR/NFR-Confiabilidade.png">
 
-#### Com Propagação
-<img src="./../../assets/NFR/NFR-Confiabilidade-Propagado.png">Figura 4 - SIG Confiabilidade Com Propagação</img>
+**Figura 3 - SIG Confiabilidade** <br><br>
+
+#### Propagação de erros
+<img src="./../../assets/NFR/NFR-Confiabilidade-Propagado.png">
+
+**Figura 4 - SIG Confiabilidade Com Propagação de erros** <br><br>
+
 </center>
 
 ### Desempenho
@@ -105,10 +115,15 @@ Para entender as figuras apresentadas mais abaixo nesse documento, faz-se necess
 <center>
 
 #### Sem Propagação
-<img src="./../../assets/NFR/NFR-Desempenho.png">Figura 5 - SIG Desempenho Sem Propagação</img>
+<img src="./../../assets/NFR/NFR-Desempenho.png">
 
-#### Com Propagação
-<img src="./../../assets/NFR/NFR-Desempenho-Propagado.png">Figura 6 - SIG Desempenho Com Propagação</img>
+**Figura 5 - SIG Desempenho** <br><br>
+
+#### Propagação de erros
+<img src="./../../assets/NFR/NFR-Desempenho-Propagado.png">
+
+**Figura 6 - SIG Desempenho Com Propagação de erros** <br><br>
+
 </center>
 
 ### Suportabilidade
@@ -116,10 +131,15 @@ Para entender as figuras apresentadas mais abaixo nesse documento, faz-se necess
 <center>
 
 #### Sem Propagação
-<img src="./../../assets/NFR/NFR-Suportabilidade.png">Figura 7 - SIG Suportabilidade Sem Propagação</img>
+<img src="./../../assets/NFR/NFR-Suportabilidade.png">
 
-#### Com Propagação
-<img src="./../../assets/NFR/NFR-Suportabilidade-Propagado.png">Figura 8 - SIG Suportabilidade Com Propagação</img>
+**Figura 7 - SIG Suportabilidade** <br><br>
+
+#### Propagação de erros
+<img src="./../../assets/NFR/NFR-Suportabilidade-Propagado.png">
+
+**Figura 8 - SIG Suportabilidade Com Propagação de erros** <br><br>
+
 </center>
 
 ## Bibliografia

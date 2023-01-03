@@ -7,7 +7,7 @@
 |20/11/2022|21/11/2022|1.0|Criação do Roadmap| [Arthur Taylor](https://github.com/Eruel6)|[Thiago Oliveira](https://github.com/Thiab394)
 |28/11/2022|29/11/2022|1.1|Adição de tabela especificando atores para os artefatos| [Arthur Taylor](https://github.com/Eruel6)|[Thiago Oliveira](https://github.com/Thiab394)
 |29/11/2022|30/11/2022|1.2|Adição de Novo Cronograma|[Thiago Oliveira](https://github.com/Thiab394) |[Arthur Taylor](https://github.com/Eruel6)
-|08/12/2022|09/12/2022|2.0|Refatoração do cronograma|[Ana Luiza](https://github.com/AnHoff) |[Arthur Taylor](https://github.com/Eruel6)
+|08/12/2022|09/12/2022|2.0|Refatoração do cronograma|[Ana Luiza](https://github.com/AnHoff)|[Arthur Taylor](https://github.com/Eruel6)
 
 ## Introdução
 
@@ -173,6 +173,15 @@ O cronograma planejado apresenta uma versão inicial de planejamento e pode dife
 | Ajustes Introspecção | Arthur | 08/12/2022 | 09/12/2022 | Eduardo
 
 *Tabela 9 - Tarefas executadas para a entrega 3*<br><br>
+
+**Entrega 4**
+
+| Tarefa | Responsáveis | Entrega | Revisão | Revisor |
+| --- | --- | --- | --- | --- |
+| NFR Framework | Ana, João | 28/12/2022 | 28/12/2022 | João, Ana
+| Histórias de usuário | Pedro | 28/12/2022 | 02/12/2022 | Ana
+
+*Tabela 10 - Tarefas executadas para a entrega 4*<br><br>
 
 </center>
 
