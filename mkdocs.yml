@@ -36,7 +36,7 @@ theme:
 nav:
   - Planejamento:
     - Aplicativos Analisados: Planejamento/AplicativosAnalisados.md
-    - Aplicativo Escolido: Planejamento/MEI.md
+    - Aplicativo Escolhido: Planejamento/MEI.md
     - Metodologias e Processos: Planejamento/Metodologia.md
     - Ferramentas: Planejamento/Ferramentas.md
     - Heatmap: Planejamento/Heatmap.md
@@ -49,7 +49,7 @@ nav:
       - Política de Commit: Politicas/PolitcaDeCommit.md
       - Política de Pull Request: Politicas/PolitcaDePR.md
       - Política de Segurança: Politicas/PolitcaDeSeguranca.md
-    - Cronograma Elicitação/Priorização: Requisitos/Cronogramas.md
+    - Cronograma de Elicitação/Priorização: Requisitos/Cronogramas.md
     - Termo de consentimento: Requisitos/ModeloTermoConsentimento.md
   - Apresentações/Reuniões:
     - Apresentações:
@@ -64,11 +64,11 @@ nav:
       - 5ª Reunião: Atas/Reuniao5.md
       - 6ª Reunião: Atas/Reuniao6.md
   - Elicitação: 
-    - Tecnicas de Elicitação: Requisitos/Elicitacao/tecnicas-elicitacao.md
+    - Técnicas de Elicitação: Requisitos/Elicitacao/tecnicas-elicitacao.md
     - Brainstorming: Requisitos/Elicitacao/Brainstorming.md
     - Entrevista: Requisitos/Elicitacao/Entrevista.md
     - Introspecção: Requisitos/Elicitacao/Introspeccao.md
-    - Perfil de Usuario: Requisitos/perfil.md
+    - Perfil de Usuário: Requisitos/perfil.md
     - Persona: Requisitos/personas.md
     - Priorização: Requisitos/tecnicas-priorizacao.md
   - Modelagem:
@@ -78,3 +78,4 @@ nav:
     - Especificação Suplementar: Modelagem/EspecificacaoSuplementar.md
     - NFR Framework: Modelagem/NFRFramework.md
     - Histórias de Usuário: Modelagem/UserCases.md
+    - Backlog: Modelagem/Agil/BacklogDoProduto.md

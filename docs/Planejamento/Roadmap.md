@@ -13,7 +13,7 @@
 
 O cronograma geral do projeto foi planejado seguindo a data e os requisitos para as entregas das tarefas do projeto. As datas previstas possuem um prazo um pouco menor que o limite para possibilitar possíveis revisões e alterações nos artefatos.
 
-O cronograma planejado apresenta uma versão inicial de planejamento e pode diferir do cronograma executado ao longo do desenvolvimento do projeto. Nas tabelas de 1 a 6 abaixo, é possível conferir a lista de tarefas e seus respectivos responsaveis, datas e revisores. Mais a frente, será mostrado o cronograma executado.<br><br>
+O cronograma planejado apresenta uma versão inicial de planejamento e pode diferir do cronograma executado ao longo do desenvolvimento do projeto. Além disso, cronogramas realizados em projetos similares foram utilizados como referência [1] [2]. Nas tabelas de 1 a 6 abaixo, é possível conferir a lista de tarefas e seus respectivos responsaveis, datas e revisores. Mais a frente, será mostrado o cronograma executado.<br><br>
 
 ## Cronograma Planejado
 
@@ -179,12 +179,16 @@ O cronograma planejado apresenta uma versão inicial de planejamento e pode dife
 | Tarefa | Responsáveis | Entrega | Revisão | Revisor |
 | --- | --- | --- | --- | --- |
 | NFR Framework | Ana, João | 28/12/2022 | 28/12/2022 | João, Ana
-| Histórias de usuário | Pedro | 28/12/2022 | 02/12/2022 | Ana
+| Histórias de usuário | Pedro | 28/12/2022 | 02/12/2022 | Ana, Thiago
+| Critérios de aceitação das histórias de usuário | Thiago | 03/01/2022 | 04/01/2022 | Ana
+| Ajustes na especificação suplementar | Eduardo | 04/01/2022 | 04/01/2022 | Ana
+| Backlog | Arthur | 31/12/2022 | 02/01/2022 | 
 
 *Tabela 10 - Tarefas executadas para a entrega 4*<br><br>
 
 </center>
 
 ## Bibliografia
-- BCE Github Interção Humano Computador , disponivel em: https://github.com/Interacao-Humano-Computador/2020.1-BCE Acesso em: 20 de novembro de 2022
-- Duolingo Github Requisitos de Software, disponivel em: https://github.com/Requisitos-de-Software/2019.2-Duolingo Acesso em: 20 de novembro de 2022
+
+[1] BCE Github Interção Humano Computador , disponivel em: https://github.com/Interacao-Humano-Computador/2020.1-BCE Acesso em: 20 de novembro de 2022
+[2] Duolingo Github Requisitos de Software, disponivel em: https://github.com/Requisitos-de-Software/2019.2-Duolingo Acesso em: 20 de novembro de 2022

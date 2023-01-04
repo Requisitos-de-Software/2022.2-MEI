@@ -69,4 +69,8 @@ Essa é uma função que consta como nova, através dessa opção o usuário é 
 #### O que é?
 Essa é uma etapa que redireciona para um PDF, que proporciona ao usuário acesso a situações de dúvidas comuns.
 <br>
-Essa tela também permite acesso ao FAQ para retirar dúvidas e auxílio com o aplicativo.
+Essa tela também permite acesso ao FAQ para retirar dúvidas e auxílio com o aplicativo. [1]
+
+## Bibliografia
+
+[1] MEI, Ministério da Economia, acesso em: https://www.gov.br/pt-br/apps/mei

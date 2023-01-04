@@ -23,5 +23,6 @@ Foi de comum acordo também a decisão de que os artefatos confeccionados devem 
 ## Comunicação
 As ferramentas utilizidas para comunicação <b>formal</b> foram o Microsoft Teams e o GitHub e a <b>informal</b> é o Telegram.
 
-# Bibliografia
+## Bibliografia
+
 [1] SCRUM. Disponível em: https://www.desenvolvimentoagil.com.br/scrum/ Acesso em: 19 de novembro de 2022.

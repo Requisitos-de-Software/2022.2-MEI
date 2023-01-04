@@ -13,7 +13,9 @@
 
 Neste documento estão apresentados as ferramentas que estão sendo, serão ou já foram utiliziadas no auxilio da criação e edição do presente trabalho seja para a existência ou apresentação das tarefas realizadas pela equipe.
 
-Ferramentas ilustradas na tabela 1 :
+Ferramentas ilustradas na tabela 1:
+
+<center>
 
 |Logo|Descrição|
 |:--:|:-----------------:|
@@ -31,3 +33,5 @@ Ferramentas ilustradas na tabela 1 :
 |<img src="./../../assets/ferramentasLogo/uxpressia.png" width="100" height="100"></img> | **UXPRESSIA**: Ferramenta de mapeamento da jornada dos clientes e criação de personas. |
 
 *Tabela 1 - Ferramentas Utilizadas*
+
+</center>
