@@ -43,9 +43,9 @@ O sistema deve garantir a segurança dos dados do MEI e de seus clientes, para e
 
 <center>
  
-|Descrição|Requisitos| 
-| :----------: | :------: |
-| O aplicativo deve evitar os erros e telas brancas através do uso | ENT3 |
+|Descrição|Requisito relacionado|ID|
+| :----------: | :------: | :------: |
+| O aplicativo deve evitar os erros e telas brancas através do uso | ENT3 | U1 |
 
 *Tabela 3 - Requisitos de confiabilidade*
 
@@ -57,9 +57,9 @@ O sistema deve ser capaz de lidar com grandes volumes de dados e transações se
 
 <center>
  
-|Descrição|Requisitos| 
-| :----------: | :------: |
-| O aplicativo deve ir até o final da operação antes de realizar qualquer outra etapa  | ENT2 |
+|Descrição|Requisito relacionado|ID|
+| :----------: | :------: | :------: |
+| O aplicativo deve ir até o final da operação antes de realizar qualquer outra etapa  | ENT2 | U1|
 
 *Tabela 4 - Requisito de performance*
 
@@ -71,11 +71,11 @@ O sistema deve ser capaz de se adaptar e crescer de acordo com as necessidades d
 
 <center>
  
-|Descrição|Requisitos| 
-| :----------: | :------: |
-| O aplicativo deve ser suportado pelos principais sistemas mobile  | IS06 |
-| O aplicativo deve ser possível de ser utilizado na maioria dos modelos de dispositivos | BS08 |
-| O aplicativo deve ser possível de ser utilizado na maioria dos modelos de SO | BS10 |
+|Descrição|Requisito relacionado|ID|
+| :----------: | :------: | :------: |
+| O aplicativo deve ser suportado pelos principais sistemas mobile  | IS06 | U1 |
+| O aplicativo deve ser possível de ser utilizado na maioria dos modelos de dispositivos | BS08 | U2 |
+| O aplicativo deve ser possível de ser utilizado na maioria dos modelos de SO | BS10 | U3 |
 
 *Tabela 5 - Requisitos suportabilidade*
 
@@ -87,9 +87,9 @@ Representação para especificação de restrições, podendo essas serem restri
 
 <center>
  
-|Descrição|Requisitos| 
-| :----------: | :------: |
-| O aplicativo deve obter dados dentro do próprio aplicativo | BS04 |
+|Descrição|Requisito relacionado|ID| 
+| :----------: | :------: | :------: |
+| O aplicativo deve obter dados dentro do próprio aplicativo | BS04 | U1 |
 
 *Tabela 6 - Tabela para especificação de restrições*
 
