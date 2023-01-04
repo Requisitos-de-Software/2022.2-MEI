@@ -45,7 +45,9 @@ O sistema deve garantir a segurança dos dados do MEI e de seus clientes, para e
  
 |Descrição|Requisito relacionado|ID|
 | :----------: | :------: | :------: |
-| O aplicativo deve possuir formas de o usuário se recuperar de erros | ENT3 | U1 |
+| O aplicativo deve possuir um sistema de autenticação | BS02 | C1 |
+| O aplicativo deve possuir um sistema de sigilo de dados | BS05 | C2 |
+| O aplicativo deve possuir um sistema de suporte ao usuário | BS07 | C3 |
 
 *Tabela 3 - Requisitos de confiabilidade*
 
@@ -59,7 +61,9 @@ O sistema deve ser capaz de lidar com grandes volumes de dados e transações se
  
 |Descrição|Requisito relacionado|ID|
 | :----------: | :------: | :------: |
-| O aplicativo deve terminar a operação que o usuário está realizando sem interrompe-lo  | ENT2 | U1|
+| O aplicativo deve possuir uma interface leve  | IS08 | P1 |
+| O aplicativo deve possuir armazenamento de dados básicos em cache  | ENT4 | P2 |
+| O aplicativo deve possuir um acesso eficiente a dados locais  | BS04 | P3 |
 
 *Tabela 4 - Requisito de performance*
 
@@ -73,25 +77,10 @@ O sistema deve ser capaz de se adaptar e crescer de acordo com as necessidades d
  
 |Descrição|Requisito relacionado|ID|
 | :----------: | :------: | :------: |
-| O aplicativo deve ser compatível com os principais sistemas mobile  | IS06 | U1 |
-| O aplicativo deve possuir compatibilidade com os principais tipos de modelos de aparelhos | BS08 | U2 |
-| O aplicativo deve possuir compatibilidade com os principais SO | BS10 | U3 |
+| O aplicativo deve possuir compatibilidade com os principais tipos e modelos de aparelhos | BS08 | S1 |
+| O aplicativo deve possuir compatibilidade com os principais SO | BS10 | S2 |
 
 *Tabela 5 - Requisitos suportabilidade*
-
-</center>
-
-##  +
-
-Representação para especificação de restrições, podendo essas serem restrições físicas, restrições de design, restrições de implementação, restrições de interface ou restrições de negócio. Os requisitos identificados podem ser observados na tabela 6.
-
-<center>
- 
-|Descrição|Requisito relacionado|ID| 
-| :----------: | :------: | :------: |
-| O aplicativo deve permitir formas de obter feedbacks | BS04 | U1 |
-
-*Tabela 6 - Tabela para especificação de restrições*
 
 </center>
  
@@ -99,7 +88,7 @@ Representação para especificação de restrições, podendo essas serem restri
 
 Esses são apenas alguns exemplos de requisitos não funcionais que podem ser aplicados a um MEI. É importante lembrar que cada negócio tem suas próprias necessidades e 
 requisitos específicos, e que os requisitos não funcionais devem ser definidos de acordo com as necessidades e objetivos do negócio em questão. Conforme os dados coletados na etapa de elicitação de requisitos, os resultados foram baseados nos requisitos não funcionais, onde chegamos nos seguintes resultados 
-que podem ser observados na tabela 7 com a legenda na tabela 8.
+que podem ser observados na tabela 6 com a legenda na tabela 7.
 
 <center>
 
@@ -112,7 +101,7 @@ que podem ser observados na tabela 7 com a legenda na tabela 8.
 |S|Suportabilidade| IS 06, BS08, BS10 | 
 |+|Outros| BS04 | 
 
-*Tabela 7 - Classificação dos requisitos não funcionais pelo FURPS+*
+*Tabela 6 - Classificação dos requisitos não funcionais pelo FURPS+*
 
 |Legenda| |
 | :----------: | :----------: |
@@ -121,7 +110,7 @@ que podem ser observados na tabela 7 com a legenda na tabela 8.
 | IS | Introspecção |
 | BS | BrainStorm |
 
-*Tabela 8 - Legenda*
+*Tabela 7 - Legenda*
 
 </center>
  
