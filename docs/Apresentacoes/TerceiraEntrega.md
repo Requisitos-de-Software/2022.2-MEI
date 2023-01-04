@@ -7,7 +7,7 @@
 
 ## Local e horário
 
-A reunião foi realizada dia 12 de dezembro de 2022, de forma remota com início às 20:00h, utilizando a prataforma Microsoft Teams.
+A reunião foi realizada dia 12 de dezembro de 2022, de forma remota com início às 20:00h e término às 20:52h, utilizando a plataforma Microsoft Teams.
 
 ## Presentes
 
