@@ -16,7 +16,7 @@ A metodologia FURPS+ é utilizada para avaliar os requisitos de software e ident
 
 ## Funcionalidade
 
-Funcionalidade representa os requisitos funcionais do software e possui várias categorias que, por sua vez, possuem subcategorias que podem variar conforme necessário. Sua medição é realizada conforme o cumprimento dos requisitos especificados são alcançados. Os requisitos funcionais identificados podem ser conferidos [aqui](../Requisitos/tecnicas-priorizacao.md).
+Funcionalidade representa os requisitos não funcionais do software e possui várias categorias que, por sua vez, possuem subcategorias que podem variar conforme necessário. Sua medição é realizada conforme o cumprimento dos requisitos especificados são alcançados. Os requisitos funcionais identificados podem ser conferidos [aqui](../Requisitos/tecnicas-priorizacao.md).
 
 ## Usabilidade
 
@@ -45,7 +45,7 @@ O sistema deve garantir a segurança dos dados do MEI e de seus clientes, para e
  
 |Descrição|Requisito relacionado|ID|
 | :----------: | :------: | :------: |
-| O aplicativo deve evitar os erros e telas brancas através do uso | ENT3 | U1 |
+| O aplicativo deve possuir formas de o usuário se recuperar de erros | ENT3 | U1 |
 
 *Tabela 3 - Requisitos de confiabilidade*
 
@@ -59,7 +59,7 @@ O sistema deve ser capaz de lidar com grandes volumes de dados e transações se
  
 |Descrição|Requisito relacionado|ID|
 | :----------: | :------: | :------: |
-| O aplicativo deve ir até o final da operação antes de realizar qualquer outra etapa  | ENT2 | U1|
+| O aplicativo deve terminar a operação que o usuário está realizando sem interrompe-lo  | ENT2 | U1|
 
 *Tabela 4 - Requisito de performance*
 
@@ -73,9 +73,9 @@ O sistema deve ser capaz de se adaptar e crescer de acordo com as necessidades d
  
 |Descrição|Requisito relacionado|ID|
 | :----------: | :------: | :------: |
-| O aplicativo deve ser suportado pelos principais sistemas mobile  | IS06 | U1 |
-| O aplicativo deve ser possível de ser utilizado na maioria dos modelos de dispositivos | BS08 | U2 |
-| O aplicativo deve ser possível de ser utilizado na maioria dos modelos de SO | BS10 | U3 |
+| O aplicativo deve ser compatível com os principais sistemas mobile  | IS06 | U1 |
+| O aplicativo deve possuir compatibilidade com os principais tipos de modelos de aparelhos | BS08 | U2 |
+| O aplicativo deve possuir compatibilidade com os principais SO | BS10 | U3 |
 
 *Tabela 5 - Requisitos suportabilidade*
 
@@ -89,7 +89,7 @@ Representação para especificação de restrições, podendo essas serem restri
  
 |Descrição|Requisito relacionado|ID| 
 | :----------: | :------: | :------: |
-| O aplicativo deve obter dados dentro do próprio aplicativo | BS04 | U1 |
+| O aplicativo deve permitir formas de obter feedbacks | BS04 | U1 |
 
 *Tabela 6 - Tabela para especificação de restrições*
 
