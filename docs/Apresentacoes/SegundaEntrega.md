@@ -7,7 +7,7 @@
 
 ## Local e horário
 
-A reunião foi realizada de forma remota com início às 20:00h, utilizando a prataforma Microsoft Teams.
+A reunião foi realizada de forma remota com início às 20:00h e término às 20:43h, utilizando a plataforma Microsoft Teams.
 
 ## Presentes
 
