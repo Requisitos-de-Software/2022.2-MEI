@@ -3,7 +3,8 @@
 ## Histórico de Versão
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
-|30/12/2022|02/01/2023|1.0|Criação do documento| [Pedro Lucas](https://github.com/PedroLSF) | [Ana Luiza](https://github.com/AnHoff) |
+|30/12/2022|02/01/2023|1.0|Criação do documento| [Pedro Lucas](https://github.com/PedroLSF) | [Ana Luiza](https://github.com/AnHoff) e [Thiago Oliveira](https://github.com/Thiab394) |
+|03/12/2022|04/01/2023|1.1|Adição dos critérios de aceitação| [Thiago Oliveira](https://github.com/Thiab394) | - |
 
 
 ## Introdução
@@ -29,86 +30,86 @@ Será utilizado um __card__ para definir as histórias de usuário, segue um exe
 
 ## Features
 ### 1. Cadastro e Autenticação
-#### 1.1 Card: Cadastro
+#### 1.1 Cadastro
 | **ID** | **Nome** |
 |:-------|:---------|
 | US01 | Realizar Cadastro |
 | Descrição | _Eu, como_ _**Usuário**_, _desejo enviar toda minhas documentações cadastrais pelo aplicativo para não precisar acessar várias plataformas diferentes durante o cadastro_  |
-| Critérios de Aceitação | A ser definido |
+| Critérios de Aceitação | <ul><li>Deve ser possivel Realizar o cadastro no aplicativo </li><li> O aplicativo deve instruir o usuário para a criação do CNPJ</li></ul>|
 | Rastro | [BS01](https://requisitos-de-software.github.io/2022.2-MEI/Requisitos/Elicitacao/Brainstorming/) |
 
-#### 1.1 Card: Autenticar
+#### 1.2 Autenticar
 | **ID** | **Nome** |
 |:-------|:---------|
 | US02 | Autenticar |
 | Descrição | _Eu, como_ _**Usuário**_, _desejo autenticar que sou eu utilizando meu MEI para evitar frustações_  |
-| Critérios de Aceitação | A ser definido |
+| Critérios de Aceitação |  <ul><li>O aplicativo deve exigir um CNPJ já em circulação para ser acessado</li><li>O aplicativo deve exigir um ID/E-mail e uma senha para ser acessado </li> </ul>|
 | Rastro | [IS07](https://requisitos-de-software.github.io/2022.2-MEI/Requisitos/Elicitacao/Introspeccao/) |
 
 ### 2. Login e Logout
-#### 2.1 Card: Login
+#### 2.1 Login
 | **ID** | **Nome** |
 |:-------|:---------|
 | US03 | Realizar Login |
 | Descrição | _Eu, como_ _**Usuário**_, _desejo utilizar um sistema de login para obter dados únicos e ter mais segurança_  |
-| Critérios de Aceitação | A ser definido |
+| Critérios de Aceitação | <ul><li>O aplicativo deve ter um sistema de login com senha ,ID de usuário e CNPJ</li><li> O aplicativo deve ter um sistema de verificação de robôs(Bots)</ul></li>|
 | Rastro | [BS02](https://requisitos-de-software.github.io/2022.2-MEI/Requisitos/Elicitacao/Brainstorming/) |
 
-#### 2.2 Card: Logout
+#### 2.2 Logout
 | **ID** | **Nome** |
 |:-------|:---------|
 | US04 | Realizar Logout |
 | Descrição | _Eu, como_ _**Usuário**_, _desejo sair da minha conta para garantir minha privacidade caso use o dispositivo de outra pessoa_  |
-| Critérios de Aceitação | A ser definido |
+| Critérios de Aceitação | <ul><li>Deve ser possivel realizar logout de sua conta a qualquer momento, no aplicativo</li><li> Deve se ter uma notificação fixa mostrando que o usuário continua online em sua conta, ao apenas minimizar ou fechar o aplicativo</li></ul> |
 | Rastro | [ENT5](https://requisitos-de-software.github.io/2022.2-MEI/Requisitos/Elicitacao/Entrevista/) |
 
 ### 3. Configurações
-#### 3.1 Card: Lembrete
+#### 3.1 Lembrete
 | **ID** | **Nome** |
 |:-------|:---------|
 | US05 | Lembrar os pagamentos |
 | Descrição | _Eu, como_ _**Usuário**_, _desejo receber um lembrete para pagamento do DAS para não perder a data limite de pagamento_  |
-| Critérios de Aceitação | A ser definido |
+| Critérios de Aceitação | <ul><li>Deve ser possivel receber uma notificação de lembrete do pagamento do DAS</li><li>O lembrete deve ser mandado um mês antes e no começo de cada semana seguinte, sendo na ultima semana, mandado todos os dias(configuração padrão). </li><li>Deve ser possivel ativar e desativar a qualquer momento tal lembrete</li><li>Deve ser possivel editar as datas/periodos em que o lembrete aparecerá para o usuário</li></ul> |
 | Rastro | [BS03](https://requisitos-de-software.github.io/2022.2-MEI/Requisitos/Elicitacao/Brainstorming/) |
 
-#### 3.2 Card: Aviso
+#### 3.2 Aviso
 | **ID** | **Nome** |
 |:-------|:---------|
 | US06 | Avisar sobre a realização de uma ação |
 | Descrição | _Eu, como_ _**Usuário**_, _desejo receber um aviso para saber se realizei uma ação com sucesso ou não_  |
-| Critérios de Aceitação | A ser definido |
+| Critérios de Aceitação | <ul><li>Deve aparecer na tela um pop-up de confirmação de que aquela atividade foi realizada com sucesso</li><li>O pop-up deve aparecer apenas para atividades relevantes, como o pagamento do DAS, excluindo atividades simples como configurar o aplicativo</li></ul> |
 | Rastro | [BS06](https://requisitos-de-software.github.io/2022.2-MEI/Requisitos/Elicitacao/Brainstorming/) |
 
-#### 3.3 Card: Autorizar
+#### 3.3 Autorizar
 | **ID** | **Nome** |
 |:-------|:---------|
 | US07 | Autorizar a obtenção de dados |
 | Descrição | _Eu, como_ _**Usuário**_, _desejo autorizar o acesso do aplicativo a determinados dados de outros sistemas para não utilizar sites externos_  |
-| Critérios de Aceitação | A ser definido |
+| Critérios de Aceitação | <ul><li>Deve ser possivel autorizar o acesso á dados externos ao aplicativo, dentro do mesmo</li><li>Deve-se ter uma opção nas configurações para realizar tal autorização</li><li>Deve-se aparecer os termos de uso com todas as condições do comparilhamento de dados e no que isso implica</li><li>Deve ser necessário a aceitação dos termos de uso, caso contrario os dados não serão compartilhados</li></ul> |
 | Rastro | [BS04](https://requisitos-de-software.github.io/2022.2-MEI/Requisitos/Elicitacao/Brainstorming/) |
 
-#### 3.4 Card: Dispositivos
+#### 3.4 Dispositivos
 | **ID** | **Nome** |
 |:-------|:---------|
 | US08 | Autorizar a obtenção de dados |
 | Descrição | _Eu, como_ _**Usuário**_, _desejo utilizar o MEI em diversos modelos de dispositivos para conseguir usar o aplicativo em modelos antigos ou não tão populares_  |
-| Critérios de Aceitação | A ser definido |
+| Critérios de Aceitação | <ul><li>O aplicativo deve ser tratado em cada uma de suas atualizações para atingir o maior numero de dispositivos possiveis, tanto em marcas quanto em versão de cada, sem comprometer suas funções e desempenho</li></ul> |
 | Rastro | [BS08](https://requisitos-de-software.github.io/2022.2-MEI/Requisitos/Elicitacao/Brainstorming/) |
 
-#### 3.5 Card: Acessibilidade
+#### 3.5 Acessibilidade
 | **ID** | **Nome** |
 |:-------|:---------|
 | US09 | Garantir acessibilidade|
 | Descrição | _Eu, como_ _**Usuário**_, _desejo ter recursos de acessiblidade para não depender de outras pessoas para utilizar o aplicativo_  |
-| Critérios de Aceitação | A ser definido |
+| Critérios de Aceitação | <ul><li>Deve ser possivel ativar e desativar alguns recursos de acessibilidade nas configurações,como mudança de cores</li><li>Deve ser possivel ler toda a pagina por meio de um leitor de tela ao entrar na mesma </li><li>Deve-se ter uma descrição detalhada para cada imagem presente no aplicativo, para que o leitor de tela possa ser utilizado</li><li>Deve-se ter um som de confirmação ao tocar em um botão e abrir um pop-up de confirmação de cada ação de botão pressionado</li><li>Deve-se possuir facil integração com a maioria dos leitores de tela</li><li>Deve ser possivel aumentar a fonte dos textos</li></ul> |
 | Rastro | [BS11](https://requisitos-de-software.github.io/2022.2-MEI/Requisitos/Elicitacao/Brainstorming/) |
 
-#### 3.6 Card: Dados
+#### 3.6 Dados
 | **ID** | **Nome** |
 |:-------|:---------|
 | US10 | Alterar/Salvar Dados|
 | Descrição | _Eu, como_ _**Usuário**_, _desejo alterar e salvar os dados durante a utilização do MEI para manter meu cadastro em dia_  |
-| Critérios de Aceitação | A ser definido |
+| Critérios de Aceitação | <ul><li>Deve ser possivel alterar e salvar os dados durante a utilização do MEI</li><li>Os salvamentos de dados ocorrerão automaticamente ao realizar alguma operação que modifique os mesmos, ou ao ser modificado pelo próprio usuário</li></ul> |
 | Rastro | [ENT4](https://requisitos-de-software.github.io/2022.2-MEI/Requisitos/Elicitacao/Brainstorming/) |
 
 ### 4. Suporte
@@ -117,8 +118,8 @@ Será utilizado um __card__ para definir as histórias de usuário, segue um exe
 | **ID** | **Nome** |
 |:-------|:---------|
 | US11 | Buscar auxílio no chat |
-| Descrição | _Eu, como_ _**Usuário**_, _desejo aentrar em um chat com o suporte para tirar eventuais dúvidas_  |
-| Critérios de Aceitação | A ser definido |
+| Descrição | _Eu, como_ _**Usuário**_, _desejo entrar em um chat com o suporte para tirar eventuais dúvidas_  |
+| Critérios de Aceitação | <ul><li>Deve ser possivel entrar em um chat de conversa com um atendente do suporte</li><li>Ao entrar no chat de suporte devem aparecer algumas mensagens prontas explicando o que fazer e referenciar possiveis soluções do problema em um F.A.Q geral do aplicativo</li><li>Deve ser possivel encerrar a sessão de atendimento á qualquer momento</li><li>Deve ser possivel enviar um feedback sobre o seu atendimento por chat, mesmo ao encerrar previamente</li></ul> |
 | Rastro | [BS07](https://requisitos-de-software.github.io/2022.2-MEI/Requisitos/Elicitacao/Brainstorming/) |
 
 #### 4.2 Texto
@@ -126,7 +127,7 @@ Será utilizado um __card__ para definir as histórias de usuário, segue um exe
 |:-------|:---------|
 | US12 | Entender os texto |
 | Descrição | _Eu, como_ _**Usuário**_, _desejo ter acesso a explicações sobre os processos e siglas do MEI para entender melhor o aplicativo_  |
-| Critérios de Aceitação | A ser definido |
+| Critérios de Aceitação | <ul><li>O aplicativo deve possuir uma verificação por login, a qual verá se é o primeiro login daquele usuário no app, e a partir disso mostrará uma pagina de "primeia vez utilizando o MEI"</li><li>Em tal pagina de "primeira vez utilizando o MEI" deve se ter as explicações dos processos e siglas do MEI</li><li>Deve ser possivel fechar tal pagina a qualquer momento</li></ul> |
 | Rastro | [BS12](https://requisitos-de-software.github.io/2022.2-MEI/Requisitos/Elicitacao/Brainstorming/) |
 
 #### 4.3 FAQ
@@ -134,7 +135,7 @@ Será utilizado um __card__ para definir as histórias de usuário, segue um exe
 |:-------|:---------|
 | US13 | Acesso a Perguntas Frequentes |
 | Descrição | _Eu, como_ _**Usuário**_, _desejo ver as dúvidas mais frequentes para solucionar os meus problemas rapidamente_  |
-| Critérios de Aceitação | A ser definido |
+| Critérios de Aceitação | <ul><li>O aplicativo deve possuir uma pagina de FAQ, onde nela terá as duvidas mais frequentes dos usuários</li><li>Deve ser possivel acessar tal pagina de FAQ mesmo sem realizar login</li><li>A pagina de FAQ deve ser separada por catégorias e subcatégorias de problemas</li></ul> |
 | Rastro | [IS05](https://requisitos-de-software.github.io/2022.2-MEI/Requisitos/Elicitacao/Introspeccao/) |
 
 ### 5. Documentação
@@ -144,7 +145,7 @@ Será utilizado um __card__ para definir as histórias de usuário, segue um exe
 |:-------|:---------|
 | US14 | Emitir |
 | Descrição | _Eu, como_ _**Usuário**_, _desejo emitir meus boletos pelo MEI para pagá-los rapidamente_  |
-| Critérios de Aceitação | A ser definido |
+| Critérios de Aceitação | <ul><li>Deve ser possivel emitir os boletos pelo MEI</li><li>Antes de emitir o boleto deve ser mostrado uma previa daquele boleto para o usuário</li><li>Deve ser possivel baixar o boleto após a previa de visualização</li></ul>
 | Rastro | [IS02](https://requisitos-de-software.github.io/2022.2-MEI/Requisitos/Elicitacao/Introspeccao/) |
 
 #### 5.2 Solicitar Restituição
@@ -152,23 +153,23 @@ Será utilizado um __card__ para definir as histórias de usuário, segue um exe
 |:-------|:---------|
 | US15 | Restituir |
 | Descrição | _Eu, como_ _**Usuário**_, _desejo solicitar uma Restituição pelo aplicativo MEI para evitar filas e burocracias em agências presenciais_  |
-| Critérios de Aceitação | A ser definido |
+| Critérios de Aceitação | <ul><li>O aplicativo deve ter uma pagina isolada para "Solicitação de restituição"</li><li>Deve-se ter uma breve explicação do que é a solicitação de restituição na pagina da mesma</li><li> Deve ser possivel realizar a solicitação de restituição</li></ul> |
 | Rastro | [IS04](https://requisitos-de-software.github.io/2022.2-MEI/Requisitos/Elicitacao/Introspeccao/) |
 
-#### 5.3 Emitir Boletos
+#### 5.3 Informações CNPJ
 | **ID** | **Nome** |
 |:-------|:---------|
-| US16 | Emitir |
+| US16 | Buscar Informações do CNPJ |
 | Descrição | _Eu, como_ _**Usuário**_, _desejo buscar informações sobre meu CNPJ e status pelo aplicativo do MEI para conferir se está tudo de acordo com o esperado_  |
-| Critérios de Aceitação | A ser definido |
+| Critérios de Aceitação | <ul><li>Deve-se ter uma pagina isolada para "consultar meu CNPJ" no aplicativo</li><li>Deve ser possivel visualizar as informações do CNPJ e o status do mesmo dentro de tal pagina</li></ul> |
 | Rastro | [IS03](https://requisitos-de-software.github.io/2022.2-MEI/Requisitos/Elicitacao/Introspeccao/) |
 
 #### 5.4 Pagar Boletos
 | **ID** | **Nome** |
 |:-------|:---------|
-| US17 | Emitir |
+| US17 | Pagar |
 | Descrição | _Eu, como_ _**Usuário**_, _desejo pagar meus boletos pelo MEI para evitar maiores burocracias_  |
-| Critérios de Aceitação | A ser definido |
+| Critérios de Aceitação | <ul><li>Deve ser possivel realizar o pagamento dos boletos</li><li>O aplicativo deve ter uma pagina apenas para pagamento de boletos</li><li>Deve-se mostrar um resumo do valor, ou valores caso sejam varios boletos pagos de uma vez</li></ul> |
 | Rastro | [IS02](https://requisitos-de-software.github.io/2022.2-MEI/Requisitos/Elicitacao/Introspeccao/) |
 
 ## Bibliografia
