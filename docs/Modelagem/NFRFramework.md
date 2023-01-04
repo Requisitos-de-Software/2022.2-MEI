@@ -85,12 +85,12 @@ As figuras a seguir apresentam os SIG elaborados sobre Usabilidade, Confiabilida
 #### Sem Propagação
 <img src="./../../assets/NFR/NFR-Usabilidade.png">
 
-**Figura 1 - SIG Usabilidade** <br><br>
+*Figura 1 - SIG Usabilidade* <br><br>
 
 #### Propagação de erros
 <img src="./../../assets/NFR/NFR-Usabilidade-Propagado.png">
 
-**Figura 2 - SIG Usabilidade Com Propagação de erros** <br><br>
+*Figura 2 - SIG Usabilidade Com Propagação de erros* <br><br>
 
 </center>
 
@@ -101,12 +101,12 @@ As figuras a seguir apresentam os SIG elaborados sobre Usabilidade, Confiabilida
 #### Sem Propagação
 <img src="./../../assets/NFR/NFR-Confiabilidade.png">
 
-**Figura 3 - SIG Confiabilidade** <br><br>
+*Figura 3 - SIG Confiabilidade* <br><br>
 
 #### Propagação de erros
 <img src="./../../assets/NFR/NFR-Confiabilidade-Propagado.png">
 
-**Figura 4 - SIG Confiabilidade Com Propagação de erros** <br><br>
+*Figura 4 - SIG Confiabilidade Com Propagação de erros* <br><br>
 
 </center>
 
@@ -117,12 +117,12 @@ As figuras a seguir apresentam os SIG elaborados sobre Usabilidade, Confiabilida
 #### Sem Propagação
 <img src="./../../assets/NFR/NFR-Desempenho.png">
 
-**Figura 5 - SIG Desempenho** <br><br>
+*Figura 5 - SIG Desempenho* <br><br>
 
 #### Propagação de erros
 <img src="./../../assets/NFR/NFR-Desempenho-Propagado.png">
 
-**Figura 6 - SIG Desempenho Com Propagação de erros** <br><br>
+*Figura 6 - SIG Desempenho Com Propagação de erros* <br><br>
 
 </center>
 
@@ -133,12 +133,12 @@ As figuras a seguir apresentam os SIG elaborados sobre Usabilidade, Confiabilida
 #### Sem Propagação
 <img src="./../../assets/NFR/NFR-Suportabilidade.png">
 
-**Figura 7 - SIG Suportabilidade** <br><br>
+*Figura 7 - SIG Suportabilidade* <br><br>
 
 #### Propagação de erros
 <img src="./../../assets/NFR/NFR-Suportabilidade-Propagado.png">
 
-**Figura 8 - SIG Suportabilidade Com Propagação de erros** <br><br>
+*Figura 8 - SIG Suportabilidade Com Propagação de erros* <br><br>
 
 </center>
 
