@@ -24,7 +24,7 @@ Legenda:
 ### **UC01 - Fazer Login**
 <center>
 <img src='./../../assets/images/Casos de Uso/Diagrama de caso de uso - UC 01.png'pngwidth="1000">Figura 2 - Diagrama Do UC 01</img>
-</center>
+
 
 |**UC01**|**Fazer Login**|
 | :----------: |:-----------|
@@ -39,10 +39,14 @@ Legenda:
 |Pós Condições|Usuário fica logado e pode realizar todas as ações|
 |Rastreabilidade|BS02|
 
+Tabela 1: Detalhe da figura 1 ( Autoria própria - Pedro)
+
+</center>
+
 ### **UC02 - Cadastro**
 <center>
 <img src='./../../assets/images/Casos de Uso/Diagrama de caso de uso - UC 02.png'pngwidth="1000">Figura 3 - Diagrama Do UC 02</img>
-</center>
+
 
 |**UC02**|**Realizar Cadastro**|
 | :----------: |:-----------|
@@ -57,12 +61,13 @@ Legenda:
 |Pós Condições|Usuário volta para a página de Login|
 |Rastreabilidade|BS01|
 
+Tabela 2: Detalhe da figura 2 ( Autoria própria - Pedro)
 
+</center>
 
 ### **UC03 - Acesso a Suporte**
 <center>
 <img src='./../../assets/images/Casos de Uso/Diagrama de caso de uso - UC 03.png'pngwidth="1000">Figura 4 - Diagrama Do UC 03</img>
-</center>
 
 |**UC03**|**Acesso a Suporte**|
 | :----------: |:-----------|
@@ -77,10 +82,14 @@ Legenda:
 |Pós Condições|Usuário volta para a página inicial|
 |Rastreabilidade|BS07|
 
+Tabela 3: Detalhe da figura 3 ( Autoria própria - Pedro)
+
+</center>
+
 ### **UC04 - Lembrete**
 <center>
 <img src='./../../assets/images/Casos de Uso/Diagrama de caso de uso - UC 04.png'pngwidth="1000">Figura 5 - Diagrama Do UC 04</img>
-</center>
+
 
 |**UC04**|**Receber Lembrete de Pagamento**|
 | :----------: |:-----------|
@@ -95,10 +104,14 @@ Legenda:
 |Pós Condições|Usuário segue para a página principal|
 |Rastreabilidade|BS03|
 
+Tabela 4: Detalhe da figura 4 ( Autoria própria - Pedro)
+
+</center>
+
 ### **UC05 - Plataforma Unica**
 <center>
 <img src='./../../assets/images/Casos de Uso/Diagrama de caso de uso - UC 05.png'pngwidth="1000">Figura 6 - Diagrama Do UC 05</img>
-</center>
+
 
 |**UC05**|**Utilizar apenas o MEI**|
 | :----------: |:-----------|
@@ -112,6 +125,10 @@ Legenda:
 |Fluxo de Exceção|**Fluxo de Exceção 1 - Recusar** <br> > Usuário recusa a utilização|
 |Pós Condições|Usuário pode realizar outras operações sem necessitar de sites externos do Governo|
 |Rastreabilidade|BS04 e BS05|
+
+Tabela 5: Detalhe da figura 5 ( Autoria própria - Pedro)
+
+</center>
 
 ## Referências Bibliográficas
 - Duolingo Github Requisitos de Software, disponivel em: https://github.com/Requisitos-de-Software/2019.2-Duolingo Acesso em: 10 de dezembro de 2022
