@@ -3,7 +3,7 @@
 ## Histórico de Versão
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
-|31/12/2022|02/01/2023|1.0|Criação do documento| [Arthur Taylor](https://github.com/Eruel6) | [Ana Luiza](https://github.com/AnHoff) |
+|31/12/2022|02/01/2023|1.0|Criação do documento| [Arthur Taylor](https://github.com/Eruel6) | [Eduardo](https://github.com/edudsan) |
 
 
 ## Introdução
@@ -17,11 +17,11 @@ Para a definição do backlog do produto foram utilizados os métodos de introsp
 
 <center>
 
-| **Feature** | **ID** |**História de usuário**|
-|:-------|:---------|:----------|
-| </br>Feature 1 - Cadastro e Autenticação</br></br>| US01</br>US02</br> | Realizar Cadastro </br>Autenticar </br> |
-| Feature 2 - Login | US03 |Realizar Logar|
-| Feature 3 - Logout | US04 | Realizar Logout |
+| **Feature** | **Rastreabilidade** |**História de usuário**|**Prioridade**|
+|:-------|:---------|:----------|-------|
+| </br>Feature 1 - Cadastro e Autenticação</br></br>| US01</br>US02</br> | Realizar Cadastro </br>Autenticar </br> |Alta|
+| Feature 2 - Login | US03 |Realizar Login|Alta|
+| Feature 3 - Logout | US04 | Realizar Logout |Alta|
 
 *Tabela 1 - Épico 1*
 
@@ -31,10 +31,10 @@ Para a definição do backlog do produto foram utilizados os métodos de introsp
 
 <center>
 
-| **Feature** | **ID** |**História de usuário**|
-|:-------|:---------|:----------|
-| </br>Feature 4 - Notificações</br></br>| US05</br>US06</br> | Lembretes</br>Aviso</br> |
-| </br>Feature 5 - Perfil</br></br> | US07</br>US08</br>US09</br>US10</br>US16</br>| Autorizar a obtenção de dados</br>Diversificação de dispositivos</br>Garantir Acessibilidade</br>Alterar/Salvar dados</br>Consultar informações</br>|
+| **Feature** | **Rastreabilidade** |**História de usuário**|**Prioridade**|
+|:-------|:---------|:----------|-------|
+| </br>Feature 4 - Notificações</br></br>| US05</br>US06</br> | Lembretes</br>Aviso</br> | Média |
+| </br>Feature 5 - Perfil</br></br> | US07</br>US08</br>US09</br>US10</br>US16</br>| Autorizar a obtenção de dados</br>Diversificação de dispositivos</br>Garantir Acessibilidade</br>Alterar/Salvar dados</br>Consultar informações</br>|Alta|
 
 *Tabela 2 - Épico 2*
 
@@ -44,9 +44,9 @@ Para a definição do backlog do produto foram utilizados os métodos de introsp
 
 <center>
 
-| **Feature** | **ID** |**História de usuário**|
-|:-------|:---------|:----------|
-| </br>Feature 6 - Suporte</br></br>| US11</br>US12</br>US13</br>| Buscar auxílio no chat</br>Entender os textos</br>Acesso a perguntas frequentes</br> |
+| **Feature** | **Rastreabilidade** |**História de usuário**|**Prioridade**|
+|:-------|:---------|:----------|-------|
+| </br>Feature 6 - Suporte</br></br>| US11</br>US12</br>US13</br>| Buscar auxílio no chat</br>Entender os textos</br>Acesso a perguntas frequentes</br> |Baixa|
 
 *Tabela 3 - Épico 3*
 
@@ -56,10 +56,10 @@ Para a definição do backlog do produto foram utilizados os métodos de introsp
 
 <center>
 
-| **Feature** | **ID** |**História de usuário**|
-|:-------|:---------|:----------|
-| </br>Feature 6 - Boletos</br></br>| US14</br>US17</br> | Emitir Boleto</br>Pagar Boletos</br> |
-|Feature 7 - Restituição|US15|Solicitar Restituição|
+| **Feature** | **Rastreabilidade** |**História de usuário**| **Prioridade**|
+|:-------|:---------|:----------|-------|
+| </br>Feature 6 - Boletos</br></br>| US14</br>US17</br> | Emitir Boleto</br>Pagar Boletos</br> |Média|
+|Feature 7 - Restituição|US15|Solicitar Restituição|Média|
 
 *Tabela 4 - Épico 4*
 

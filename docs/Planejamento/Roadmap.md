@@ -182,7 +182,7 @@ O cronograma planejado apresenta uma versão inicial de planejamento e pode dife
 | Histórias de usuário | Pedro | 28/12/2022 | 02/12/2022 | Ana, Thiago
 | Critérios de aceitação das histórias de usuário | Thiago | 03/01/2022 | 04/01/2022 | Ana
 | Ajustes na especificação suplementar | Eduardo | 04/01/2022 | 04/01/2022 | Ana
-| Backlog | Arthur | 31/12/2022 | 02/01/2022 | 
+| Backlog | Arthur | 31/12/2022 | 02/01/2022 | Eduardo
 
 *Tabela 10 - Tarefas executadas para a entrega 4*<br><br>
 
