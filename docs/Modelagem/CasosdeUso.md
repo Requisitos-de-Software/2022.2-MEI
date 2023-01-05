@@ -39,7 +39,7 @@ Legenda:
 |Pós Condições|Usuário fica logado e pode realizar todas as ações|
 |Rastreabilidade|BS02|
 
-Tabela 1: Detalhe da figura 1 ( Autoria própria - Pedro)
+*Tabela 1 - Detalhe da figura 1 (Fonte: autoria própria - Pedro)*
 
 </center>
 
@@ -61,7 +61,7 @@ Tabela 1: Detalhe da figura 1 ( Autoria própria - Pedro)
 |Pós Condições|Usuário volta para a página de Login|
 |Rastreabilidade|BS01|
 
-Tabela 2: Detalhe da figura 2 ( Autoria própria - Pedro)
+*Tabela 2 - Detalhe da figura 2 (Fonte: autoria própria - Pedro)*
 
 </center>
 
@@ -82,7 +82,7 @@ Tabela 2: Detalhe da figura 2 ( Autoria própria - Pedro)
 |Pós Condições|Usuário volta para a página inicial|
 |Rastreabilidade|BS07|
 
-Tabela 3: Detalhe da figura 3 ( Autoria própria - Pedro)
+*Tabela 3 - Detalhe da figura 3 (Fonte: autoria própria - Pedro)*
 
 </center>
 
@@ -104,7 +104,7 @@ Tabela 3: Detalhe da figura 3 ( Autoria própria - Pedro)
 |Pós Condições|Usuário segue para a página principal|
 |Rastreabilidade|BS03|
 
-Tabela 4: Detalhe da figura 4 ( Autoria própria - Pedro)
+*Tabela 4 - Detalhe da figura 4 (Fonte: autoria própria - Pedro)*
 
 </center>
 
@@ -126,7 +126,7 @@ Tabela 4: Detalhe da figura 4 ( Autoria própria - Pedro)
 |Pós Condições|Usuário pode realizar outras operações sem necessitar de sites externos do Governo|
 |Rastreabilidade|BS04 e BS05|
 
-Tabela 5: Detalhe da figura 5 ( Autoria própria - Pedro)
+*Tabela 5 - Detalhe da figura 5 (Fonte: autoria própria - Pedro*
 
 </center>
 

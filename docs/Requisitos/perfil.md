@@ -40,13 +40,13 @@ O questionário também dá suporte às pesquisas realizadas, que nos dizem que,
 * Motivação: o MEI propicia formas de regulamentar um trabalho informal.
 
 <Center>
-A seguir o grafico com base nas pesquisas que indicam a relação de sexos dentro do projeto:
-<img src='./../../assets/images/Sexo.png'><br>Figura 1 - Grafico de dados relacionados ao sexo</img>
+A seguir, na figura 1, o gráfico com base nas pesquisas que indicam a relação de sexos dentro do projeto:
+<img src='./../../assets/images/Sexo.png'><br>*Figura 1 - Gráfico de dados relacionados ao sexo*</img>
 </Center>
 <br>
 <Center>
-A seguir os objetivos dos usuários:
-<img src='./../../assets/images/Objetivos.png'><br>Figura 2 - Relação dos objetivos dos usuarios</img>
+A seguir os objetivos dos usuários na figura 2:
+<img src='./../../assets/images/Objetivos.png'><br>*Figura 2 - Relação dos objetivos dos usuários*</img>
 </Center>
 
 ## Bibliografia

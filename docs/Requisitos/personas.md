@@ -48,7 +48,7 @@ Persona Primária
 
 <img width='200' src='./../../assets/personas/isabela.jpg'>
 
-Imagem 1 - fonte Random User Generator
+*Imagem 1 - fonte Random User Generator*
 
 </center>
 
@@ -74,7 +74,7 @@ Persona Primária
 
 <img width='200' src='./../../assets/personas/joao.jpg'>
 
-Imagem 2 - fonte Random User Generator
+*Imagem 2 - fonte Random User Generator*
   
 </center>
 
@@ -100,7 +100,7 @@ Persona Secundária
 
 <img width='200' src='./../../assets/personas/salete.jpg'>
 
-Imagem 3 - fonte Random User Generator
+*Imagem 3 - fonte Random User Generator*
   
 </center>
 
@@ -126,7 +126,7 @@ Antipersona
 
 <img width='200' src='./../../assets/personas/valdemar.jpg'>
 
-Imagem 4 - fonte Random User Generator
+*Imagem 4 - fonte Random User Generator*
 
 </center>
 
