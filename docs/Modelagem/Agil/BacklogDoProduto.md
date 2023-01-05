@@ -12,6 +12,13 @@ O backlog do produto pode ser definido como uma lista de afazeres para o projeto
 ## Metodologia
 Para a definição do backlog do produto foram utilizados os métodos de introspecção e análise do aplicativo. Eles foram utilizados para definir os épicos, histórias de usuário e, a partir disso, confeccionar o backlog.
 
+### Divisão do Backlog
+O backlog foi dividido da seguinte forma:
+- Tema: O própio MEI, o tema do backlog define o escopo geral do projeto
+- Épico: Uma atividade muito grande, geral
+- Feature: As funcionalidades do projeto
+- História de Usuário: Divisão das features para facilitar o desenvolvimento delas. 
+
 ## Features
 ###  Épico 1 - Cadastro e autenticação 
 
