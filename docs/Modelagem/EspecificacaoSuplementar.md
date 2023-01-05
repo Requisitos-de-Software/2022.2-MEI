@@ -94,7 +94,7 @@ que podem ser observados na tabela 6 com a legenda na tabela 7.
 
 |Sigla|Categoria|Requisitos| 
 | :----------: | :------: | :------: | 
-|F| Funcionalidade | ENT 1, IS07, BS05, BS09 | 
+|F| Funcionalidade | [Requisitos](../Requisitos/tecnicas-priorizacao.md) | 
 |U| Usabilidade | IS 08, ENT 4, BS11, BS12   | 
 |R|Confiabilidade |  ENT 3| 
 |P|Desempenho| ENT 2 | 
