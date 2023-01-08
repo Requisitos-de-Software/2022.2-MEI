@@ -1,6 +1,6 @@
 # 4ª Reunião
 
-## Histórico de Versão
+## <a>Histórico de Versão</a>
 
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:----------:| :------: | :-----------: | :---------: |:---------: |
@@ -9,11 +9,11 @@
 
 
 
-## Local e horário
+## <a>Local e horário</a>
 
 A reunião foi realizada de forma remota no dia 26 de Novembro de 2022, às 15:28h e teve término às 15:48h, utilizando a prataforma Microsoft Teams.
 
-## Presentes
+## <a>Presentes</a>
 
 - Ana Luiza Hoffmann
 - Arthur Taylor
@@ -22,21 +22,21 @@ A reunião foi realizada de forma remota no dia 26 de Novembro de 2022, às 15:2
 - Pedro Lucas Fernandes
 - Thiago Oliveira
 
-## Objetivo
+## <a>Objetivo</a>
 
 Definir tarefas dos membros do grupo para serem realizadas para a próxima entrega da disciplina
 
-## Gravação
+## <a>Gravação</a>
 
 <center>
 <iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/6YEwP7oCzms" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
-## Definições
+## <a>Definições</a>
 
 Depois de discussões em grupo, decidiu-se distribuir a confecção de artefatos da forma apresentada na tabela 1.
 
-### Reponsáveis 
+### <a>Reponsáveis </a>
 <center>
 A seguir os artefatos e seus respectivos responsáveis, na tabela 1:
 

@@ -1,19 +1,19 @@
 # Personas
 
-## Histórico de Versão
+## <a>Histórico de Versão</a>
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
 |29/11/2022|30/11/2022|1.0|Criação do documento| [Ana Luiza](https://github.com/AnHoff) | [João Lucas](https://github.com/HacKairos) |
 |29/11/2022|30/11/2022|1.0|Criação do documento| [Pedro Lucas](https://github.com/PedroLSF) | [João Lucas](https://github.com/HacKairos) |
 
-## Introdução
+## <a>Introdução</a>
 Economistas criam modelos para representar o comportamento do mercado e o mesmo acontece na área de engenharia de software: engenheiros de requisitos criam personas para descrever os usuários. A criação de personas se provou uma ferramenta extremamente útil para lidar com designs relacionados à interação do usuário com o sistema.
 
 Personas devem ser criadas de modo a satisfazer uma ampla gama de usuários, generalizando suas características de modo a contemplar o maior número possível de usuários identificados.
 
 O objetivo das personas é providenciar de forma precisa o modo como o usuário irá se comportar, o que ele irá pensar e o que ele deseja realizar, assim como os motivos por trás de cada ação. Para tanto, apesar de não serem reais, as personas devem ser baseadas em perfis reais de usuários. Tais perfis podem ser obtidos de diferentes maneiras, com algumas técnicas que serão utilizadas e apresentadas nesse projeto.
 
-## Criação e Contribuição
+## <a>Criação e Contribuição</a>
 Como dito previamente, personas devem ser baseadas em perfis reais. Em outras palavras, a eficácia e/ou qualidade de uma persona é diretamente proporcional à qualidade dos dados coletados sobre os usuários reais. Algumas formas de se obter tais dados são listadas abaixo.
 
 * Entrevistas com usuários fora do contexto de uso;
@@ -30,7 +30,7 @@ Como dito previamente, personas devem ser baseadas em perfis reais. Em outras pa
 
 O perfil de usuário utilizado para a elaboração das personas pode ser encontrado [aqui](perfil.md).
 
-## Escolhas da Persona
+## <a>Escolhas da Persona</a>
 
 O grupo abriu um questionário e levantou ideias com relação ao número ideal de personas. Foram analisadas as respostas do questionário e resultados das buscas sobre dados coletados anteriormente e, por fim, concluiu-se que 3 seria o número ideal para agrupar os usuários do MEI. Pontos levantados para a escolha desse número foram:
 
@@ -40,10 +40,10 @@ O grupo abriu um questionário e levantou ideias com relação ao número ideal 
 
 A antipersona por sua vez deveria ser um perfil de usuário que não precisasse do MEI, então ele foi criado com base nos requisitos necessários para ser recusado como MEI, como, por exemplo, renda e serviços prestados.
 
-## Personas Elaboradas
+## <a>Personas Elaboradas</a>
 <center>
   
-### Isabela Menezes
+### <a>Isabela Menezes</a>
 Persona Primária
 
 <img width='200' src='./../../assets/personas/isabela.jpg'>
@@ -69,7 +69,7 @@ Persona Primária
 
 <center>
   
-### João Silva
+### <a>João Silva</a>
 Persona Primária
 
 <img width='200' src='./../../assets/personas/joao.jpg'>
@@ -95,7 +95,7 @@ Persona Primária
 
 <center>
   
-### Salete Camargo
+### <a>Salete Camargo</a>
 Persona Secundária
 
 <img width='200' src='./../../assets/personas/salete.jpg'>
@@ -121,7 +121,7 @@ Persona Secundária
 
 <center>
 
-### Valdemar Chess
+### <a>Valdemar Chess</a>
 Antipersona
 
 <img width='200' src='./../../assets/personas/valdemar.jpg'>
@@ -145,7 +145,7 @@ Antipersona
 * **Afinidade com tecnologia**: alta;
 * **Experiência prévia**: nenhuma.
 
-## Bibliografia
+## <a>Bibliografia</a>
 [1] Cooper, Alan, 1952 - About face 3: the essentials of interaction design
 
 [2] Random User Generator - disponível em https://randomuser.me/

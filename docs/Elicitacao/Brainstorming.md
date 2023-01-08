@@ -1,13 +1,13 @@
 # Brainstorming
 
-## Histórico de Versão
+## <a>Histórico de Versão</a>
 
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:----------:| :------: | :-----------: | :---------: |:---------: |
 |03/12/2022|04/12/2022|1.0|Criação do documento| [Pedro Lucas](https://github.com/PedroLSF) |[Ana Luiza](https://github.com/AnHoff)|
 |04/12/2022|05/12/2022|1.1|Adição de links e detalhamento do texto| [Joao Lucas](https://github.com/HacKairo) |[Pedro Lucas](https://github.com/PedroLSF)|
 
-## Introdução
+## <a>Introdução</a>
 Caso deseje entender mais sobre a técnica utilizada nesse documento clique [*aqui*](https://requisitos-de-software.github.io/2022.2-MEI/Requisitos/Elicita%C3%A7%C3%A3o/tecnicas-elicitacao/)
 
 O brainstorming foi realizado durante a 5ª Reunião do grupo, no dia 3 de dezembro de 2022.
@@ -19,7 +19,7 @@ A equipe irá se dividir em 1 mediador e 3 possíveis personas, a fim de se colo
 * Mediador: Thiago Oliveira.
 * Personas: Pedro Lucas, João Lucas e Eduardo.
 
-Os dados de Salete Camargo, João Silva e Isabela Menezes, personas que serão utilizadas no brainstorming, pode ser conferido [aqui](../personas.md).
+Os dados de Salete Camargo, João Silva e Isabela Menezes, personas que serão utilizadas no brainstorming, pode ser conferido [aqui](personas.md).
 
 Tendo em mente a definição dos perfis, o brainstorming será realizado e sua realização pode ser encontrada [**aqui**](https://youtu.be/IEj32_Gj0Vo) (Link com o video completo do *Brainstorming*). Durante sua duração, também foram acordados níveis de benefício e penalidade para cada requisito, a fim de obter dados para a etapa de priorização de requisitos.
 

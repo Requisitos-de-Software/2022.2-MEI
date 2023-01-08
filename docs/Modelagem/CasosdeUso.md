@@ -1,27 +1,27 @@
 # Casos de Uso
 
-## Histórico de Versão
+## <a>Histórico de Versão</a>
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
 |09/12/2022|10/12/2022|1.0|Criação do documento| [Pedro Lucas](https://github.com/PedroLSF) e [Eduardo](https://github.com/edudsan)|[Thiago Oliveira](https://github.com/Thiab394) |
 |10/12/2022|11/12/2022|1.1|Adição Dos Diagramas de Caso de Uso| [Thiago Oliveira](https://github.com/Thiab394)| [Pedro Lucas](https://github.com/PedroLSF)|
 
-## Introdução
+## <a>Introdução</a>
 Um caso de uso define uma sequência de ações executadas pelo sistema que geram um resultado de valor observável para um ator em particular. Cada caso de uso deve gerar um significado de valor para o ator que utiliza o sistema.
 
-## Metodologia
+## <a>Metodologia</a>
 Após a elicitação de requisitos funcionais, o grupo escolheu os principais requisitos para o desenvolvimento de tabelas e diagramas de casos de uso.
 
-## Casos de Uso
+## <a>Casos de Uso</a>
 Legenda:
 * UC -> Caso de Uso
-### **Casos de Uso Geral**
+### <a>**Casos de Uso Geral**</a>
 
 <center>
 <img src='./../../assets/images/Casos de Uso/Diagrama de caso de uso - UC Geral.png'pngwidth="1000"> Figura 1 - Diagrama Do UC Geral</img>
 </center>
 
-### **UC01 - Fazer Login**
+### <a>**UC01 - Fazer Login**</a>
 <center>
 <img src='./../../assets/images/Casos de Uso/Diagrama de caso de uso - UC 01.png'pngwidth="1000">Figura 2 - Diagrama Do UC 01</img>
 
@@ -43,7 +43,7 @@ Legenda:
 
 </center>
 
-### **UC02 - Cadastro**
+### <a>**UC02 - Cadastro**</a>
 <center>
 <img src='./../../assets/images/Casos de Uso/Diagrama de caso de uso - UC 02.png'pngwidth="1000">Figura 3 - Diagrama Do UC 02</img>
 
@@ -65,7 +65,7 @@ Legenda:
 
 </center>
 
-### **UC03 - Acesso a Suporte**
+### <a>**UC03 - Acesso a Suporte**</a>
 <center>
 <img src='./../../assets/images/Casos de Uso/Diagrama de caso de uso - UC 03.png'pngwidth="1000">Figura 4 - Diagrama Do UC 03</img>
 
@@ -86,7 +86,7 @@ Legenda:
 
 </center>
 
-### **UC04 - Lembrete**
+### <a>**UC04 - Lembrete**</a>
 <center>
 <img src='./../../assets/images/Casos de Uso/Diagrama de caso de uso - UC 04.png'pngwidth="1000">Figura 5 - Diagrama Do UC 04</img>
 
@@ -108,7 +108,7 @@ Legenda:
 
 </center>
 
-### **UC05 - Plataforma Unica**
+### <a>**UC05 - Plataforma Unica**</a>
 <center>
 <img src='./../../assets/images/Casos de Uso/Diagrama de caso de uso - UC 05.png'pngwidth="1000">Figura 6 - Diagrama Do UC 05</img>
 
@@ -130,6 +130,6 @@ Legenda:
 
 </center>
 
-## Referências Bibliográficas
+## <a>Referências Bibliográficas</a>
 - Duolingo Github Requisitos de Software, disponivel em: https://github.com/Requisitos-de-Software/2019.2-Duolingo Acesso em: 10 de dezembro de 2022
 

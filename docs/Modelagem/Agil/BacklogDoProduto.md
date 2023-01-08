@@ -1,26 +1,26 @@
 # Backlog do Produto
 
-## Histórico de Versão
+## <a>Histórico de Versão</a>
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
 |31/12/2022|02/01/2023|1.0|Criação do documento| [Arthur Taylor](https://github.com/Eruel6) | [Eduardo](https://github.com/edudsan) |
 
 
-## Introdução
+## <a>Introdução</a>
 O backlog do produto pode ser definido como uma lista de afazeres para o projeto, podendo ser modificado no decorrer do projeto. A elaboração e modificação do backlog vem de reuniões realizadas com o time de desenvolvimento e o PO (Product Owner)
 
-## Metodologia
+## <a>Metodologia</a>
 Para a definição do backlog do produto foram utilizados os métodos de introspecção e análise do aplicativo. Eles foram utilizados para definir os épicos, histórias de usuário e, a partir disso, confeccionar o backlog.
 
-### Divisão do Backlog
+### <a>Divisão do Backlog</a>
 O backlog foi dividido da seguinte forma:
 - Tema: O própio MEI, o tema do backlog define o escopo geral do projeto
 - Épico: Uma atividade muito grande, geral
 - Feature: As funcionalidades do projeto
 - História de Usuário: Divisão das features para facilitar o desenvolvimento delas. 
 
-## Features
-###  Épico 1 - Cadastro e autenticação 
+## <a>Features</a>
+### <a> Épico 1 - Cadastro e autenticação </a>
 
 <center>
 
@@ -34,7 +34,7 @@ O backlog foi dividido da seguinte forma:
 
 </center>
 
-### Épico 2 - Configurações
+### <a>Épico 2 - Configurações</a>
 
 <center>
 
@@ -47,7 +47,7 @@ O backlog foi dividido da seguinte forma:
 
 </center>
 
-### Épico 3 - Suporte
+### <a>Épico 3 - Suporte</a>
 
 <center>
 
@@ -59,7 +59,7 @@ O backlog foi dividido da seguinte forma:
 
 </center>
 
-### Épico 4 - Financeiro 
+### <a>Épico 4 - Financeiro </a>
 
 <center>
 
@@ -72,7 +72,7 @@ O backlog foi dividido da seguinte forma:
 
 </center>
 
-## Bibliografia
+## <a>Bibliografia</a>
 
 [1] SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 15. 46 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
 

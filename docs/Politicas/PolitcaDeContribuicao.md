@@ -1,11 +1,11 @@
 # Politica de Contribuição
 
-## Histórico de Versão
+## <a>Histórico de Versão</a>
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
 |11/11/2022|11/11/2022|1.0|Criação do Documento de Políticas| [Joao Lucas](https://github.com/HacKairos)|[Ana Luiza](https://github.com/AnHoff)
 
-## O que fazer antes de Contribuir?
+## <a>O que fazer antes de Contribuir?</a>
 
 * Acesse os repositórios do projeto no GitHub:
     * [Repositório Grupo 3](https://github.com/Requisitos-de-Software/2022.2-MEI).
@@ -13,12 +13,12 @@
  e propósitos.
 
 
-## Como Contribuir?
+## <a>Como Contribuir?</a>
 
 * Leia o [Código de Conduta](https://Requisitos-de-Software.github.io/2022.2-MEI/Politicas/CONTRIBUTING/) do projeto.
 * Veja as [Políticas](https://Requisitos-de-Software.github.io/2022.2-MEI/Politicas/BRANCH/) do projeto.
 
-### Reportando um Bug
+### <a>Reportando um Bug</a>
 
 * Verifique se não há nenhuma [_Issue_](https://github.com/Requisitos-de-Software/2022.2-MEI/issues) relacionada a essa modificação.
 
@@ -28,7 +28,7 @@
 
 * Seu Pull Request será revisado e agregará muito à aplicação!
 
-### Adicionando e/ou alterando alguma Funcionalidade
+### <a>Adicionando e/ou alterando alguma Funcionalidade</a>
 
 * Verifique se não há nenhuma [_Issue_](https://github.com/Requisitos-de-Software/2022.2-MEI/issues) relacionada a essa modificação.
 
@@ -38,4 +38,4 @@
 
 * Seu Pull Request será revisado e agregará muito à aplicação!
 
-### Obrigado pela Contribuição! 😊
+### <a>Obrigado pela Contribuição! 😊</a>

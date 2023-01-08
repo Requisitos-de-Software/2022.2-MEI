@@ -1,24 +1,24 @@
-## Histórico de Versão
+## <a>Histórico de Versão</a>
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
 |10/12/2022|11/12/2022|1.0|Criação do documento| [Arthur](https://github.com/Eruel6) e [Eduardo](https://github.com/edudsan) | [João Lucas](https://github.com/HacKairos) |
 |04/01/2023|04/01/2023|1.1|Melhoria no documento| [Eduardo](https://github.com/edudsan) | [Ana Luiza](https://github.com/AnHoff) |
 
-## Introdução 
+## <a>Introdução </a>
 
 A especificação suplementar em requisitos de software é um documento que fornece informações adicionais sobre os requisitos de um determinado sistema ou aplicativo de software. Esse documento pode incluir detalhes adicionais sobre como o sistema deve ser projetado e implementado, bem como quaisquer requisitos específicos que devem ser atendidos. É usado também para complementar a especificação de requisitos principal, que fornece uma visão geral dos requisitos do sistema.
 
-## Metodologia FURPS+
+## <a>Metodologia FURPS+</a>
 
 Os requisitos não funcionais de um Microempreendedor Individual (MEI) são aqueles que especificam as características do sistema que não se relacionam diretamente com sua funcionalidade principal. Para compreender melhor tais requisitos, foi utlizada a metodologia FURPS+. 
 
 A metodologia FURPS+ é utilizada para avaliar os requisitos de software e identificar quais devem ser incluídos em um projeto de desenvolvimento. A sigla FURPS+ representa cinco categorias de requisitos, sendo eles: Funcionalidade, Usabilidade, Confiabilidade, Performance e Suportabilidade.
 
-## Funcionalidade
+## <a>Funcionalidade</a>
 
-Funcionalidade representa os requisitos não funcionais do software e possui várias categorias que, por sua vez, possuem subcategorias que podem variar conforme necessário. Sua medição é realizada conforme o cumprimento dos requisitos especificados são alcançados. Os requisitos funcionais identificados podem ser conferidos [aqui](../Requisitos/tecnicas-priorizacao.md).
+Funcionalidade representa os requisitos não funcionais do software e possui várias categorias que, por sua vez, possuem subcategorias que podem variar conforme necessário. Sua medição é realizada conforme o cumprimento dos requisitos especificados são alcançados. Os requisitos funcionais identificados podem ser conferidos [aqui](../Elicitacao/tecnicas-priorizacao.md).
 
-## Usabilidade
+## <a>Usabilidade</a>
 
 A usabilidade diz respeito à capacidade do usuário em usar e entender o sistema. Um sistema com boa usabilidade é fácil de ser usado e entendido, para que o MEI possa realizar suas atividades com eficiência e sem se deparar com problemas. Os requisitos identificados podem ser observados na tabela 2 abaixo.
 
@@ -37,7 +37,7 @@ A usabilidade diz respeito à capacidade do usuário em usar e entender o sistem
  
 </center>
 
-## Confiabilidade
+## <a>Confiabilidade</a>
 
 O sistema deve garantir a segurança dos dados do MEI e de seus clientes, para evitar fraudes e roubo de informações pessoais. Os requisitos identificados podem ser observados na tabela 3.
 
@@ -53,7 +53,7 @@ O sistema deve garantir a segurança dos dados do MEI e de seus clientes, para e
 
 </center>
  
-## Performance
+## <a>Performance</a>
 
 O sistema deve ser capaz de lidar com grandes volumes de dados e transações sem sobrecarregar ou travar, garantindo a velocidade e a eficiência do processamento das informações. Os requisitos identificados podem ser observados na tabela 4.
 
@@ -69,7 +69,7 @@ O sistema deve ser capaz de lidar com grandes volumes de dados e transações se
 
 </center>
   
-## Suportabilidade
+## <a>Suportabilidade</a>
 
 O sistema deve ser capaz de se adaptar e crescer de acordo com as necessidades do MEI, permitindo a expansão de suas atividades e a adição de novos recursos e funcionalidades. Os requisitos identificados podem ser observados na tabela 5.
 
@@ -84,7 +84,7 @@ O sistema deve ser capaz de se adaptar e crescer de acordo com as necessidades d
 
 </center>
  
-## Resultados
+## <a>Resultados</a>
 
 Esses são apenas alguns exemplos de requisitos não funcionais que podem ser aplicados a um MEI. É importante lembrar que cada negócio tem suas próprias necessidades e 
 requisitos específicos, e que os requisitos não funcionais devem ser definidos de acordo com as necessidades e objetivos do negócio em questão. Conforme os dados coletados na etapa de elicitação de requisitos, os resultados foram baseados nos requisitos não funcionais, onde chegamos nos seguintes resultados 
@@ -94,7 +94,7 @@ que podem ser observados na tabela 6 com a legenda na tabela 7.
 
 |Sigla|Categoria|Requisitos| 
 | :----------: | :------: | :------: | 
-|F| Funcionalidade | [Requisitos](../Requisitos/tecnicas-priorizacao.md) | 
+|F| Funcionalidade | [Requisitos](../Elicitacao/tecnicas-priorizacao.md) | 
 |U| Usabilidade | IS 08, ENT 4, BS11, BS12   | 
 |R|Confiabilidade |  ENT 3| 
 |P|Desempenho| ENT 2 | 
@@ -114,6 +114,6 @@ que podem ser observados na tabela 6 com a legenda na tabela 7.
 
 </center>
  
-## Bibliografia
+## <a>Bibliografia</a>
 
 - SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 13.

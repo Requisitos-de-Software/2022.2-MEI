@@ -1,11 +1,11 @@
 # Politica de Branch
 
-## Histórico de Versão
+## <a>Histórico de Versão</a>
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
 |11/11/2022|11/11/2022|1.0|Criação do Documento de Políticas| [Joao Lucas](https://github.com/HacKairos)|[Pedro Lucas](https://github.com/PedroLSF)
 
-## Criação de _Branches_
+## <a>Criação de _Branches_</a>
 Ilustração do funcionamentos das branches na Figura 1 :
 
 <img src='./../../assets/images/BranchPolicy.png'>Figura 1 - Politica de Branch </img>
@@ -16,7 +16,7 @@ Ilustração do funcionamentos das branches na Figura 1 :
 
 * Deve-se ser criada uma nova branch para cada nova <i>feature, correção ou falha</i> a partir da branch <i>main</i>. 
 
-## Para a criação de _branches_ siga os passos e exemplos a seguir:
+## <a>Para a criação de _branches_ siga os passos e exemplos a seguir:</a>
 
 
 * O nome da _branch_ (NomeDaBranch) deverá ser uma abstração do nome da história de usuário (_US_), técnica (_TS_) ou correção (_HF_) a qual se refere.
@@ -36,7 +36,7 @@ NumeroDaIssueNomeDaBranch
 NumeroDaIssueNomeDaBranch
 ```
 
-### Exemplo prático
+### <a>Exemplo prático</a>
 * Sem _tag_
 ```
 OurPolicies

@@ -31,10 +31,11 @@ theme:
     - header.autohide
     - navigation.tabs
     - navigation.top
-
+    - navigation.indexes
 
 nav:
   - Planejamento:
+    - Home: index.md
     - Aplicativos Analisados: Planejamento/AplicativosAnalisados.md
     - Aplicativo Escolhido: Planejamento/MEI.md
     - Metodologias e Processos: Planejamento/Metodologia.md
@@ -49,33 +50,43 @@ nav:
       - Política de Commit: Politicas/PolitcaDeCommit.md
       - Política de Pull Request: Politicas/PolitcaDePR.md
       - Política de Segurança: Politicas/PolitcaDeSeguranca.md
-    - Cronograma de Elicitação/Priorização: Requisitos/Cronogramas.md
-    - Termo de consentimento: Requisitos/ModeloTermoConsentimento.md
+    - Cronograma de Elicitação/Priorização: Elicitacao/Cronogramas.md
+    - Termo de consentimento: Elicitacao/ModeloTermoConsentimento.md
   - Apresentações/Reuniões:
+    - Introdução: Reunioes/index.md
     - Apresentações:
-      - 1º Ponto de Controle: Apresentacoes/PrimeiraEntrega.md
-      - 2º Ponto de Controle: Apresentacoes/SegundaEntrega.md
-      - 3º Ponto de Controle: Apresentacoes/TerceiraEntrega.md
+      - 1º Ponto de Controle: Reunioes/Apresentacoes/PrimeiraEntrega.md
+      - 2º Ponto de Controle: Reunioes/Apresentacoes/SegundaEntrega.md
+      - 3º Ponto de Controle: Reunioes/Apresentacoes/TerceiraEntrega.md
     - Reuniões:
-      - 1ª Reunião: Atas/Reuniao1.md
-      - 2ª Reunião: Atas/Reuniao2.md
-      - 3ª Reunião: Atas/Reuniao3.md
-      - 4ª Reunião: Atas/Reuniao4.md
-      - 5ª Reunião: Atas/Reuniao5.md
-      - 6ª Reunião: Atas/Reuniao6.md
+      - 1ª Reunião: Reunioes/Atas/Reuniao1.md
+      - 2ª Reunião: Reunioes/Atas/Reuniao2.md
+      - 3ª Reunião: Reunioes/Atas/Reuniao3.md
+      - 4ª Reunião: Reunioes/Atas/Reuniao4.md
+      - 5ª Reunião: Reunioes/Atas/Reuniao5.md
+      - 6ª Reunião: Reunioes/Atas/Reuniao6.md
   - Elicitação: 
-    - Técnicas de Elicitação: Requisitos/Elicitacao/tecnicas-elicitacao.md
-    - Brainstorming: Requisitos/Elicitacao/Brainstorming.md
-    - Entrevista: Requisitos/Elicitacao/Entrevista.md
-    - Introspecção: Requisitos/Elicitacao/Introspeccao.md
-    - Perfil de Usuário: Requisitos/perfil.md
-    - Persona: Requisitos/personas.md
-    - Priorização: Requisitos/tecnicas-priorizacao.md
+    - Técnicas de Elicitação: Elicitacao/index.md
+    - Brainstorming: Elicitacao/Brainstorming.md
+    - Entrevista: Elicitacao/Entrevista.md
+    - Introspecção: Elicitacao/Introspeccao.md
+    - Perfil de Usuário: Elicitacao/perfil.md
+    - Persona: Elicitacao/personas.md
+    - Priorização: Elicitacao/tecnicas-priorizacao.md
   - Modelagem:
     - Cenários: Modelagem/Cenarios.md
     - Léxicos: Modelagem/Lexicos.md
     - Casos de Uso: Modelagem/CasosdeUso.md
     - Especificação Suplementar: Modelagem/EspecificacaoSuplementar.md
     - NFR Framework: Modelagem/NFRFramework.md
-    - Histórias de Usuário: Modelagem/UserCases.md
-    - Backlog: Modelagem/Agil/BacklogDoProduto.md
+    - Modelo Ágil:
+      - Histórias de Usuário: Modelagem/UserCases.md
+      - Backlog: Modelagem/Agil/BacklogDoProduto.md
+  - Análise:
+    - Introdução: Analise/index.md
+    - Verificação:
+      - Introdução: Analise/Verificacao/index.md
+      - NFR: Analise/Verificacao/VerificacaoNFR.md
+      - Cenarios: Analise/Verificacao/VerificacaoCenarios.md
+    - Validação: 
+      - Introdução: Analise/Validacao/index.md

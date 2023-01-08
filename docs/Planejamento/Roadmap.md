@@ -1,6 +1,6 @@
 # Cronograma Geral do Projeto
 
-## Histórico de Versão
+## <a>Histórico de Versão</a>
 
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisão|
 | :----------: | :------: | :------: | :-----------: | :---------: |:---------: |
@@ -9,13 +9,13 @@
 |29/11/2022|30/11/2022|1.2|Adição de Novo Cronograma|[Thiago Oliveira](https://github.com/Thiab394) |[Arthur Taylor](https://github.com/Eruel6)
 |08/12/2022|09/12/2022|2.0|Refatoração do cronograma|[Ana Luiza](https://github.com/AnHoff)|[Arthur Taylor](https://github.com/Eruel6)
 
-## Introdução
+## <a>Introdução</a>
 
 O cronograma geral do projeto foi planejado seguindo a data e os requisitos para as entregas das tarefas do projeto. As datas previstas possuem um prazo um pouco menor que o limite para possibilitar possíveis revisões e alterações nos artefatos.
 
 O cronograma planejado apresenta uma versão inicial de planejamento e pode diferir do cronograma executado ao longo do desenvolvimento do projeto. Além disso, cronogramas realizados em projetos similares foram utilizados como referência [1] [2]. Nas tabelas de 1 a 6 abaixo, é possível conferir a lista de tarefas e seus respectivos responsaveis, datas e revisores. Mais a frente, será mostrado o cronograma executado.<br><br>
 
-## Cronograma Planejado
+## <a>Cronograma Planejado</a>
 
 <center>
 
@@ -113,7 +113,7 @@ O cronograma planejado apresenta uma versão inicial de planejamento e pode dife
 
 </center>
 
-## Cronograma Realizado
+## <a>Cronograma Realizado</a>
 
 <center> 
 
@@ -188,7 +188,7 @@ O cronograma planejado apresenta uma versão inicial de planejamento e pode dife
 
 </center>
 
-## Bibliografia
+## <a>Bibliografia</a>
 
 [1] BCE Github Interção Humano Computador , disponivel em: https://github.com/Interacao-Humano-Computador/2020.1-BCE Acesso em: 20 de novembro de 2022
 [2] Duolingo Github Requisitos de Software, disponivel em: https://github.com/Requisitos-de-Software/2019.2-Duolingo Acesso em: 20 de novembro de 2022

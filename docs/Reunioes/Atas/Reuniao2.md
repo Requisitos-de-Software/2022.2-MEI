@@ -1,6 +1,6 @@
 # 2ª Reunião
 
-## Histórico de Versão
+## <a>Histórico de Versão</a>
 
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:---------:| :------: | :-----------: | :---------: |:---------: |
@@ -10,11 +10,11 @@
 |29/11/2022|30/11/2022|1.3|Correção do Historico de versão e Imagens| [Thiago Olivera](https://github.com/Thiab394)| [Arthur Taylor](https://github.com/Eruel6)|
 
 
-## Local e horário
+## <a>Local e horário</a>
 
 A reunião foi realizada de forma remota, no dia 12 de Novembro de 2022, utilizando a prataforma Microsoft Teams. Teve início às 15:00h (foi realizada em horário exepcional devido a indisponibilidade de um membro do grupo no horário previsto, com o grupo concordando em adianta-lá).
 
-## Presentes
+## <a>Presentes</a>
 
 - Ana Luiza Hoffmann
 - Arthur Taylor
@@ -23,11 +23,11 @@ A reunião foi realizada de forma remota, no dia 12 de Novembro de 2022, utiliza
 - Pedro Lucas Fernandes
 - Thiago Oliveira
 
-## Objetivo
+## <a>Objetivo</a>
 
 Definir os responsáveis pela confecção dos artefatos que não nescessitavam de um aplicativo definido, como a página de apresentação dos integrantes, cronograma e documento de ferramentas utilizadas.
 
-## Gravação
+## <a>Gravação</a>
 
 <center>
 <iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/dgPIWv2J9-8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -35,9 +35,9 @@ Definir os responsáveis pela confecção dos artefatos que não nescessitavam d
 
 
 
-## Definições
+## <a>Definições</a>
 
-### Artefatos e Responsáveis
+### <a>Artefatos e Responsáveis</a>
 
 <center>
 

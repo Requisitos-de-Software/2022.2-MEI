@@ -1,7 +1,7 @@
 
 # Técnicas de Priorização
 
-## Histórico de Versão
+## <a>Histórico de Versão</a>
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
 |27/11/2022|28/11/2022|1.0|Criação do documento| [Ana Luiza](https://github.com/AnHoff) | [João Lucas](https://github.com/HacKairos) |
@@ -9,14 +9,14 @@
 |29/11/2022|30/11/2022|1.2|Correção do Historico de versão| [Thiago Olivera](https://github.com/Thiab394)| [João Lucas](https://github.com/HacKairos)|
 |04/12/2022|04/12/2022|1.3|Adiciona tabelas| [Ana Luiza](https://github.com/AnHoff) | [Arthur Taylor](https://github.com/Eruel6) |
 
-## Introdução
+## <a>Introdução</a>
 Para gerar valor agregado ao produto desde as primeiras entregas, é necessário saber quais requisitos elicitados serão desenvolvidos no início do processo para que haja um ponto de partida otimista para os clientes e/ou usuários. Assim, surge a necessidade de realizar a priorização dos requisitos elicitados. [1]
 
 A priorização costuma ser realizada com o uso de tabelas que possuem o objetivo de categorizar os requisitos elicitados em baixa, média ou alta prioridade. Além disso, a priorização deve ser feita levando em consideração as expectativas e necessidades dos clientes, não tendo, portanto, opinião exclusiva dos desenvolvedores.
 
 Abaixo serão apresentadas algumas técnicas comuns para priorização de requisitos e seus respectivos resultados de aplicação.
 
-## MoSCoW
+## <a>MoSCoW</a>
 Essa técnica é simples e proporciona um esquema de quatro possíveis classificações de prioridade para os requisitos. São elas:
 
 * **M**ust: o(s) requisito(s) que deve(m) ser satisfeitos para uma entrega ser considerada bem sucedida;
@@ -61,7 +61,7 @@ Na tabela 1 a seguir, é possível conferir a classificação dos requisitos eli
 
 </center>
 
-## First Things First
+## <a>First Things First</a>
 A técnica First Things First é mais elaborada que a MoSCoW. Ela foca na importância de equilibrar os benefícios e os custos de cada requisito, além de propor a definição das consequências que cada um deles irá gerar na arquitetura do software, o alinhamento dos requisitos com as regras de negócios e o estabelecimento do risco técnico agregado a cada um dos requisitos. [2]
 
 Nessa técnica estão envolvidos: 
@@ -95,7 +95,7 @@ Abaixo está a tabela 2, apresentando os resultados da First Things First. Vale 
 
 </center>
 
-## Three-Level Scale
+## <a>Three-Level Scale</a>
 Essa técnica de priorização propõe agrupar os requisitos, os enquadrando em três categorias. Essas categorias definem se o requisito elicitado possui baixa, média ou alta prioridade e por isso é considerada uma técnica imprecisa. Os desenvolvedores devem, antes de aplicá-la, entrar em consenso com uma definição para cada nível de prioridade, considerando a importância e a urgência de cada requisito.
 
 Definições comuns da escala serão utilizadas para priorizar os requisitos nesse projeto. São elas:
@@ -122,12 +122,12 @@ Segue abaixo a tabela 3, que apresenta os resultados da plicação da técnica T
 
 </center>
 
-## Conclusão
+## <a>Conclusão</a>
 As técnicas apresentadas acima possuem diferentes níveis de complexidade. Portanto, é vantajoso aplicar todas as três no projeto da disciplina, visto que serão fontes de grandes aprendizados e propiciarão avaliações completas e assertivas sobre a priorização de cada requisito elicitado.
 
 Por fim, também deve ser ressaltada a ampla interação da equipe do projeto com o usuário que será incentivada pelas diversas técnicas. Seja o usuário uma pessoa real ou uma persona, a interação é uma parte crucial para a definição da importância dos requisitos e, consequentemente, para a definição de todo o andamento do projeto.
 
-## Bibliografia
+## <a>Bibliografia</a>
 [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) _Interação Humano-Computador e Experiência do usuário_. Autopublicação. ISBN: 978-65-00-19677-1.
 
 [2] Karl E. Wiegers, Joy Beatty; Software Requirements, Third Edition.

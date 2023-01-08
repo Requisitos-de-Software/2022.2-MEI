@@ -1,11 +1,11 @@
 # Termo de Consentimento
-## Histórico de Versão
+## <a>Histórico de Versão</a>
 
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:----------:| :------: | :-----------: | :---------: |:---------: |
 |08/12/2022|09/12/2022|1.0|Criação do Modelo| [Thiago Oliveira](https://github.com/Thiab394)|[Ana Luiza](https://github.com/AnHoff)
 
-## TERMO DE CONSENTIMENTO LIVRE E ESCLARECIDO
+## <a>TERMO DE CONSENTIMENTO LIVRE E ESCLARECIDO</a>
 
 **Título da Pesquisa**: Busca sobre o perfil de usuário e requisitos do MEI
 
@@ -25,7 +25,7 @@ Após estes esclarecimentos, solicitamos o seu consentimento de forma livre para
 
 **Obs:** Não assine esse termo se ainda tiver dúvidas a respeito da sua participação.
 
-### Consentimento Livre e Esclarecido
+### <a>Consentimento Livre e Esclarecido</a>
 Tendo em vista os itens acima apresentados, eu, de forma livre e esclarecida, manifesto meu consentimento em participar da pesquisa. Declaro que recebi cópia deste termo de consentimento, e autorizo a realização da pesquisa e a divulgação dos dados obtidos neste estudo.
 
 

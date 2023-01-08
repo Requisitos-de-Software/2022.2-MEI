@@ -1,6 +1,6 @@
 # Ferramentas Utilizadas
 
-## Histórico de Versão
+## <a>Histórico de Versão</a>
 
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: | :----------: | :------: | :-----------: | :---------: |:---------: |
@@ -9,7 +9,7 @@
 |20/11/2022|21/11/2022|1.2|Ajuste das logos das ferramentas| [Thiago Oliveira](https://github.com/Thiab394)|[Joao Lucas](https://github.com/HacKairos) e [Ana Luiza](https://github.com/AnHoff)
 
 
-## Ferramentas
+## <a>Ferramentas</a>
 
 Neste documento estão apresentados as ferramentas que estão sendo, serão ou já foram utiliziadas no auxilio da criação e edição do presente trabalho seja para a existência ou apresentação das tarefas realizadas pela equipe.
 

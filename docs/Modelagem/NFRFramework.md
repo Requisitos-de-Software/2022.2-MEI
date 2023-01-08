@@ -1,12 +1,12 @@
 # NFR Framework
 
-## Histórico de Versão
+## <a>Histórico de Versão</a>
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
 |27/12/2022|27/12/2022|1.0|Criação do documento| [Ana Luiza](https://github.com/AnHoff) | [João Lucas](https://github.com/HacKairos) |
 |28/12/2022|28/12/2022|1.1|Criação e adição dos SIG| [João Lucas](https://github.com/HacKairos) | [Ana Luiza](https://github.com/AnHoff) |
 
-## Introdução
+## <a>Introdução</a>
 
 O NFR Framework utiliza requisitos não funcionais (*Non Functional Requirements*) para conduzir o processo geral de design, colocando esses requisitos em primeiro lugar na mente do desenvolvedor. Esse framework tem o objetivo de possibilitar que o desenvolvedor recorra ao conhecimento disponível relevante para a(s) etapa(s) na qual(is) ele esteja envolvido. 
 
@@ -32,7 +32,7 @@ Cada um dos softgoals apresentados podem ser decompostos, seguindo os tipos de d
 
 * **Priorização:** refina um softgoal em outro, com o mesmo tipo e tópicos, junto a uma prioridade associada. [2]
 
-## Contribuições
+## <a>Contribuições</a>
 
 As alterações no estado de um softgoal filho geram alterações no softgoal pai. Esse aspecto é chamado de contribuição, e seus tipos estão apresentados na tabela 1 abaixo.
 
@@ -55,7 +55,7 @@ As alterações no estado de um softgoal filho geram alterações no softgoal pa
 
 </center>
 
-## Legenda
+## <a>Legenda</a>
 
 Para entender as figuras apresentadas mais abaixo nesse documento, faz-se necessário o uso da legenda apresentada na tabela 2 a seguir, com as imagens da dissertação de Reinaldo Antônio da Silva [3].
 
@@ -74,75 +74,75 @@ Para entender as figuras apresentadas mais abaixo nesse documento, faz-se necess
 
 </center>
 
-## NFRs
+## <a>NFRs</a>
 
 As figuras a seguir apresentam os SIG elaborados sobre Usabilidade, Confiabilidade, Desempenho e Suportabilidade.
 
-### Usabilidade
+### <a>Usabilidade</a>
 
 <center>
 
-#### Sem Propagação
+#### <a>Sem Propagação</a>
 <img src="./../../assets/NFR/NFR-Usabilidade.png">
 
 *Figura 1 - SIG Usabilidade* <br><br>
 
-#### Propagação de erros
+#### <a>Propagação de erros</a>
 <img src="./../../assets/NFR/NFR-Usabilidade-Propagado.png">
 
 *Figura 2 - SIG Usabilidade Com Propagação de erros* <br><br>
 
 </center>
 
-### Confiabilidade
+### <a>Confiabilidade</a>
 
 <center>
 
-#### Sem Propagação
+#### <a>Sem Propagação</a>
 <img src="./../../assets/NFR/NFR-Confiabilidade.png">
 
 *Figura 3 - SIG Confiabilidade* <br><br>
 
-#### Propagação de erros
+#### <a>Propagação de erros</a>
 <img src="./../../assets/NFR/NFR-Confiabilidade-Propagado.png">
 
 *Figura 4 - SIG Confiabilidade Com Propagação de erros* <br><br>
 
 </center>
 
-### Desempenho
+### <a>Desempenho</a>
 
 <center>
 
-#### Sem Propagação
+#### <a>Sem Propagação</a>
 <img src="./../../assets/NFR/NFR-Desempenho.png">
 
 *Figura 5 - SIG Desempenho* <br><br>
 
-#### Propagação de erros
+#### <a>Propagação de erros</a>
 <img src="./../../assets/NFR/NFR-Desempenho-Propagado.png">
 
 *Figura 6 - SIG Desempenho Com Propagação de erros* <br><br>
 
 </center>
 
-### Suportabilidade
+### <a>Suportabilidade</a>
 
 <center>
 
-#### Sem Propagação
+#### <a>Sem Propagação</a>
 <img src="./../../assets/NFR/NFR-Suportabilidade.png">
 
 *Figura 7 - SIG Suportabilidade* <br><br>
 
-#### Propagação de erros
+#### <a>Propagação de erros</a>
 <img src="./../../assets/NFR/NFR-Suportabilidade-Propagado.png">
 
 *Figura 8 - SIG Suportabilidade Com Propagação de erros* <br><br>
 
 </center>
 
-## Bibliografia
+## <a>Bibliografia</a>
 [1] Chung, Lawrence; A. Nixon, Brian; Mylopoulos, John. Non-Functional Requirements in Software Engineering. Acesso em 26 de Dezembro de 2022
 
 [2] 2020.1-GuardioesdaSaude. Disponível em: https://requisitos-de-software.github.io/2020.1-GuardioesdaSaude/modelagem/NFR/. Acesso em: 27 de Dezembro de 2022

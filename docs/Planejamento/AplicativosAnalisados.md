@@ -1,6 +1,6 @@
 # Aplicativos Analisados
 
-## Histórico de Versão
+## <a>Histórico de Versão</a>
 
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:----------:| :------: | :-----------: | :---------: |:---------: |
@@ -14,7 +14,7 @@
 Antes de definir o aplicativo conhecido como MEI, a equipe realizou algumas pesquisas e trabalhos relacionados a outros aplicativos. Este documento irá listar e apresentar todos os aplicativos que foram levantados. <br>
 Caso queira ir diretamente às informações específicas do MEI, clique [aqui](MEI.md).
 
-## ID Jovem
+## <a>ID Jovem</a>
 
 O ID Jovem é o documento que possibilita acesso a benefícios como meia-entrada em eventos artístico-culturais e esportivos e também a vagas gratuitas ou com desconto no sistema de transporte coletivo interestadual. O programa é destinado aos jovens de baixa renda que fazem parte do Cadastro Único. [1]
 <br> 
@@ -22,7 +22,7 @@ O Aplicativo demonstra características simples, como por exemplo, validar e emi
 
 **Rich Picture:** [PDF](../assets/richPictures/RichPictureIDJovem.pdf)
  
-## MEI
+## <a>MEI</a>
 
 O aplicativo MEI oferece uma maneira fácil e segura para que o microempreendedor individual possa emitir o DAS para realizar o pagamento mensal das obrigações tributárias.
 <br>
@@ -46,31 +46,31 @@ O Rich Picture do aplicativo pode ser conferido abaixo, na figura 1, ou em PDF.
 **Rich Picture v.1:** [PDF v.1](../assets/richPictures/RichPictureMEI.pdf)
 
 
-## Portal da Cidadania do Governo da Paraíba
+## <a>Portal da Cidadania do Governo da Paraíba</a>
 
 O Potal da Cidadania do Governo da Paraíba é uma plataforma digital que visa facilitar a vida do cidadão que precisa dos serviços e informações da administração pública do Estado da Paraíba. O Portal da Cidadania é fruto de uma parceria entre a CODATA (Companhia de Processamento de Dados do Estado) e de vários órgãos e instituições públicas. [3]
 
 **Rich Picture:** [PDF](../assets/richPictures/RichPicturePortaldaCidadania.pdf)
 
-## Auxílio Brasil GovBR
+## <a>Auxílio Brasil GovBR</a>
 
 O aplicativo Auxílio Brasil GovBR, desenvolvido pela CAIXA, permite que o usuário se cadastre e acesse os benefícios aos quais possui acesso. Entre suas funções, estão consultar datas de pagamentos, verificar a situação das parcelas e conferir o extrato detalhado, além de maneiras de entrar em contato com o suporte ao usuário. [4]
 
 **Rich Picture:** [PDF](../assets/richPictures/RichPictureAuxilioBrasil.pdf)
 
-## Meu INSS
+## <a>Meu INSS</a>
 
 O Meu INSS permite que o usuário peça um benefício e/ou serviço, acompanhe o andamento de pedidos, solicite sua aposentadoria, tire extratos de diveros pagamentos, agende perícia médica e muito mais. O aplicativo foi desenvolvido pelo Governo Federal e sua criação foi motivada para ajudar os trabalhadores a se informar e utilizar os serviços disponíveis relacionados ao INSS. [5]
 
 **Rich Picture:** [PDF](../assets/richPictures/RichPictureMeuINSS.pdf)
 
-## Pardal
+## <a>Pardal</a>
 
 O aplicativo Pardal permite realizar denúncias no âmbito da Justiça Eleitoral. Seu uso permite e incentiva o envio de evidências capazes de ajudar a Justiça Eleitoral e o Ministério Público a combater crimes eleitorais. [6]
 
 **Rich Picture:** [PDF](../assets/richPictures/RichPicturePardal.pdf)
 
-## Bibliografia
+## <a>Bibliografia</a>
 [1] ID Jovem, acesso em: https://www.gov.br/mdh/pt-br/idjovem.<br>
 [2] MEI, Ministério da Economia, acesso em: https://www.gov.br/pt-br/apps/mei.<br>
 [3] Portal da Cidadania do Governo da Paraíba, acesso em: https://portaldacidadania.pb.gov.br/.<br>

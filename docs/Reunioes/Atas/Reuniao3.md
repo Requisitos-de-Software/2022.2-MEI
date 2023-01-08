@@ -1,6 +1,6 @@
 # 3ª Reunião
 
-## Histórico de Versão
+## <a>Histórico de Versão</a>
 
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
@@ -10,11 +10,11 @@
 |29/11/2022|30/11/2022|1.3|Correção do Historico de versão e Imagens| [Thiago Olivera](https://github.com/Thiab394)| [Arthur Taylor](https://github.com/Eruel6)|
 
 
-## Local e horário
+## <a>Local e horário</a>
 
 A reunião foi realizada de forma remota no dia 19 de Novembro de 2022, às 16:45h, utilizando a prataforma Microsoft Teams.
 
-## Presentes
+## <a>Presentes</a>
 
 - Ana Luiza Hoffmann
 - Arthur Taylor
@@ -22,23 +22,23 @@ A reunião foi realizada de forma remota no dia 19 de Novembro de 2022, às 16:4
 - Pedro Lucas Fernandes
 - Thiago Oliveira
 
-## Objetivo
+## <a>Objetivo</a>
 
 Definir o site a ser utilizado como objeto de trabalho da disciplina, confecção da aba de aplicativos analisados no github pages, término da aba de planejamento e a confecção da landpage do github pages.
 
-## Gravação
+## <a>Gravação</a>
 
 <center>
 <iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/XOIeLpFNc-w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
-## Definições
+## <a>Definições</a>
 
-### Site selecionado
+### <a>Site selecionado</a>
 
 O grupo discutiu sobre os sites que foram analisados pelos intergrantes, chegando à decisão de utilizar o site "Simples Nacional" para desenvolver o projeto.
 
-### Reponsáveis 
+### <a>Reponsáveis </a>
 <center>
 A seguir os artefatos e seus respectivos responsáveis, na tabela 1:
 

@@ -1,29 +1,29 @@
 # Entrevista
 
-## Histórico de Versão
+## <a>Histórico de Versão</a>
 
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:----------:| :------: | :-----------: | :---------: |:---------: |
 |03/12/2022|04/12/2022|1.0|Criação do documento| [Pedro Lucas](https://github.com/PedroLSF) | [João Lucas](https://github.com/HacKairos)|
 
-## Introdução
+## <a>Introdução</a>
 
 Depois de definir alguns tipos de perfis de usuários e personas, foi necessário conversar com algum dos possíveis usuários do aplicativo para entender as necessidades para que o usuário continue usando o MEI.
 
 Será utilizado o modelo de **Entrevista Fechada**, ou seja, definimos perguntas que serão interessantes para o levantamentos de requisitos e irei apresentar para o entrevistado.
 
-## Dados
+## <a>Dados</a>
 
 * Entrevistador: Pedro Lucas S. Fernandes
 * Data: 03/12/2022
 * Horário: 13:00
 * Duração 7:57 minutos
 
-### Entrevistado
+### <a>Entrevistado</a>
 
 Nome: Renan Almeida de Souza.<br>Idade: 26 anos.<br>Sexo: Masculino.<br>Escolaridade: Ensino Superior Completo.<br>Classe Social: Media.
 
-## Perguntas e Respostas
+## <a>Perguntas e Respostas</a>
 
 * **Qual o seu trabalho?**
 
@@ -75,7 +75,7 @@ Resposta: Está sempre na mão e usa frequentemente os aplicativos do governo, p
 
 Resposta: Sem dificuldades.
 
-## Requisitos Elicitados
+## <a>Requisitos Elicitados</a>
 A elicitação de requisitos levou em consideração também o nível de benefício e penalidade que cada um traria ao sistema caso seja implementado ou não. Confira a tabela 1 abaixo.
 
 <center>
@@ -92,7 +92,7 @@ A elicitação de requisitos levou em consideração também o nível de benefí
 
 </center>
 
-## Audio da entrevista
+## <a>Audio da entrevista</a>
 <audio controls>
   <source src="../../../assets/outros/AudioEntrevistaRenan.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
