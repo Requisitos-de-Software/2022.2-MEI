@@ -2,7 +2,7 @@
 
 # <a>MEI - Microempreendedor Individual</a>
 
-<img src="assets/images/favicon.png" alt="MedSus" width="10%" />
+<img src="assets/images/favicon.png" alt="MEI" width="10%" />
 
 
 ## <a>Sobre o projeto</a>

@@ -116,4 +116,4 @@ que podem ser observados na tabela 6 com a legenda na tabela 7.
  
 ## <a>Bibliografia</a>
 
-- SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 13.
+SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 13.
