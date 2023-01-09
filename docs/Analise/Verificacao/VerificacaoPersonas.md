@@ -2,7 +2,7 @@
 ## **Histórico de Versões**
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
-|07/01/2023|08/01/2023|1.0|Criação do documento| [Thiago Oliveira](https://github.com/Thiab394) | [-](https://github.com/) |
+|08/01/2023|09/01/2023|1.0|Criação do documento| [Thiago Oliveira](https://github.com/Thiab394) | [-](https://github.com/) |
 
 ## **1. Introdução**
 Este documento tem como objetivo realizar a verificação do documento e da elaboração das [Personas](https://requisitos-de-software.github.io/2022.2-LinkedIn/elicitacao/personas/) 
@@ -65,5 +65,5 @@ Checklist de inspeção do documento de [Personas](https://requisitos-de-softwar
 Pode se notar por meio da checklist realizada, que o grupo 4(LinkeDin) tem 7 de 9 das exigências, relacionadas á elaboração das personas, completas, e as 2 restantes
 estão incompletas, tendo assim nenhum dos critérios totalmente incompletos ou errados, gerando um aproveitamento de aproximadamente 89% neste artefato, de acordo com o calculo de aproveitamento.
 ## **5. Bibliografia**
-Projeto Noruh do github de requisitos de software - Verificação das personas - disponivel [Aqui](https://requisitos-de-software.github.io/2022.1-Noruh/analise/verificacao/personas/), Acessado em: 09 de janeiro de 2023.<br><br> 
-Slides da aula “Requisitos – Aula 23” dos professores Milene Serrano e Maurício Serrano, Acessado em: 09 de janeiro de 2023
+Projeto Noruh do github de requisitos de software - Verificação das personas - disponivel [Aqui](https://requisitos-de-software.github.io/2022.1-Noruh/analise/verificacao/personas/), Acessado em: 08 de janeiro de 2023.<br><br> 
+Slides da aula “Requisitos – Aula 23” dos professores Milene Serrano e Maurício Serrano, Acessado em: 08 de janeiro de 2023
