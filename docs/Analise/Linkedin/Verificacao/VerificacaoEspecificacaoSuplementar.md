@@ -2,7 +2,7 @@
 ## <a>Histórico de Versões</a>
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
-|09/01/2023|09/01/2023|1.0|Criação do documento| [Eduardo](https://github.com/edudsan) | [-](https://github.com/) |
+|09/01/2023|09/01/2023|1.0|Criação do documento| [Eduardo](https://github.com/edudsan) | [Thiago Oliveira](https://github.com/Thiab394) |
 
 ## <a>Introdução</a>
 Este documento tem como objetivo realizar a verificação do documento e da elaboração da [Especificação Suplementar](https://requisitos-de-software.github.io/2022.2-LinkedIn/modelagem/especificacao-suplementar/) do grupo número 4 do semestre 2022.2 de Requisitos de Software, referente ao aplicativo do LinkeDin, para esta verificação será utilizada a técnica de inspeção.
@@ -62,7 +62,8 @@ Tabela 2 - Checklist da inspeção da Especificação Suplementar
 
 ## <a>Resultados</a>
 <a>**Calculo Aproveitamento**</a>: ((100/QntExigencias) * Acertos) + (((100/QntExigencias) * Incompletos)/2) = % de Aproveitamento<br></br>
-Através do checklist realizado para a análise da Especificação Suplementar do grupo 4 (LinkeDin) podemos observar que 8 das 12 exigências são atendidas, com isso podemos determinar o aproveitamento deste artefato em 66,6% de acordo com o cálculo apresentado acima.
+Através do checklist realizado para a análise da Especificação Suplementar do grupo 4 (LinkeDin) podemos observar que 8 das 12 exigências são atendidas,1 das 12
+exigências estão incompletas, fazendo com que 3 das 12 estejam completamente erradas ou ausentes,com isso podemos determinar o aproveitamento deste artefato em 70,83% de acordo com o cálculo apresentado acima.
 
 ## <a>Bibliografia</a>
 Projeto Noruh do github de requisitos de software - Planejamento da Verificação - disponível [Aqui](https://requisitos-de-software.github.io/2022.1-Noruh/analise/verificacao/planejamento/), Acessado em: 09 de janeiro de 2023.<br><br> 
