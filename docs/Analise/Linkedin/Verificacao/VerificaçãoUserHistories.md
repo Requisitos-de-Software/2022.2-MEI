@@ -1,14 +1,15 @@
-# **Verificação Histórias de Usuário**
-## **Histórico de Versões**
+# Verificação Histórias de Usuário
+## <a>Histórico de Versões</a>
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
-|08/01/2023|09/01/2023|1.0|Criação do documento| [Thiago Oliveira](https://github.com/Thiab394) | [-](https://github.com/) |
+|08/01/2023|09/01/2023|1.0|Criação do documento| [Thiago Oliveira](https://github.com/Thiab394) | [João Lucas](https://github.com/HacKairos) |
 
-## **1. Introdução**
+## <a>Introdução</a>
 Este documento tem como objetivo realizar a verificação do documento e da elaboração das [Historias de Usuario](https://requisitos-de-software.github.io/2022.2-LinkedIn/modelagem/historias-de-usuario/) 
 do grupo numero 4 do semestre 2022.2 de Requisitos de Software,grupo esse referente ao aplicativo do LinkeDin, para realizar tal verificação optamos por utilizar
 a técnica de "Inspeção".
-## **2. Preparação**
+
+## <a>Metodologia</a>
 Para a realização da inspeção, será utilizado uma tabela com perguntas que irão avaliar se o artefato foi feito da maneira demandada pela disciplina, dessa forma
 tornando de facil visualização se o mesmo está correto, caso a pergunta tenha(m) sido respondida/atendida suprindo o que foi demandado da mesma, será marcado com um "🥇",
 caso não tenha(m) suprido o que foi demandado, será marcado com um "🥉", caso tenha(m) sido parcialmente suprido, será marcado com um "🥈", além disso, após a identificação
@@ -31,14 +32,10 @@ As questões utilizadas para a checklist estão logo abaixo:
 |10|A história de usuário possui Prioridade baseada em alguma técnica?||
 |11|Todas as histórias de usuárioos podem ser testadas?||
 
+Tabela 1 - Preparação das questões para inspeção
 </center>
 
-<figcaption align='center'>
-    <b>Tabela 1: Preparação das questões para inspeção </b>
-    <br><small> Fonte: Elaboração Própria </small>
-</figcaption>
-
-## **3. Inspeção/Verificação**
+## <a>Inspeção/Verificação</a>
 Checklist de inspeção do documento de [Histórias de Usuário](https://requisitos-de-software.github.io/2022.2-LinkedIn/modelagem/historias-de-usuario/) do grupo 4(LinkeDin):
 
 <center>
@@ -64,11 +61,11 @@ Checklist de inspeção do documento de [Histórias de Usuário](https://requisi
     <br><small> Fonte: Elaboração Própria </small>
 </figcaption>
 
-## **4. Resultados**
-#### **Calculo Aproveitamento:** ((100/QntExigencias) * Acertos) + (((100/QntExigencias) * Incompletos)/2) = % de Aproveitamento<br>
+## <a>Resultados</a>
+**Calculo Aproveitamento**: ((100/QntExigencias) * Acertos) + (((100/QntExigencias) * Incompletos)/2) = % de Aproveitamento<br></br>
 Pode se notar por meio da checklist realizada, que o grupo 4(LinkeDin) tem 7 de 11 das exigências, relacionadas á elaboração dos casos de uso, completas, 2 de 11 das
 exigências Incompletas, fazendo com que 2 de 11 das exigências estejam totalmente incorretas ou em falta,
 gerando um aproveitamento de aproximadamente 72,7% nesse artefato, de acordo com o calculo de aproveitamento.
-## **5. Bibliografia**
+## <a>Bibliografia</a>
 Projeto Noruh do github de requisitos de software - Planejamento da Verificação - disponivel [Aqui](https://requisitos-de-software.github.io/2022.1-Noruh/analise/verificacao/planejamento/), Acessado em: 08 de janeiro de 2023.<br><br> 
 Slides da aula “Requisitos – Aula 23” dos professores Milene Serrano e Maurício Serrano, Acessado em: 08 de janeiro de 2023

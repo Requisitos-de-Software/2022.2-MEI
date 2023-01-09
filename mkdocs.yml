@@ -84,9 +84,15 @@ nav:
       - Backlog: Modelagem/Agil/BacklogDoProduto.md
   - Análise:
     - Introdução: Analise/index.md
-    - Verificação:
-      - Introdução: Analise/Verificacao/index.md
-      - NFR: Analise/Verificacao/VerificacaoNFR.md
-      - Cenarios: Analise/Verificacao/VerificacaoCenarios.md
-    - Validação: 
-      - Introdução: Analise/Validacao/index.md
+    - Linkedin:
+      - Verificação:
+        - Introdução: Analise/Linkedin/Verificacao/index.md
+        - Backlog: Analise/Linkedin/Verificacao/VerificacaoBacklog.md
+        - Casos de uso: Analise/Linkedin/Verificacao/VerificaçãoCasosDeUso.md
+        - Cenarios: Analise/Linkedin/Verificacao/VerificacaoCenarios.md
+        - NFR: Analise/Linkedin/Verificacao/VerificacaoNFR.md
+        - Personas: Analise/Linkedin/Verificacao/VerificacaoPersonas.md
+        - Rich Picture: Analise/Linkedin/Verificacao/VerificacaoRichPicture.md
+        - User Stories: Analise/Linkedin/Verificacao/VerificaçãoUserHistories.md
+      - Validação: 
+        - Introdução: Analise/Linkedin/Validacao/index.md
