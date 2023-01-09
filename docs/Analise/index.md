@@ -23,7 +23,17 @@ Observe o loop de análise, A identificação da peça é feita entre o modelo e
 </center>
 
 ## <a>Conclusão</a>
-A coleta de dados foi fundamental para a atividade de pesquisa, já abordada no início do curso e a comunicação também foi discutida desde o início do curso, influenciando nas atividades de pré-rastreamento, pesquisa e modelagem.
+A coleta de dados foi fundamental para a atividade de pesquisa, já abordada no início do curso e a comunicação também foi discutida desde o início do curso, influenciando nas atividades de pré-rastreamento, pesquisa e modelagem.<br></br>
+
+<center>
+
+|Dessa forma, temos três tarefas fundamentais a serem conhecidas com maior profundidade:|
+|:-------------------------------------------------------------------------------------:|
+|                          <a>Identificação de Partes</a>                               |
+|                          <a>Verificação</a>                                           |
+|                          <a>Validação</a>                                             |
+
+</center>
 
 ## <a>Bibliografia</a>
 SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 23.

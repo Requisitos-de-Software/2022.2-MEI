@@ -84,6 +84,11 @@ nav:
       - Backlog: Modelagem/Agil/BacklogDoProduto.md
   - Análise:
     - Introdução: Analise/index.md
+    - Identificação De Partes: Analise/IdentificaçãoDePartes.md
+    - Verificação:
+      - Introdução: Analise/Verificacao/index.md
+    - Validação: 
+      - Introdução: Analise/Validacao/index.md
     - Linkedin:
       - Verificação:
         - Introdução: Analise/Linkedin/Verificacao/index.md
