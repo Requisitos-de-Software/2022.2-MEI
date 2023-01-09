@@ -57,4 +57,4 @@ Através do checklist realizado para a análise do Backlog do grupo 4 (LinkeDin)
 
 ## <a>Bibliografia</a>
 Projeto Noruh do github de requisitos de software - Planejamento da Verificação - disponível [Aqui](https://requisitos-de-software.github.io/2022.1-Noruh/analise/verificacao/planejamento/), Acessado em: 09 de janeiro de 2023.<br><br> 
-Slides da aula “Requisitos – Aula 15” dos professores Milene Serrano e Maurício Serrano, Acessado em: 09 de janeiro de 2023
+Slides da aula “Requisitos – Aula 23” dos professores Milene Serrano e Maurício Serrano, Acessado em: 09 de janeiro de 2023

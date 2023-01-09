@@ -4,15 +4,13 @@
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
 |09/01/2023|09/01/2023|1.0|Criação do documento| [João Lucas](https://github.com/HacKairos) | [-](https://github.com/) |
 
-
 ## <a>Introdução</a>
 Este documento tem como objetivo realizar a verificação do documento e da elaboração do [Cenários](https://requisitos-de-software.github.io/2022.2-LinkedIn/modelagem/cenarios/) do grupo número 4 do semestre 2022.2 de Requisitos de Software, referente ao aplicativo do LinkeDin, para esta verificação será utilizada a técnica de inspeção.
 
 ## <a>Metodologia</a>
 Para a realização da inspeção, será utilizado uma tabela com perguntas que irão avaliar se o artefato foi feito da maneira demandada pela disciplina, dessa forma
 tornando de fácil visualização se o mesmo está correto, caso a pergunta tenha(m) sido respondida/atendida suprindo o que foi demandado da mesma, será marcado com um "🥇",
-caso não tenha(m) suprido o que foi demandado, será marcado com um "🥉", caso tenha(m) sido parcialmente suprido, será marcado com um "🥈".
-
+caso não tenha(m) suprido o que foi demandado, será marcado com um "🥉", caso tenha(m) sido parcialmente suprido, será marcado com um "🥈".<br></br>
 
 As questões utilizadas para a checklist estão logo abaixo:
 
@@ -151,4 +149,4 @@ Através do checklist realizado para a análise dos Cenários do grupo 4 (LinkeD
 
 ## <a>Bibliografia</a>
 Projeto Noruh do github de requisitos de software - Planejamento da Verificação - disponível [Aqui](https://requisitos-de-software.github.io/2022.1-Noruh/analise/verificacao/planejamento/), Acessado em: 09 de janeiro de 2023.<br><br> 
-Slides da aula “Requisitos – Aula 15” dos professores Milene Serrano e Maurício Serrano, Acessado em: 09 de janeiro de 2023
+Slides da aula “Requisitos – Aula 23” dos professores Milene Serrano e Maurício Serrano, Acessado em: 09 de janeiro de 2023
