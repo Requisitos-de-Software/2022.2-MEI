@@ -186,6 +186,15 @@ O cronograma planejado apresenta uma versão inicial de planejamento e pode dife
 
 *Tabela 10 - Tarefas executadas para a entrega 4*<br><br>
 
+**Entrega 5**
+
+| Tarefa | Responsáveis | Entrega | Revisão | Revisor |
+| --- | --- | --- | --- | --- |
+| Verificação LinkedIn - técnicas de priorização| Ana | 09/01/2023 | 09/01/2023 |
+| Validação LinkedIn - validação informal| Ana | 09/01/2023 | 09/01/2023 |
+
+*Tabela 11 - Tarefas executadas para a entrega 5*<br><br>
+
 </center>
 
 ## <a>Bibliografia</a>

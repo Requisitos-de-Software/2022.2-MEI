@@ -92,12 +92,14 @@ nav:
     - Linkedin:
       - Verificação:
         - Introdução: Analise/Linkedin/Verificacao/index.md
+        - Rich Picture: Analise/Linkedin/Verificacao/VerificacaoRichPicture.md
+        - Personas: Analise/Linkedin/Verificacao/VerificacaoPersonas.md
         - Backlog: Analise/Linkedin/Verificacao/VerificacaoBacklog.md
         - Casos de uso: Analise/Linkedin/Verificacao/VerificaçãoCasosDeUso.md
         - Cenários: Analise/Linkedin/Verificacao/VerificacaoCenarios.md
+        - Priorização de Requisitos: Analise/Linkedin/Verificacao/VerificacaoTecnicasPriorizacao.md
         - NFR: Analise/Linkedin/Verificacao/VerificacaoNFR.md
-        - Personas: Analise/Linkedin/Verificacao/VerificacaoPersonas.md
-        - Rich Picture: Analise/Linkedin/Verificacao/VerificacaoRichPicture.md
         - User Stories: Analise/Linkedin/Verificacao/VerificaçãoUserHistories.md
       - Validação: 
         - Introdução: Analise/Linkedin/Validacao/index.md
+        - Validação Informal: Analise/Linkedin/Validacao/informal.md
