@@ -2,7 +2,7 @@
 ## <a>Histórico de Versões</a>
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
-|09/01/2023|09/01/2023|1.0|Criação do documento| [Ana Luiza](https://github.com/AnHoff) | [-](https://github.com/) |
+|09/01/2023|09/01/2023|1.0|Criação do documento| [Ana Luiza](https://github.com/AnHoff) | [Thiago Oliveira](https://github.com/Thiab394) |
 
 ## <a>Introdução</a>
 Esse documento tem o propósito de apresentar a validação informal e como foi utilizada na validação do trabalho realizado pelo grupo 4, cujo sistema escolhido foi o LinkedIn.
