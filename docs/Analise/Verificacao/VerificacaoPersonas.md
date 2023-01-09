@@ -63,8 +63,7 @@ Checklist de inspeção do documento de [Personas](https://requisitos-de-softwar
 ## **4. Resultados**
 #### **Calculo Aproveitamento:** ((100/QntExigencias) * Acertos) + (((100/QntExigencias) * Incompletos)/2) = % de Aproveitamento<br>
 Pode se notar por meio da checklist realizada, que o grupo 4(LinkeDin) tem 7 de 9 das exigências, relacionadas á elaboração das personas, completas, e as 2 restantes
-estão incompletas, tendo assim nenhum dos critérios totalmente incompletos ou errados, gerando um aproveitamento de aproximadamente 89% de acordo com o calculo de
-aproveitamento.
+estão incompletas, tendo assim nenhum dos critérios totalmente incompletos ou errados, gerando um aproveitamento de aproximadamente 89% neste artefato, de acordo com o calculo de aproveitamento.
 ## **5. Bibliografia**
 Projeto Noruh do github de requisitos de software - Verificação das personas - disponivel [Aqui](https://requisitos-de-software.github.io/2022.1-Noruh/analise/verificacao/personas/), Acessado em: 09 de janeiro de 2023.<br><br> 
 Slides da aula “Requisitos – Aula 23” dos professores Milene Serrano e Maurício Serrano, Acessado em: 09 de janeiro de 2023
