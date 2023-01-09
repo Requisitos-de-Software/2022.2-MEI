@@ -1,4 +1,4 @@
-# **Verificação Personas**
+# **Verificação Casos de Uso**
 ## **Histórico de Versões**
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
