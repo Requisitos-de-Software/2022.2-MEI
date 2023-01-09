@@ -37,7 +37,7 @@ Tabela 1 - Preparação das questões para inspeção
 
 
 ## <a>Inspeção/Verificação</a>
-Checklist de inspeção d [Especificação Suplementar](https://requisitos-de-software.github.io/2022.2-LinkedIn/modelagem/especificacao-suplementar/) do grupo 4(LinkeDin):
+Checklist de inspeção da [Especificação Suplementar](https://requisitos-de-software.github.io/2022.2-LinkedIn/modelagem/especificacao-suplementar/) do grupo 4(LinkeDin):
 
 <center>
 
