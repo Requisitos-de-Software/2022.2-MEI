@@ -56,7 +56,7 @@ Checklist de inspeção do documento de [Planejamento](https://requisitos-de-sof
 
 ## <a>Resultados</a>
 <a>**Calculo Aproveitamento**</a>: ((100/QntExigencias) * Acertos) + (((100/QntExigencias) * Incompletos)/2) = % de Aproveitamento<br></br>
-Pode se notar por meio da checklist realizada, que o grupo 4(LinkedIn) tem 6 de 6 das exigências, relacionadas aos léxicos, completas, gerando um aproveitamento 100% nesse artefato, de acordo com o calculo de aproveitamento.
+Pode se notar por meio da checklist realizada, que o grupo 4(LinkeDin) tem 6 de 12 das exigências, relacionadas á elaboração dos casos de uso, completas, 1 de 12 das exigências Incompletas, fazendo com que 5 de 12 das exigências estejam totalmente incorretas ou em falta, gerando um aproveitamento de aproximadamente 62,5% nesse artefato, de acordo com o calculo de aproveitamento.
 
 ## <a>Bibliografia</a>
 Projeto Noruh do github de requisitos de software - Planejamento da Verificação - disponível [Aqui](https://requisitos-de-software.github.io/2022.2-LinkedIn/), Acessado em: 09 de janeiro de 2023.<br><br> 
