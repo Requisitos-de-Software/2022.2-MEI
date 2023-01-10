@@ -17,7 +17,7 @@ Várias estratégias de validação de software têm sido propostas pela literat
 
 • <a>**Prototipagem**</a>.
 
-• <a>**Baseada em Ponto de Vista**</a>.
+• <a>**Análise de Pontos de Vista**</a>.
 
 ### <a>Comprovação Informal</a>
 
@@ -29,6 +29,14 @@ Existem muitas estratégias para verificação informal, mas o que todas têm em
 A prototipagem propõe diferentes tipos de protótipos para obter feedback do universo da informação.Alguns usam linguagens de alto nível (linguagens do tipo gerador aplicadas), outros usam linguagens de especificação executável.<br></br>
 A ideia básica é que, por meio da prototipagem, você pode validar seus requisitos/especificações com base nas expectativas do usuário. habilidades analíticas do leitor. 
 
+### <a>Análise de Pontos de Vista</a>
+
+Nós nos concentramos em três tipos de problemas: contradições, fatos falsos e fatos omissos. Diferentes perspectivas são consideradas.<br></br>
+Na tarefa de modelar as expectativas do usuário dentro de um universo de informações, os engenheiros de software/requisitos podem encontrar, e geralmente encontram, opiniões divergentes sobre o problema em questão. <br></br>
+Diferentes engenheiros de software/requisitos criam modelos diferentes ao modelar as expectativas do usuário com base no mesmo universo de informações. O mesmo engenheiro de software/requisitos pode usar diferentes perspectivas ao modelar o mesmo universo de informações.
+
+## <a>Conclusão</a>
+O grupo 3 do projeto MEI ao analisar essas 3 técnicas de validação, optou por utilizar as estratégias de <a>**Prototipagem**</a> e <a>**Comprovação Informal**</a> no projeto</a>. 
 
 ## <a>Bibliografia</a>
 SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 23.
