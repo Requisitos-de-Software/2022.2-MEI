@@ -100,6 +100,11 @@ nav:
         - Priorização de Requisitos: Analise/Linkedin/Verificacao/VerificacaoTecnicasPriorizacao.md
         - NFR: Analise/Linkedin/Verificacao/VerificacaoNFR.md
         - User Stories: Analise/Linkedin/Verificacao/VerificaçãoUserHistories.md
+        - Especificação Suplementar: Analise/Linkedin/Verificacao/VerificacaoEspecificacaoSuplementar.md
+        - Lexicos: Analise/Linkedin/Verificacao/VerificacaoLexicos.md
+        - Planejamento: Analise/Linkedin/Verificacao/VerificacaoPlanejamento.md
+        - Tecnicas de Elicitação: Analise/Linkedin/Verificacao/VerificacaoTecnicasElicitacao.md
+        - Tecnicas de Priorização: Analise/Linkedin/Verificacao/VerificacaoTecnicasPriorizacao.md
       - Validação: 
         - Introdução: Analise/Linkedin/Validacao/index.md
         - Validação Informal: Analise/Linkedin/Validacao/informal.md
