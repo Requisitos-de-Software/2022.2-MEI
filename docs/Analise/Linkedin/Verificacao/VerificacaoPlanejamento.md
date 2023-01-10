@@ -2,7 +2,7 @@
 ## <a>Histórico de Versões</a>
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
-|08/01/2023|09/01/2023|1.0|Criação do documento| [Pedro Lucas](https://github.com/PedroLSF) | |
+|08/01/2023|09/01/2023|1.0|Criação do documento| [Pedro Lucas](https://github.com/PedroLSF) | [Arthur Taylor](https://github.com/Eruel6)  |
 
 ## <a>Introdução</a>
 Este documento tem como objetivo realizar a verificação do documento e da elaboração do [Planejamento](https://requisitos-de-software.github.io/2022.2-LinkedIn/) do grupo número 4 do semestre 2022.2 de Requisitos de Software,grupo esse referente ao aplicativo do LinkeDin, para realizar tal verificação optamos por utilizar a técnica de "Inspeção".
