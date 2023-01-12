@@ -63,9 +63,9 @@ Checklist de inspeção da [Técnica de Elicitação](https://requisitos-de-soft
 | 7 | O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade  |    🥇       |
 | 8 | A(s) ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc).                       |    🥇       |
 | 9 | A gravação da reunião do grupo                                                                                                                |    🥈       |
-| 10 | A Especificação do Perfil do usuário possui informação de: • idade (criança, jovem, adulto, terceira idade etc.); • experiência (leigo/ novato, especialista); • atitude (tecnófilos, tecnófobos); e • tarefas primárias (compra, venda)                              |    🥉       |
+| 10 | A Especificação do Perfil do usuário possui informação de: • idade (criança, jovem, adulto, terceira idade etc.); • experiência (leigo/ novato, especialista); • atitude (tecnófilos, tecnófobos); e • tarefas primárias (compra, venda)                                                                             |    🥉       |
 | 11 | As personas foram criadas baseadas nos baseadas nos elementos característicos especificados por Courage e Baxter?                            |    🥇       |
-| 12 | Cada persona possui: • identidade: nome e sobrenome; • idade e dados demográficos; • foto; • status • objetivos • habilidades • tarefas • relacionamentos; • requisitos; • expectativas                                                                                                   |    🥇       |
+| 12 | Cada persona possui: • identidade: nome e sobrenome; • idade e dados demográficos; • foto; • status • objetivos • habilidades • tarefas • relacionamentos; • requisitos; • expectativas                                                                                                                          |    🥇       |
 | 13 | As informações de como as Personas foram elaboradas?                                                                                         |    🥇       |
 | 14 | A referência bibliográfica sobre o conteúdo de Personas e do método da construção das personas?                                              |    🥇       |
 | 15 | O Elenco de Personas? Quantas Personas no Projeto? O porquê dessa quantidade?                                                                |    🥈       |
@@ -74,7 +74,7 @@ Checklist de inspeção da [Técnica de Elicitação](https://requisitos-de-soft
 | 18 | A participação do cliente e/ou persona na elicitação de requisitos?                                                                          |    🥇       |
 | 19 | A gravação e o(s) registro(s) da elicitação dos requisitos (pré-rastreabilidade)?                                                            |    🥉       |
 | 20 | Um cronograma (data e horário) e local para realização da priorização dos requisitos com o do cliente e/ou persona do projeto?               |    🥈       |
-| 21 |  No mínimo duas técnicas de priorização (quanto mais melhor)?                                                                                |    🥇       |
+| 21 |  No mínimo duas técnicas de priorização (quanto mais melhor)? <br> MoSCoW* / 100 $* / First thing First / ROI / QFD / TQM / Outra técnica?                        <br> * A técnica de MoSCoW* / 100 $* só devem ser utilizados no projeto após a utilização de outras duas técnicas de priorização no projeto.       |    🥈       |
 | 22 | A participação do cliente e/ou persona na elicitação de requisitos?                                                                          |    🥇       |
 | 23 | A gravação e o(s) registro(s) da atividade de priorização dos requisitos?                                                                    |    🥉       |
 
@@ -84,8 +84,8 @@ Tabela 2 - Checklist da inspeção da Técnica de Elicitação
 
 ## <a>Resultados</a>
 <a>**Calculo Aproveitamento**</a>: ((100/QntExigencias) * Acertos) + (((100/QntExigencias) * Incompletos)/2) = % de Aproveitamento<br></br>
-Através do checklist realizado para a análise da Especificação Suplementar do grupo 4 (LinkeDin) podemos observar que 17 das 23 exigências são atendidas,3 das 23 
-exigências estão incompletas, fazendo com que 3 estejam totalmente incorretas ou ausentes,com isso podemos determinar o aproveitamento deste artefato em 80,43% de acordo com o cálculo apresentado acima.
+Através do checklist realizado para a análise da Especificação Suplementar do grupo 4 (LinkeDin) podemos observar que 16 das 23 exigências são atendidas,4 das 23 
+exigências estão incompletas, fazendo com que 3 estejam totalmente incorretas ou ausentes,com isso podemos determinar o aproveitamento deste artefato em 78,26% de acordo com o cálculo apresentado acima.
 
 ## <a>Bibliografia</a>
 Projeto Noruh do github de requisitos de software - Planejamento da Verificação - disponível [Aqui](https://requisitos-de-software.github.io/2022.1-Noruh/analise/verificacao/planejamento/), Acessado em: 09 de janeiro de 2023.<br><br> 
