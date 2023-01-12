@@ -41,12 +41,12 @@ O questionário também dá suporte às pesquisas realizadas, que nos dizem que,
 
 <Center>
 A seguir, na figura 1, o gráfico com base nas pesquisas que indicam a relação de sexos dentro do projeto:
-<img src='./../../assets/images/Sexo.png'><br>*Figura 1 - Gráfico de dados relacionados ao sexo*</img>
+<img src='./../../assets/images/Sexo.png'><br>*Figura 1 - Gráfico de dados relacionados ao sexo (Fonte: elaboração própria - Eduardo)*</img>
 </Center>
 <br>
 <Center>
-A seguir os objetivos dos usuários na figura 2:
-<img src='./../../assets/images/Objetivos.png'><br>*Figura 2 - Relação dos objetivos dos usuários*</img>
+A seguir, na figura 2, os objetivos dos usuários:
+<img src='./../../assets/images/Objetivos.png'><br>*Figura 2 - Relação dos objetivos dos usuários (Fonte: elaboração própria - Eduardo)*</img>
 </Center>
 
 ## <a>Bibliografia</a>

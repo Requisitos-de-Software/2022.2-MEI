@@ -11,7 +11,7 @@ Economistas criam modelos para representar o comportamento do mercado e o mesmo 
 
 Personas devem ser criadas de modo a satisfazer uma ampla gama de usuários, generalizando suas características de modo a contemplar o maior número possível de usuários identificados.
 
-O objetivo das personas é providenciar de forma precisa o modo como o usuário irá se comportar, o que ele irá pensar e o que ele deseja realizar, assim como os motivos por trás de cada ação. Para tanto, apesar de não serem reais, as personas devem ser baseadas em perfis reais de usuários. Tais perfis podem ser obtidos de diferentes maneiras, com algumas técnicas que serão utilizadas e apresentadas nesse projeto.
+O objetivo das personas é providenciar de forma precisa o modo como o usuário irá se comportar, o que ele irá pensar e o que ele deseja realizar, assim como os motivos por trás de cada ação. Para tanto, apesar de não serem reais, as personas devem ser baseadas em perfis reais de usuários. [1] Tais perfis podem ser obtidos de diferentes maneiras, com algumas técnicas que serão utilizadas e apresentadas nesse projeto.
 
 ## <a>Criação e Contribuição</a>
 Como dito previamente, personas devem ser baseadas em perfis reais. Em outras palavras, a eficácia e/ou qualidade de uma persona é diretamente proporcional à qualidade dos dados coletados sobre os usuários reais. Algumas formas de se obter tais dados são listadas abaixo.
@@ -40,6 +40,8 @@ O grupo abriu um questionário e levantou ideias com relação ao número ideal 
 
 A antipersona por sua vez deveria ser um perfil de usuário que não precisasse do MEI, então ele foi criado com base nos requisitos necessários para ser recusado como MEI, como, por exemplo, renda e serviços prestados.
 
+As imagens de 1 a 4 apresentam um aspecto físico de nossas personas.
+
 ## <a>Personas Elaboradas</a>
 <center>
   
@@ -48,7 +50,7 @@ Persona Primária
 
 <img width='200' src='./../../assets/personas/isabela.jpg'>
 
-*Imagem 1 - fonte Random User Generator*
+*Imagem 1 - fonte Random User Generator [2]*
 
 </center>
 
@@ -63,7 +65,9 @@ Persona Primária
 * **Status socioeconômico**: Classe Média;
 * **Descrição**: Começou a produzir vestuário e está começando a empreender;
 * **Motivação**: Já produzia peças de roupa para si mesma e recebeu indicações para iniciar um trabalho autônomo de confecção e venda de vestuário;
+* **Objetivo:** regularizar sua situação como microempreendedora;
 * **Expectativas**: Realizar por meio do aplicativo as etapas necessárias para se regularizar como microempreendedora, sem precisar ir até agências físicas durante o processo;
+* **Habilidades:** produzir vestuário, jogar vôlei, criar banners;
 * **Afinidade com tecnologia**: Média;
 * **Experiência prévia**: nenhuma.
 
@@ -74,7 +78,7 @@ Persona Primária
 
 <img width='200' src='./../../assets/personas/joao.jpg'>
 
-*Imagem 2 - fonte Random User Generator*
+*Imagem 2 - fonte Random User Generator [2]*
   
 </center>
 
@@ -89,7 +93,9 @@ Persona Primária
 * **Status socioeconômico**: Classe Baixa;
 * **Descrição**: Produz cerâmica para ter uma renda;
 * **Motivação**: realizou um curso profissionalizante de produção de cerâmica e precisava de uma renda;
+* **Objetivo:** acompanhar processos e status de pagamentos pelo MEI
 * **Expectativas**: Espera evitar ter que sair de casa, resolvendo todas as prestações de contas e acompanhamento de processos a partir do MEI;
+* **Habilidades:** produção de cerâmica, cuidados infantis especiais, realizar manutenção de lâmpadas e cadeados;
 * **Afinidade com tecnologia**: Alta;
 * **Experiência prévia**: média (utilizou o aplicativo com certa constância antes).
 
@@ -100,7 +106,7 @@ Persona Secundária
 
 <img width='200' src='./../../assets/personas/salete.jpg'>
 
-*Imagem 3 - fonte Random User Generator*
+*Imagem 3 - fonte Random User Generator [2]*
   
 </center>
 
@@ -115,7 +121,9 @@ Persona Secundária
 * **Status socioeconômico**: Classe Média;
 * **Descrição**: Devido a sua idade, não consegue exercer bem os trabalhos que necessitam de esforço fisíco e para se distrair começou a produzir manufaturado;
 * **Motivação**: Queria entreter-se no tempo livre e seu hobby virou uma fonte de renda extra;
+* **Objetivo:** quer se informar sobre como se tornar MEI;
 * **Expectativas**: Deseja se registrar como MEI e obter de primeira mão informações sobre esse processo;
+* **Habilidades:** produzir roupas, sandálias e bolsas manualmente, cozinhar e elaborar pequenas esculturas;
 * **Afinidade com tecnologia**: Baixa;
 * **Experiência prévia**: nenhuma.
 
@@ -126,7 +134,7 @@ Antipersona
 
 <img width='200' src='./../../assets/personas/valdemar.jpg'>
 
-*Imagem 4 - fonte Random User Generator*
+*Imagem 4 - fonte Random User Generator [2]*
 
 </center>
 
@@ -141,7 +149,9 @@ Antipersona
 * **Status socioeconômico**: classe alta;
 * **Descrição**: é dono de uma rede de escritórios de advocacia, possuindo renda extremamente alta;
 * **Motivação**: possui alguns funcionários que trabalham de forma autônoma e, por isso, decidiu aprender sobre o MEI;
+* **Objetivo:** aprender o básico sobre MEI;
 * **Expectativas**: achar informações que o torne capaz de indicar o MEI a quem precisa e não conhece o aplicativo;
+* **Habilidades:** utilizar sistemas relacionados a edição e compartilhamento de documentos, elaboração de processos judiciais e sabe jogar tênis;
 * **Afinidade com tecnologia**: alta;
 * **Experiência prévia**: nenhuma.
 
